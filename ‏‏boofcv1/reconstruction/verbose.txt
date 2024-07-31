@@ -1,0 +1,711 @@
+Verbose: SITTM- SimilarImagesTrackThenMatch
+Verbose: FSRN20 FeatureSceneRecognitionNister2006
+FSRN20  described.size=1 features=800 packed.size=800
+FSRN20  described.size=2 features=800 packed.size=1600
+FSRN20  described.size=3 features=800 packed.size=2400
+FSRN20  described.size=4 features=800 packed.size=3200
+FSRN20  described.size=5 features=800 packed.size=4000
+FSRN20  described.size=6 features=800 packed.size=4800
+FSRN20  described.size=7 features=800 packed.size=5600
+FSRN20  described.size=8 features=800 packed.size=6400
+FSRN20  described.size=9 features=800 packed.size=7200
+FSRN20  described.size=10 features=800 packed.size=8000
+FSRN20  described.size=11 features=800 packed.size=8800
+FSRN20  described.size=12 features=800 packed.size=9600
+FSRN20  described.size=13 features=800 packed.size=10400
+FSRN20  described.size=14 features=800 packed.size=11200
+FSRN20  described.size=15 features=800 packed.size=12000
+FSRN20  described.size=16 features=800 packed.size=12800
+FSRN20  described.size=17 features=800 packed.size=13600
+FSRN20  described.size=18 features=800 packed.size=14400
+FSRN20  described.size=19 features=800 packed.size=15200
+FSRN20  described.size=20 features=800 packed.size=16000
+FSRN20  described.size=21 features=758 packed.size=16758
+FSRN20  described.size=22 features=800 packed.size=17558
+FSRN20  described.size=23 features=800 packed.size=18358
+FSRN20  described.size=24 features=800 packed.size=19158
+FSRN20  described.size=25 features=800 packed.size=19958
+FSRN20  described.size=26 features=800 packed.size=20758
+FSRN20  described.size=27 features=800 packed.size=21558
+FSRN20  described.size=28 features=800 packed.size=22358
+FSRN20  described.size=29 features=800 packed.size=23158
+FSRN20  described.size=30 features=800 packed.size=23958
+FSRN20  described.size=31 features=800 packed.size=24758
+FSRN20  described.size=32 features=800 packed.size=25558
+FSRN20  described.size=33 features=800 packed.size=26358
+FSRN20  described.size=34 features=800 packed.size=27158
+FSRN20  described.size=35 features=800 packed.size=27958
+FSRN20  described.size=36 features=800 packed.size=28758
+FSRN20  described.size=37 features=800 packed.size=29558
+FSRN20  described.size=38 features=800 packed.size=30358
+FSRN20  described.size=39 features=800 packed.size=31158
+FSRN20  described.size=40 features=800 packed.size=31958
+FSRN20  described.size=41 features=800 packed.size=32758
+FSRN20  described.size=42 features=800 packed.size=33558
+FSRN20  described.size=43 features=800 packed.size=34358
+FSRN20  described.size=44 features=800 packed.size=35158
+FSRN20  described.size=45 features=800 packed.size=35958
+FSRN20  described.size=46 features=783 packed.size=36741
+FSRN20  described.size=47 features=800 packed.size=37541
+FSRN20  described.size=48 features=800 packed.size=38341
+FSRN20  described.size=49 features=800 packed.size=39141
+FSRN20  described.size=50 features=800 packed.size=39941
+FSRN20  described.size=51 features=800 packed.size=40741
+FSRN20  described.size=52 features=800 packed.size=41541
+FSRN20  packedFeatures.size=41541
+FSRN20  learning the tree
+FSRN20  Tree {bf=20 ml=4 nodes.size=11521}
+FSRN20  learning the weights
+FSRN20  Time (s): describe=0.4 cluster=9.0 weights=1.2
+FSRN20  added[0].size=800 id=0
+FSRN20  added[1].size=800 id=1
+FSRN20  added[2].size=800 id=2
+FSRN20  added[3].size=800 id=3
+FSRN20  added[4].size=800 id=4
+FSRN20  added[5].size=800 id=5
+FSRN20  added[6].size=800 id=6
+FSRN20  added[7].size=800 id=7
+FSRN20  added[8].size=800 id=8
+FSRN20  added[9].size=800 id=9
+FSRN20  added[10].size=800 id=10
+FSRN20  added[11].size=800 id=11
+FSRN20  added[12].size=800 id=12
+FSRN20  added[13].size=800 id=13
+FSRN20  added[14].size=800 id=14
+FSRN20  added[15].size=800 id=15
+FSRN20  added[16].size=800 id=16
+FSRN20  added[17].size=800 id=17
+FSRN20  added[18].size=800 id=18
+FSRN20  added[19].size=800 id=19
+FSRN20  added[20].size=758 id=20
+FSRN20  added[21].size=800 id=21
+FSRN20  added[22].size=800 id=22
+FSRN20  added[23].size=800 id=23
+FSRN20  added[24].size=800 id=24
+FSRN20  added[25].size=800 id=25
+FSRN20  added[26].size=800 id=26
+FSRN20  added[27].size=800 id=27
+FSRN20  added[28].size=800 id=28
+FSRN20  added[29].size=800 id=29
+FSRN20  added[30].size=800 id=30
+FSRN20  added[31].size=800 id=31
+FSRN20  added[32].size=800 id=32
+FSRN20  added[33].size=800 id=33
+FSRN20  added[34].size=800 id=34
+FSRN20  added[35].size=800 id=35
+FSRN20  added[36].size=800 id=36
+FSRN20  added[37].size=800 id=37
+FSRN20  added[38].size=800 id=38
+FSRN20  added[39].size=800 id=39
+FSRN20  added[40].size=800 id=40
+FSRN20  added[41].size=800 id=41
+FSRN20  added[42].size=800 id=42
+FSRN20  added[43].size=800 id=43
+FSRN20  added[44].size=800 id=44
+FSRN20  added[45].size=783 id=45
+FSRN20  added[46].size=800 id=46
+FSRN20  added[47].size=800 id=47
+FSRN20  added[48].size=800 id=48
+FSRN20  added[49].size=800 id=49
+FSRN20  added[50].size=800 id=50
+FSRN20  added[51].size=800 id=51
+FSRN20  matches.size=20 best.error=1.6662129
+SITTM-  query[0] match.size=20 similar.size=0
+FSRN20  matches.size=20 best.error=1.5539668
+SITTM-  connecting   1 to  48. matches.size=285
+SITTM-  query[1] match.size=20 similar.size=1
+FSRN20  matches.size=20 best.error=1.6071815
+SITTM-  connecting   2 to   3. matches.size=293
+SITTM-  connecting   2 to   8. matches.size=303
+SITTM-  connecting   2 to  41. matches.size=281
+SITTM-  query[2] match.size=20 similar.size=3
+FSRN20  matches.size=20 best.error=1.6071815
+SITTM-  connecting   3 to   2. matches.size=293
+SITTM-  query[3] match.size=20 similar.size=1
+FSRN20  matches.size=20 best.error=1.5079985
+SITTM-  connecting   4 to   5. matches.size=319
+SITTM-  query[4] match.size=20 similar.size=1
+FSRN20  matches.size=20 best.error=1.5079985
+SITTM-  connecting   5 to   4. matches.size=319
+SITTM-  connecting   5 to   6. matches.size=282
+SITTM-  connecting   5 to  47. matches.size=282
+SITTM-  query[5] match.size=20 similar.size=3
+FSRN20  matches.size=20 best.error=1.6488688
+SITTM-  connecting   6 to   5. matches.size=282
+SITTM-  connecting   6 to   7. matches.size=292
+SITTM-  connecting   6 to  47. matches.size=282
+SITTM-  connecting   6 to  49. matches.size=284
+SITTM-  query[6] match.size=20 similar.size=4
+FSRN20  matches.size=20 best.error=1.5860306
+SITTM-  connecting   7 to   8. matches.size=305
+SITTM-  connecting   7 to   6. matches.size=292
+SITTM-  connecting   7 to  47. matches.size=286
+SITTM-  query[7] match.size=20 similar.size=3
+FSRN20  matches.size=20 best.error=1.5860306
+SITTM-  connecting   8 to   7. matches.size=305
+SITTM-  connecting   8 to   2. matches.size=303
+SITTM-  query[8] match.size=20 similar.size=2
+FSRN20  matches.size=20 best.error=1.5736464
+SITTM-  connecting   9 to  14. matches.size=333
+SITTM-  query[9] match.size=20 similar.size=1
+FSRN20  matches.size=20 best.error=1.6677784
+SITTM-  query[10] match.size=20 similar.size=0
+FSRN20  matches.size=20 best.error=1.670598
+SITTM-  query[11] match.size=20 similar.size=0
+FSRN20  matches.size=20 best.error=1.5625278
+SITTM-  connecting  12 to  19. matches.size=319
+SITTM-  connecting  12 to  18. matches.size=302
+SITTM-  query[12] match.size=20 similar.size=2
+FSRN20  matches.size=20 best.error=1.670598
+SITTM-  query[13] match.size=20 similar.size=0
+FSRN20  matches.size=20 best.error=1.5644815
+SITTM-  connecting  14 to  15. matches.size=303
+SITTM-  connecting  14 to   9. matches.size=333
+SITTM-  connecting  14 to  21. matches.size=282
+SITTM-  connecting  14 to  47. matches.size=282
+SITTM-  connecting  14 to  49. matches.size=281
+SITTM-  query[14] match.size=20 similar.size=5
+FSRN20  matches.size=20 best.error=1.5092655
+SITTM-  connecting  15 to  16. matches.size=313
+SITTM-  connecting  15 to  14. matches.size=303
+SITTM-  query[15] match.size=20 similar.size=2
+FSRN20  matches.size=20 best.error=1.5092655
+SITTM-  connecting  16 to  15. matches.size=313
+SITTM-  query[16] match.size=20 similar.size=1
+FSRN20  matches.size=19 best.error=1.5580176
+SITTM-  connecting  17 to  23. matches.size=293
+SITTM-  connecting  17 to  24. matches.size=312
+SITTM-  query[17] match.size=19 similar.size=2
+FSRN20  matches.size=18 best.error=1.5652269
+SITTM-  connecting  18 to  12. matches.size=302
+SITTM-  query[18] match.size=18 similar.size=1
+FSRN20  matches.size=17 best.error=1.5625278
+SITTM-  connecting  19 to  12. matches.size=319
+SITTM-  connecting  19 to  25. matches.size=318
+SITTM-  query[19] match.size=17 similar.size=2
+FSRN20  matches.size=16 best.error=1.7807932
+SITTM-  query[20] match.size=16 similar.size=0
+FSRN20  matches.size=15 best.error=1.6933407
+SITTM-  connecting  21 to  14. matches.size=282
+SITTM-  query[21] match.size=15 similar.size=1
+FSRN20  matches.size=14 best.error=1.7116449
+SITTM-  query[22] match.size=14 similar.size=0
+FSRN20  matches.size=14 best.error=1.5580176
+SITTM-  connecting  23 to  17. matches.size=293
+SITTM-  query[23] match.size=14 similar.size=1
+FSRN20  matches.size=14 best.error=1.5691193
+SITTM-  connecting  24 to  17. matches.size=312
+SITTM-  query[24] match.size=14 similar.size=1
+FSRN20  matches.size=14 best.error=1.6328391
+SITTM-  connecting  25 to  19. matches.size=318
+SITTM-  connecting  25 to  29. matches.size=307
+SITTM-  query[25] match.size=14 similar.size=2
+FSRN20  matches.size=14 best.error=1.6292156
+SITTM-  connecting  26 to  29. matches.size=304
+SITTM-  query[26] match.size=14 similar.size=1
+FSRN20  matches.size=14 best.error=1.6292156
+SITTM-  query[27] match.size=14 similar.size=0
+FSRN20  matches.size=14 best.error=1.6299825
+SITTM-  connecting  28 to  30. matches.size=281
+SITTM-  query[28] match.size=14 similar.size=1
+FSRN20  matches.size=14 best.error=1.6319122
+SITTM-  connecting  29 to  26. matches.size=304
+SITTM-  connecting  29 to  25. matches.size=307
+SITTM-  query[29] match.size=14 similar.size=2
+FSRN20  matches.size=15 best.error=1.334977
+SITTM-  connecting  30 to  31. matches.size=369
+SITTM-  connecting  30 to  28. matches.size=281
+SITTM-  query[30] match.size=15 similar.size=2
+FSRN20  matches.size=16 best.error=1.334977
+SITTM-  connecting  31 to  30. matches.size=369
+SITTM-  query[31] match.size=16 similar.size=1
+FSRN20  matches.size=17 best.error=1.7157668
+SITTM-  query[32] match.size=17 similar.size=0
+FSRN20  matches.size=18 best.error=1.6333733
+SITTM-  query[33] match.size=18 similar.size=0
+FSRN20  matches.size=19 best.error=1.3959366
+SITTM-  connecting  34 to  40. matches.size=334
+SITTM-  query[34] match.size=19 similar.size=1
+FSRN20  matches.size=20 best.error=1.6586807
+SITTM-  query[35] match.size=20 similar.size=0
+FSRN20  matches.size=20 best.error=1.7353512
+SITTM-  query[36] match.size=20 similar.size=1
+FSRN20  matches.size=20 best.error=1.5375247
+SITTM-  connecting  37 to  44. matches.size=286
+SITTM-  query[37] match.size=20 similar.size=2
+FSRN20  matches.size=20 best.error=1.0472448
+SITTM-  connecting  38 to  39. matches.size=489
+SITTM-  query[38] match.size=20 similar.size=1
+FSRN20  matches.size=20 best.error=1.0472448
+SITTM-  connecting  39 to  38. matches.size=489
+SITTM-  query[39] match.size=20 similar.size=1
+FSRN20  matches.size=20 best.error=1.2468725
+SITTM-  connecting  40 to  42. matches.size=397
+SITTM-  connecting  40 to  34. matches.size=334
+SITTM-  query[40] match.size=20 similar.size=2
+FSRN20  matches.size=20 best.error=1.6195897
+SITTM-  connecting  41 to  47. matches.size=327
+SITTM-  connecting  41 to   2. matches.size=281
+SITTM-  query[41] match.size=20 similar.size=2
+FSRN20  matches.size=20 best.error=1.2468725
+SITTM-  connecting  42 to  40. matches.size=397
+SITTM-  query[42] match.size=20 similar.size=1
+FSRN20  matches.size=20 best.error=1.6747895
+SITTM-  query[43] match.size=20 similar.size=0
+FSRN20  matches.size=20 best.error=1.5375247
+SITTM-  connecting  44 to  37. matches.size=286
+SITTM-  query[44] match.size=20 similar.size=1
+FSRN20  matches.size=20 best.error=1.7561448
+SITTM-  query[45] match.size=20 similar.size=0
+FSRN20  matches.size=20 best.error=1.7090755
+SITTM-  query[46] match.size=20 similar.size=0
+FSRN20  matches.size=20 best.error=1.5339098
+SITTM-  connecting  47 to  49. matches.size=339
+SITTM-  connecting  47 to  41. matches.size=327
+SITTM-  connecting  47 to   7. matches.size=286
+SITTM-  connecting  47 to   6. matches.size=282
+SITTM-  connecting  47 to  14. matches.size=282
+SITTM-  query[47] match.size=20 similar.size=5
+FSRN20  matches.size=20 best.error=1.5399113
+SITTM-  connecting  48 to  51. matches.size=309
+SITTM-  connecting  48 to   1. matches.size=285
+SITTM-  query[48] match.size=20 similar.size=2
+FSRN20  matches.size=20 best.error=1.5339098
+SITTM-  connecting  49 to  47. matches.size=339
+SITTM-  connecting  49 to  50. matches.size=322
+SITTM-  connecting  49 to   6. matches.size=284
+SITTM-  connecting  49 to  14. matches.size=281
+SITTM-  query[49] match.size=20 similar.size=4
+FSRN20  matches.size=20 best.error=1.5533268
+SITTM-  connecting  50 to  51. matches.size=321
+SITTM-  connecting  50 to  49. matches.size=322
+SITTM-  query[50] match.size=20 similar.size=2
+FSRN20  matches.size=20 best.error=1.5399113
+SITTM-  connecting  51 to  48. matches.size=309
+SITTM-  connecting  51 to  50. matches.size=321
+SITTM-  query[51] match.size=20 similar.size=2
+Verbose: GPIG-- GeneratePairwiseImageGraph
+Verbose: SFVR-- ScoreFundamentalVsRotation
+Verbose: RTVPR- RefineTwoViewPinholeRotation
+GPIG--  total images = 52
+GPIG--  Target view='0'
+FSRN20  matches.size=20 best.error=1.6662129
+SITTM-  query[0] match.size=20 similar.size=0
+GPIG--  similar.size=0 feats.size=800
+GPIG--  Target view='1'
+FSRN20  matches.size=20 best.error=1.5539668
+SITTM-  connecting   1 to  48. matches.size=285
+SITTM-  query[1] match.size=20 similar.size=1
+GPIG--  similar.size=1 feats.size=800
+GPIG--  _ createEdge['1'] -> '48', prior: src={fx=692.8 cx=400.0 cy=225.0}  dst={fx=692.8 cx=400.0 cy=225.0} 
+RTVPR-      before=1.34e+06 after=7.52e+05 iterations=100 converged=false, view1={fx=4.1 fy=4.1, cx=259.7 cy=-279.5), view2=(fx=4.1 fy=4.1, cx=259.7 cy=-279.5) theta=3.01
+SFVR--    score=   8.25 pairs=285 inliers=165 ratio=165.00, fitR=-2 fitF=165 3d=true
+GPIG--  Target view='2'
+FSRN20  matches.size=20 best.error=1.6071815
+SITTM-  connecting   2 to   3. matches.size=293
+SITTM-  connecting   2 to   8. matches.size=303
+SITTM-  connecting   2 to  41. matches.size=281
+SITTM-  query[2] match.size=20 similar.size=3
+GPIG--  similar.size=3 feats.size=800
+GPIG--  _ createEdge['2'] -> '3', prior: src={fx=692.8 cx=400.0 cy=225.0}  dst={fx=692.8 cx=400.0 cy=225.0} 
+RTVPR-      before=8.08e+05 after=2.18e+05 iterations=43 converged=true, view1={fx=645.7 fy=645.7, cx=2585.6 cy=-2036.9), view2=(fx=645.7 fy=645.7, cx=2585.6 cy=-2036.9) theta=-1.84
+SFVR--    score=   5.05 pairs=293 inliers=101 ratio=101.00, fitR=-2 fitF=101 3d=true
+GPIG--  _ createEdge['2'] -> '8', prior: src={fx=692.8 cx=400.0 cy=225.0}  dst={fx=692.8 cx=400.0 cy=225.0} 
+RTVPR-      before=1.91e+06 after=9.87e+05 iterations=100 converged=false, view1={fx=4.6 fy=4.6, cx=419.5 cy=-56.3), view2=(fx=4.6 fy=4.6, cx=419.5 cy=-56.3) theta=11.00
+SFVR--    score=   6.95 pairs=303 inliers=139 ratio=139.00, fitR=-2 fitF=139 3d=true
+GPIG--  _ createEdge['2'] -> '41', prior: src={fx=692.8 cx=400.0 cy=225.0}  dst={fx=692.8 cx=400.0 cy=225.0} 
+RTVPR-      before=3.65e+06 after=1.08e+06 iterations=72 converged=true, view1={fx=-17.2 fy=-17.2, cx=295.0 cy=187.2), view2=(fx=-17.2 fy=-17.2, cx=295.0 cy=187.2) theta=103.67
+SFVR--    REJECTED: Inliers, pairs.size=281 inlier.size=55 < minimum.size=56
+GPIG--  Target view='3'
+FSRN20  matches.size=20 best.error=1.6955513
+SITTM-  query[3] match.size=20 similar.size=0
+GPIG--  similar.size=0 feats.size=800
+GPIG--  Target view='4'
+FSRN20  matches.size=20 best.error=1.5079985
+SITTM-  connecting   4 to   5. matches.size=319
+SITTM-  query[4] match.size=20 similar.size=1
+GPIG--  similar.size=1 feats.size=800
+GPIG--  _ createEdge['4'] -> '5', prior: src={fx=692.8 cx=400.0 cy=225.0}  dst={fx=692.8 cx=400.0 cy=225.0} 
+RTVPR-      before=2.34e+06 after=1.19e+05 iterations=38 converged=true, view1={fx=1499.3 fy=1499.3, cx=-933.0 cy=311.5), view2=(fx=1499.3 fy=1499.3, cx=-933.0 cy=311.5) theta=-14.28
+SFVR--    score=  10.40 pairs=319 inliers=208 ratio=208.00, fitR=-2 fitF=208 3d=true
+GPIG--  Target view='5'
+FSRN20  matches.size=20 best.error=1.6488688
+SITTM-  connecting   5 to   6. matches.size=282
+SITTM-  connecting   5 to  47. matches.size=282
+SITTM-  query[5] match.size=20 similar.size=2
+GPIG--  similar.size=2 feats.size=800
+GPIG--  _ createEdge['5'] -> '6', prior: src={fx=692.8 cx=400.0 cy=225.0}  dst={fx=692.8 cx=400.0 cy=225.0} 
+RTVPR-      before=3.01e+06 after=6.25e+05 iterations=100 converged=false, view1={fx=24118.7 fy=24118.7, cx=25793.6 cy=1096.8), view2=(fx=24118.7 fy=24118.7, cx=25793.6 cy=1096.8) theta=-46.93
+SFVR--    score=   4.40 pairs=282 inliers=88 ratio= 88.00, fitR=-2 fitF=88 3d=true
+GPIG--  _ createEdge['5'] -> '47', prior: src={fx=692.8 cx=400.0 cy=225.0}  dst={fx=692.8 cx=400.0 cy=225.0} 
+RTVPR-      before=2.80e+06 after=1.96e+06 iterations=100 converged=false, view1={fx=5.1 fy=5.1, cx=309.4 cy=67.8), view2=(fx=5.1 fy=5.1, cx=309.4 cy=67.8) theta=18.84
+SFVR--    REJECTED: Inliers, pairs.size=282 inlier.size=54 < minimum.size=56
+GPIG--  Target view='6'
+FSRN20  matches.size=20 best.error=1.6572784
+SITTM-  connecting   6 to   7. matches.size=292
+SITTM-  connecting   6 to  47. matches.size=282
+SITTM-  connecting   6 to  49. matches.size=284
+SITTM-  query[6] match.size=20 similar.size=3
+GPIG--  similar.size=3 feats.size=800
+GPIG--  _ createEdge['6'] -> '7', prior: src={fx=692.8 cx=400.0 cy=225.0}  dst={fx=692.8 cx=400.0 cy=225.0} 
+RTVPR-      before=2.45e+06 after=2.95e+05 iterations=18 converged=true, view1={fx=603.6 fy=603.6, cx=1055.2 cy=158.6), view2=(fx=603.6 fy=603.6, cx=1055.2 cy=158.6) theta=-36.87
+SFVR--    score=   4.00 pairs=292 inliers=80 ratio= 80.00, fitR=-2 fitF=80 3d=true
+GPIG--  _ createEdge['6'] -> '47', prior: src={fx=692.8 cx=400.0 cy=225.0}  dst={fx=692.8 cx=400.0 cy=225.0} 
+RTVPR-      before=1.85e+06 after=1.10e+06 iterations=100 converged=false, view1={fx=6.0 fy=6.0, cx=179.7 cy=290.2), view2=(fx=6.0 fy=6.0, cx=179.7 cy=290.2) theta=30.15
+SFVR--    REJECTED: Inliers, pairs.size=282 inlier.size=43 < minimum.size=56
+GPIG--  _ createEdge['6'] -> '49', prior: src={fx=692.8 cx=400.0 cy=225.0}  dst={fx=692.8 cx=400.0 cy=225.0} 
+RTVPR-      before=3.57e+06 after=1.51e+06 iterations=100 converged=false, view1={fx=0.4 fy=0.4, cx=442.2 cy=304.4), view2=(fx=0.4 fy=0.4, cx=442.2 cy=304.4) theta=-49.60
+SFVR--    REJECTED: Inliers, pairs.size=284 inlier.size=56 < minimum.size=57
+GPIG--  Target view='7'
+FSRN20  matches.size=20 best.error=1.5860306
+SITTM-  connecting   7 to   8. matches.size=305
+SITTM-  connecting   7 to  47. matches.size=286
+SITTM-  query[7] match.size=20 similar.size=2
+GPIG--  similar.size=2 feats.size=800
+GPIG--  _ createEdge['7'] -> '8', prior: src={fx=692.8 cx=400.0 cy=225.0}  dst={fx=692.8 cx=400.0 cy=225.0} 
+RTVPR-      before=3.61e+06 after=2.40e+06 iterations=100 converged=false, view1={fx=3.5 fy=3.5, cx=112.1 cy=187.3), view2=(fx=3.5 fy=3.5, cx=112.1 cy=187.3) theta=-14.21
+SFVR--    score=   7.05 pairs=305 inliers=141 ratio=141.00, fitR=0 fitF=141 3d=true
+GPIG--  _ createEdge['7'] -> '47', prior: src={fx=692.8 cx=400.0 cy=225.0}  dst={fx=692.8 cx=400.0 cy=225.0} 
+RTVPR-      before=3.16e+06 after=1.73e+06 iterations=100 converged=false, view1={fx=5.0 fy=5.0, cx=521.2 cy=110.5), view2=(fx=5.0 fy=5.0, cx=521.2 cy=110.5) theta=-40.57
+SFVR--    score=   2.90 pairs=286 inliers=58 ratio= 58.00, fitR=0 fitF=58 3d=true
+GPIG--  Target view='8'
+FSRN20  matches.size=20 best.error=1.7089673
+SITTM-  query[8] match.size=20 similar.size=0
+GPIG--  similar.size=0 feats.size=800
+GPIG--  Target view='9'
+FSRN20  matches.size=20 best.error=1.5736464
+SITTM-  connecting   9 to  14. matches.size=333
+SITTM-  query[9] match.size=20 similar.size=1
+GPIG--  similar.size=1 feats.size=800
+GPIG--  _ createEdge['9'] -> '14', prior: src={fx=692.8 cx=400.0 cy=225.0}  dst={fx=692.8 cx=400.0 cy=225.0} 
+RTVPR-      before=1.61e+06 after=5.50e+05 iterations=100 converged=false, view1={fx=7101.8 fy=7101.8, cx=2062.1 cy=-485497.5), view2=(fx=7101.8 fy=7101.8, cx=2062.1 cy=-485497.5) theta=-0.21
+SFVR--    score=   7.35 pairs=333 inliers=147 ratio=147.00, fitR=-2 fitF=147 3d=true
+GPIG--  Target view='10'
+FSRN20  matches.size=19 best.error=1.6677784
+SITTM-  query[10] match.size=19 similar.size=0
+GPIG--  similar.size=0 feats.size=800
+GPIG--  Target view='11'
+FSRN20  matches.size=18 best.error=1.670598
+SITTM-  query[11] match.size=18 similar.size=0
+GPIG--  similar.size=0 feats.size=800
+GPIG--  Target view='12'
+FSRN20  matches.size=17 best.error=1.5625278
+SITTM-  connecting  12 to  19. matches.size=319
+SITTM-  connecting  12 to  18. matches.size=302
+SITTM-  query[12] match.size=17 similar.size=2
+GPIG--  similar.size=2 feats.size=800
+GPIG--  _ createEdge['12'] -> '19', prior: src={fx=692.8 cx=400.0 cy=225.0}  dst={fx=692.8 cx=400.0 cy=225.0} 
+RTVPR-      before=9.88e+05 after=1.38e+05 iterations=100 converged=false, view1={fx=50.3 fy=50.3, cx=2492.6 cy=-1718.3), view2=(fx=50.3 fy=50.3, cx=2492.6 cy=-1718.3) theta=-1.70
+SFVR--    score=   6.80 pairs=319 inliers=136 ratio=136.00, fitR=-2 fitF=136 3d=true
+GPIG--  _ createEdge['12'] -> '18', prior: src={fx=692.8 cx=400.0 cy=225.0}  dst={fx=692.8 cx=400.0 cy=225.0} 
+RTVPR-      before=2.01e+06 after=1.23e+06 iterations=100 converged=false, view1={fx=2.3 fy=2.3, cx=374.8 cy=-79.6), view2=(fx=2.3 fy=2.3, cx=374.8 cy=-79.6) theta=3.24
+SFVR--    score=   6.05 pairs=302 inliers=121 ratio=121.00, fitR=-2 fitF=121 3d=true
+GPIG--  Target view='13'
+FSRN20  matches.size=16 best.error=1.6890922
+SITTM-  query[13] match.size=16 similar.size=0
+GPIG--  similar.size=0 feats.size=800
+GPIG--  Target view='14'
+FSRN20  matches.size=15 best.error=1.5644815
+SITTM-  connecting  14 to  15. matches.size=303
+SITTM-  connecting  14 to  21. matches.size=282
+SITTM-  connecting  14 to  47. matches.size=282
+SITTM-  connecting  14 to  49. matches.size=281
+SITTM-  query[14] match.size=15 similar.size=4
+GPIG--  similar.size=4 feats.size=800
+GPIG--  _ createEdge['14'] -> '15', prior: src={fx=692.8 cx=400.0 cy=225.0}  dst={fx=692.8 cx=400.0 cy=225.0} 
+RTVPR-      before=1.91e+06 after=1.41e+06 iterations=100 converged=false, view1={fx=9.8 fy=9.8, cx=287.0 cy=908.6), view2=(fx=9.8 fy=9.8, cx=287.0 cy=908.6) theta=-1.21
+SFVR--    score=   6.90 pairs=303 inliers=138 ratio=138.00, fitR=-2 fitF=138 3d=true
+GPIG--  _ createEdge['14'] -> '21', prior: src={fx=692.8 cx=400.0 cy=225.0}  dst={fx=692.8 cx=400.0 cy=225.0} 
+RTVPR-      before=1.96e+06 after=1.45e+06 iterations=100 converged=false, view1={fx=4.1 fy=4.1, cx=420.0 cy=82.9), view2=(fx=4.1 fy=4.1, cx=420.0 cy=82.9) theta=5.97
+SFVR--    score=   2.80 pairs=282 inliers=56 ratio= 56.00, fitR=0 fitF=56 3d=true
+GPIG--  _ createEdge['14'] -> '47', prior: src={fx=692.8 cx=400.0 cy=225.0}  dst={fx=692.8 cx=400.0 cy=225.0} 
+RTVPR-      before=3.71e+06 after=1.95e+06 iterations=100 converged=false, view1={fx=5.6 fy=5.6, cx=460.8 cy=74.8), view2=(fx=5.6 fy=5.6, cx=460.8 cy=74.8) theta=114.93
+SFVR--    score=   3.10 pairs=282 inliers=62 ratio= 62.00, fitR=0 fitF=62 3d=true
+GPIG--  _ createEdge['14'] -> '49', prior: src={fx=692.8 cx=400.0 cy=225.0}  dst={fx=692.8 cx=400.0 cy=225.0} 
+RTVPR-      before=3.16e+06 after=1.97e+06 iterations=100 converged=false, view1={fx=5.0 fy=5.0, cx=334.5 cy=77.4), view2=(fx=5.0 fy=5.0, cx=334.5 cy=77.4) theta=-11.18
+SFVR--    score=   3.10 pairs=281 inliers=62 ratio= 62.00, fitR=0 fitF=62 3d=true
+GPIG--  Target view='15'
+FSRN20  matches.size=14 best.error=1.5092655
+SITTM-  connecting  15 to  16. matches.size=313
+SITTM-  query[15] match.size=14 similar.size=1
+GPIG--  similar.size=1 feats.size=800
+GPIG--  _ createEdge['15'] -> '16', prior: src={fx=692.8 cx=400.0 cy=225.0}  dst={fx=692.8 cx=400.0 cy=225.0} 
+RTVPR-      before=1.68e+06 after=1.06e+06 iterations=100 converged=false, view1={fx=5.7 fy=5.7, cx=938.0 cy=660.5), view2=(fx=5.7 fy=5.7, cx=938.0 cy=660.5) theta=-5.37
+SFVR--    score=   8.05 pairs=313 inliers=161 ratio=161.00, fitR=-2 fitF=161 3d=true
+GPIG--  Target view='16'
+FSRN20  matches.size=13 best.error=1.729533
+SITTM-  query[16] match.size=13 similar.size=0
+GPIG--  similar.size=0 feats.size=800
+GPIG--  Target view='17'
+FSRN20  matches.size=12 best.error=1.5580176
+SITTM-  connecting  17 to  23. matches.size=293
+SITTM-  connecting  17 to  24. matches.size=312
+SITTM-  query[17] match.size=12 similar.size=2
+GPIG--  similar.size=2 feats.size=800
+GPIG--  _ createEdge['17'] -> '23', prior: src={fx=692.8 cx=400.0 cy=225.0}  dst={fx=692.8 cx=400.0 cy=225.0} 
+RTVPR-      before=1.18e+06 after=9.74e+04 iterations=55 converged=true, view1={fx=461.9 fy=461.9, cx=389.3 cy=-204.7), view2=(fx=461.9 fy=461.9, cx=389.3 cy=-204.7) theta=9.94
+SFVR--    score=   7.80 pairs=293 inliers=156 ratio=156.00, fitR=-2 fitF=156 3d=true
+GPIG--  _ createEdge['17'] -> '24', prior: src={fx=692.8 cx=400.0 cy=225.0}  dst={fx=692.8 cx=400.0 cy=225.0} 
+RTVPR-      before=1.70e+06 after=6.29e+05 iterations=24 converged=true, view1={fx=385.7 fy=385.7, cx=345.5 cy=202.8), view2=(fx=385.7 fy=385.7, cx=345.5 cy=202.8) theta=-17.82
+SFVR--    score=   7.45 pairs=312 inliers=149 ratio=149.00, fitR=0 fitF=149 3d=true
+GPIG--  Target view='18'
+FSRN20  matches.size=11 best.error=1.7127423
+SITTM-  query[18] match.size=11 similar.size=0
+GPIG--  similar.size=0 feats.size=800
+GPIG--  Target view='19'
+FSRN20  matches.size=10 best.error=1.6328391
+SITTM-  connecting  19 to  25. matches.size=318
+SITTM-  query[19] match.size=10 similar.size=1
+GPIG--  similar.size=1 feats.size=800
+GPIG--  _ createEdge['19'] -> '25', prior: src={fx=692.8 cx=400.0 cy=225.0}  dst={fx=692.8 cx=400.0 cy=225.0} 
+RTVPR-      before=1.36e+06 after=1.10e+05 iterations=26 converged=true, view1={fx=1362.6 fy=1362.6, cx=1506.2 cy=-1069.7), view2=(fx=1362.6 fy=1362.6, cx=1506.2 cy=-1069.7) theta=-9.00
+SFVR--    score=   6.25 pairs=318 inliers=125 ratio=125.00, fitR=-2 fitF=125 3d=true
+GPIG--  Target view='20'
+FSRN20  matches.size=9 best.error=1.7807932
+SITTM-  query[20] match.size=9 similar.size=0
+GPIG--  similar.size=0 feats.size=758
+GPIG--  Target view='21'
+FSRN20  matches.size=8 best.error=1.7116449
+SITTM-  query[21] match.size=8 similar.size=0
+GPIG--  similar.size=0 feats.size=800
+GPIG--  Target view='22'
+FSRN20  matches.size=7 best.error=1.7653838
+SITTM-  query[22] match.size=7 similar.size=0
+GPIG--  similar.size=0 feats.size=800
+GPIG--  Target view='23'
+FSRN20  matches.size=7 best.error=1.7283744
+SITTM-  query[23] match.size=7 similar.size=0
+GPIG--  similar.size=0 feats.size=800
+GPIG--  Target view='24'
+FSRN20  matches.size=7 best.error=1.7373375
+SITTM-  query[24] match.size=7 similar.size=0
+GPIG--  similar.size=0 feats.size=800
+GPIG--  Target view='25'
+FSRN20  matches.size=7 best.error=1.6465356
+SITTM-  connecting  25 to  29. matches.size=307
+SITTM-  query[25] match.size=7 similar.size=1
+GPIG--  similar.size=1 feats.size=800
+GPIG--  _ createEdge['25'] -> '29', prior: src={fx=692.8 cx=400.0 cy=225.0}  dst={fx=692.8 cx=400.0 cy=225.0} 
+RTVPR-      before=1.11e+06 after=6.81e+05 iterations=100 converged=false, view1={fx=1.7 fy=1.7, cx=269.2 cy=389.6), view2=(fx=1.7 fy=1.7, cx=269.2 cy=389.6) theta=-12.60
+SFVR--    score=   4.60 pairs=307 inliers=92 ratio= 92.00, fitR=1 fitF=92 3d=true
+GPIG--  Target view='26'
+FSRN20  matches.size=7 best.error=1.6292156
+SITTM-  connecting  26 to  29. matches.size=304
+SITTM-  query[26] match.size=7 similar.size=1
+GPIG--  similar.size=1 feats.size=800
+GPIG--  _ createEdge['26'] -> '29', prior: src={fx=692.8 cx=400.0 cy=225.0}  dst={fx=692.8 cx=400.0 cy=225.0} 
+RTVPR-      before=2.90e+06 after=2.10e+06 iterations=100 converged=false, view1={fx=6.1 fy=6.1, cx=399.5 cy=-47.1), view2=(fx=6.1 fy=6.1, cx=399.5 cy=-47.1) theta=6.04
+SFVR--    score=   5.20 pairs=304 inliers=104 ratio=104.00, fitR=-2 fitF=104 3d=true
+GPIG--  Target view='27'
+FSRN20  matches.size=7 best.error=1.6299825
+SITTM-  query[27] match.size=7 similar.size=0
+GPIG--  similar.size=0 feats.size=800
+GPIG--  Target view='28'
+FSRN20  matches.size=7 best.error=1.6657867
+SITTM-  connecting  28 to  30. matches.size=281
+SITTM-  query[28] match.size=7 similar.size=1
+GPIG--  similar.size=1 feats.size=800
+GPIG--  _ createEdge['28'] -> '30', prior: src={fx=692.8 cx=400.0 cy=225.0}  dst={fx=692.8 cx=400.0 cy=225.0} 
+RTVPR-      before=1.05e+06 after=9.57e+04 iterations=100 converged=false, view1={fx=92.0 fy=92.0, cx=625.4 cy=-968.9), view2=(fx=92.0 fy=92.0, cx=625.4 cy=-968.9) theta=-1.23
+SFVR--    score=   4.30 pairs=281 inliers=86 ratio= 86.00, fitR=-2 fitF=86 3d=true
+GPIG--  Target view='29'
+FSRN20  matches.size=7 best.error=1.7706571
+SITTM-  query[29] match.size=7 similar.size=0
+GPIG--  similar.size=0 feats.size=800
+GPIG--  Target view='30'
+FSRN20  matches.size=7 best.error=1.334977
+SITTM-  connecting  30 to  31. matches.size=369
+SITTM-  query[30] match.size=7 similar.size=1
+GPIG--  similar.size=1 feats.size=800
+GPIG--  _ createEdge['30'] -> '31', prior: src={fx=692.8 cx=400.0 cy=225.0}  dst={fx=692.8 cx=400.0 cy=225.0} 
+RTVPR-      before=7.00e+05 after=7.42e+04 iterations=100 converged=false, view1={fx=26.2 fy=26.2, cx=-619.6 cy=-120.3), view2=(fx=26.2 fy=26.2, cx=-619.6 cy=-120.3) theta=-2.94
+SFVR--    score=  13.40 pairs=369 inliers=268 ratio=268.00, fitR=-2 fitF=268 3d=true
+GPIG--  Target view='31'
+FSRN20  matches.size=7 best.error=1.7741281
+SITTM-  query[31] match.size=7 similar.size=0
+GPIG--  similar.size=0 feats.size=800
+GPIG--  Target view='32'
+FSRN20  matches.size=7 best.error=1.7560316
+SITTM-  query[32] match.size=7 similar.size=0
+GPIG--  similar.size=0 feats.size=800
+GPIG--  Target view='33'
+FSRN20  matches.size=7 best.error=1.6896039
+SITTM-  query[33] match.size=7 similar.size=0
+GPIG--  similar.size=0 feats.size=800
+GPIG--  Target view='34'
+FSRN20  matches.size=7 best.error=1.3959366
+SITTM-  connecting  34 to  40. matches.size=334
+SITTM-  query[34] match.size=7 similar.size=1
+GPIG--  similar.size=1 feats.size=800
+GPIG--  _ createEdge['34'] -> '40', prior: src={fx=692.8 cx=400.0 cy=225.0}  dst={fx=692.8 cx=400.0 cy=225.0} 
+RTVPR-      before=2.83e+06 after=1.44e+06 iterations=100 converged=false, view1={fx=16.3 fy=16.3, cx=97463.2 cy=-53569.7), view2=(fx=16.3 fy=16.3, cx=97463.2 cy=-53569.7) theta=-0.04
+SFVR--    score=   9.40 pairs=334 inliers=188 ratio=188.00, fitR=-2 fitF=188 3d=true
+GPIG--  Target view='35'
+FSRN20  matches.size=7 best.error=1.7200905
+SITTM-  query[35] match.size=7 similar.size=0
+GPIG--  similar.size=0 feats.size=800
+GPIG--  Target view='36'
+FSRN20  matches.size=6 best.error=1.7353512
+SITTM-  query[36] match.size=6 similar.size=1
+GPIG--  similar.size=1 feats.size=800
+GPIG--  _ createEdge['36'] -> '37', prior: src={fx=692.8 cx=400.0 cy=225.0}  dst={fx=692.8 cx=400.0 cy=225.0} 
+RTVPR-      before=4.62e+05 after=6.74e+03 iterations=47 converged=true, view1={fx=1633.8 fy=1633.8, cx=-1014.8 cy=309.9), view2=(fx=1633.8 fy=1633.8, cx=-1014.8 cy=309.9) theta=-0.96
+SFVR--    score=  28.25 pairs=577 inliers=565 ratio=565.00, fitR=-2 fitF=565 3d=true
+GPIG--  Target view='37'
+FSRN20  matches.size=7 best.error=1.5375247
+SITTM-  connecting  37 to  44. matches.size=286
+SITTM-  query[37] match.size=7 similar.size=1
+GPIG--  similar.size=1 feats.size=800
+GPIG--  _ createEdge['37'] -> '44', prior: src={fx=692.8 cx=400.0 cy=225.0}  dst={fx=692.8 cx=400.0 cy=225.0} 
+RTVPR-      before=2.74e+05 after=3.03e+04 iterations=100 converged=false, view1={fx=7.4 fy=7.4, cx=-55.2 cy=173.8), view2=(fx=7.4 fy=7.4, cx=-55.2 cy=173.8) theta=0.89
+SFVR--    score=   6.85 pairs=286 inliers=137 ratio=137.00, fitR=-2 fitF=137 3d=true
+GPIG--  Target view='38'
+FSRN20  matches.size=7 best.error=1.0472448
+SITTM-  connecting  38 to  39. matches.size=489
+SITTM-  query[38] match.size=7 similar.size=1
+GPIG--  similar.size=1 feats.size=800
+GPIG--  _ createEdge['38'] -> '39', prior: src={fx=692.8 cx=400.0 cy=225.0}  dst={fx=692.8 cx=400.0 cy=225.0} 
+RTVPR-      before=1.49e+06 after=4.73e+04 iterations=7 converged=true, view1={fx=686.2 fy=686.2, cx=389.0 cy=138.1), view2=(fx=686.2 fy=686.2, cx=389.0 cy=138.1) theta=6.64
+SFVR--    score=   3.32 pairs=489 inliers=448 ratio=  1.48, fitR=302 fitF=448 3d=true
+GPIG--  Target view='39'
+FSRN20  matches.size=7 best.error=1.7337232
+SITTM-  query[39] match.size=7 similar.size=0
+GPIG--  similar.size=0 feats.size=800
+GPIG--  Target view='40'
+FSRN20  matches.size=7 best.error=1.2468725
+SITTM-  connecting  40 to  42. matches.size=397
+SITTM-  query[40] match.size=7 similar.size=1
+GPIG--  similar.size=1 feats.size=800
+GPIG--  _ createEdge['40'] -> '42', prior: src={fx=692.8 cx=400.0 cy=225.0}  dst={fx=692.8 cx=400.0 cy=225.0} 
+RTVPR-      before=2.63e+06 after=1.04e+05 iterations=13 converged=true, view1={fx=618.4 fy=618.4, cx=383.5 cy=226.0), view2=(fx=618.4 fy=618.4, cx=383.5 cy=226.0) theta=11.59
+SFVR--    score=  15.35 pairs=397 inliers=307 ratio= 18.06, fitR=17 fitF=307 3d=true
+GPIG--  Target view='41'
+FSRN20  matches.size=7 best.error=1.6195897
+SITTM-  connecting  41 to  47. matches.size=327
+SITTM-  query[41] match.size=7 similar.size=1
+GPIG--  similar.size=1 feats.size=800
+GPIG--  _ createEdge['41'] -> '47', prior: src={fx=692.8 cx=400.0 cy=225.0}  dst={fx=692.8 cx=400.0 cy=225.0} 
+RTVPR-      before=1.80e+06 after=1.14e+06 iterations=100 converged=false, view1={fx=13.2 fy=13.2, cx=167.5 cy=1309.5), view2=(fx=13.2 fy=13.2, cx=167.5 cy=1309.5) theta=-0.93
+SFVR--    score=   6.85 pairs=327 inliers=137 ratio=137.00, fitR=-2 fitF=137 3d=true
+GPIG--  Target view='42'
+FSRN20  matches.size=7 best.error=1.774031
+SITTM-  query[42] match.size=7 similar.size=0
+GPIG--  similar.size=0 feats.size=800
+GPIG--  Target view='43'
+FSRN20  matches.size=7 best.error=1.6747895
+SITTM-  query[43] match.size=7 similar.size=0
+GPIG--  similar.size=0 feats.size=800
+GPIG--  Target view='44'
+FSRN20  matches.size=7 best.error=1.7865478
+SITTM-  query[44] match.size=7 similar.size=0
+GPIG--  similar.size=0 feats.size=800
+GPIG--  Target view='45'
+FSRN20  matches.size=6 best.error=1.7589267
+SITTM-  query[45] match.size=6 similar.size=0
+GPIG--  similar.size=0 feats.size=783
+GPIG--  Target view='46'
+FSRN20  matches.size=5 best.error=1.7090755
+SITTM-  query[46] match.size=5 similar.size=0
+GPIG--  similar.size=0 feats.size=800
+GPIG--  Target view='47'
+FSRN20  matches.size=4 best.error=1.5339098
+SITTM-  connecting  47 to  49. matches.size=339
+SITTM-  query[47] match.size=4 similar.size=1
+GPIG--  similar.size=1 feats.size=800
+GPIG--  _ createEdge['47'] -> '49', prior: src={fx=692.8 cx=400.0 cy=225.0}  dst={fx=692.8 cx=400.0 cy=225.0} 
+RTVPR-      before=9.01e+05 after=2.33e+05 iterations=100 converged=false, view1={fx=152.0 fy=152.0, cx=-1004.5 cy=-2257.0), view2=(fx=152.0 fy=152.0, cx=-1004.5 cy=-2257.0) theta=-1.21
+SFVR--    score=   6.95 pairs=339 inliers=139 ratio=139.00, fitR=-2 fitF=139 3d=true
+GPIG--  Target view='48'
+FSRN20  matches.size=3 best.error=1.5399113
+SITTM-  connecting  48 to  51. matches.size=309
+SITTM-  query[48] match.size=3 similar.size=1
+GPIG--  similar.size=1 feats.size=800
+GPIG--  _ createEdge['48'] -> '51', prior: src={fx=692.8 cx=400.0 cy=225.0}  dst={fx=692.8 cx=400.0 cy=225.0} 
+RTVPR-      before=9.30e+05 after=2.88e+05 iterations=100 converged=false, view1={fx=11.3 fy=11.3, cx=568.8 cy=-361.8), view2=(fx=11.3 fy=11.3, cx=568.8 cy=-361.8) theta=2.50
+SFVR--    score=   7.05 pairs=309 inliers=141 ratio=141.00, fitR=-2 fitF=141 3d=true
+GPIG--  Target view='49'
+FSRN20  matches.size=2 best.error=1.6046666
+SITTM-  connecting  49 to  50. matches.size=322
+SITTM-  query[49] match.size=2 similar.size=1
+GPIG--  similar.size=1 feats.size=800
+GPIG--  _ createEdge['49'] -> '50', prior: src={fx=692.8 cx=400.0 cy=225.0}  dst={fx=692.8 cx=400.0 cy=225.0} 
+RTVPR-      before=7.41e+05 after=1.75e+04 iterations=100 converged=false, view1={fx=34.4 fy=34.4, cx=617.4 cy=-585.9), view2=(fx=34.4 fy=34.4, cx=617.4 cy=-585.9) theta=-1.85
+SFVR--    score=   6.00 pairs=322 inliers=120 ratio=120.00, fitR=-2 fitF=120 3d=true
+GPIG--  Target view='50'
+FSRN20  matches.size=1 best.error=1.5533268
+SITTM-  connecting  50 to  51. matches.size=321
+SITTM-  query[50] match.size=1 similar.size=1
+GPIG--  similar.size=1 feats.size=800
+GPIG--  _ createEdge['50'] -> '51', prior: src={fx=692.8 cx=400.0 cy=225.0}  dst={fx=692.8 cx=400.0 cy=225.0} 
+RTVPR-      before=1.34e+06 after=7.19e+05 iterations=100 converged=false, view1={fx=19.1 fy=19.1, cx=968.6 cy=-488.1), view2=(fx=19.1 fy=19.1, cx=968.6 cy=-488.1) theta=-4.64
+SFVR--    score=   5.75 pairs=321 inliers=115 ratio=115.00, fitR=-2 fitF=115 3d=true
+GPIG--  Target view='51'
+SITTM-  query[51] match.size=0 similar.size=0
+GPIG--  similar.size=0 feats.size=800
+Verbose: MFUPG- MetricFromUncalibratedPairwiseGraph
+Verbose: MSSFV- MetricSpawnSceneFromView
+Verbose: ICM--- InitializeCommonMetric
+Verbose: TVEMS- ThreeViewEstimateMetricScene
+Verbose: MSC--- MetricSanityChecks
+Verbose: MEBOV- MetricExpandByOneView
+Verbose: EVKC-- EstimateViewKnownCalibration
+Verbose: MSC--- MetricSanityChecks
+Verbose: MBAU-- MetricBundleAdjustmentUtils
+Verbose: EVSC-- EstimateViewSelfCalibrate
+Verbose: MSC--- MetricSanityChecks
+Verbose: RMWG-- RefineMetricWorkingGraph
+Verbose: MBAU-- MetricBundleAdjustmentUtils
+Verbose: SMO--- SceneMergingOperations
+Verbose: RSSA-- ResolveSceneScaleAmbiguity
+Verbose: RMGS-- RefineMetricGraphSubset
+Verbose: RMWG-- RefineMetricWorkingGraph
+Verbose: MBAU-- MetricBundleAdjustmentUtils
+Verbose: MMS--- MetricMergeScenes
+Verbose: MSC--- MetricSanityChecks
+Verbose: RMWG-- RefineMetricWorkingGraph
+Verbose: MBAU-- MetricBundleAdjustmentUtils
+MFUPG-  Select Seeds: candidates.size=52 scores=(0.00 - 28.25)
+ICM---      ENTER projectiveSceneN: seed='37' common.size=0 conn.size=1
+ICM---      2-views, a.k.a. stereo, is a special case and requires different logic and isn't yet supported
+MSSFV-    FAILED: Initialize projective scene
+MFUPG-  FAILED: Spawn view.id='37', remaining=51
+ICM---      ENTER projectiveSceneN: seed='36' common.size=0 conn.size=1
+ICM---      2-views, a.k.a. stereo, is a special case and requires different logic and isn't yet supported
+MSSFV-    FAILED: Initialize projective scene
+MFUPG-  FAILED: Spawn view.id='36', remaining=50
+ICM---      ENTER projectiveSceneN: seed='42' common.size=0 conn.size=1
+ICM---      2-views, a.k.a. stereo, is a special case and requires different logic and isn't yet supported
+MSSFV-    FAILED: Initialize projective scene
+MFUPG-  FAILED: Spawn view.id='42', remaining=49
+ICM---      ENTER projectiveSceneN: seed='40' common.size=0 conn.size=1
+ICM---      2-views, a.k.a. stereo, is a special case and requires different logic and isn't yet supported
+MSSFV-    FAILED: Initialize projective scene
+MFUPG-  FAILED: Spawn view.id='40', remaining=48
+ICM---      ENTER projectiveSceneN: seed='31' common.size=0 conn.size=1
+ICM---      2-views, a.k.a. stereo, is a special case and requires different logic and isn't yet supported
+MSSFV-    FAILED: Initialize projective scene
+MFUPG-  FAILED: Spawn view.id='31', remaining=47
+ICM---      ENTER projectiveSceneN: seed='30' common.size=0 conn.size=1
+ICM---      2-views, a.k.a. stereo, is a special case and requires different logic and isn't yet supported
+MSSFV-    FAILED: Initialize projective scene
+MFUPG-  FAILED: Spawn view.id='30', remaining=46
+ICM---      ENTER projectiveSceneN: seed='5' common.size=0 conn.size=1
+ICM---      2-views, a.k.a. stereo, is a special case and requires different logic and isn't yet supported
+MSSFV-    FAILED: Initialize projective scene
+MFUPG-  FAILED: Spawn view.id='5', remaining=45
+ICM---      ENTER projectiveSceneN: seed='4' common.size=0 conn.size=1
+ICM---      2-views, a.k.a. stereo, is a special case and requires different logic and isn't yet supported
+MSSFV-    FAILED: Initialize projective scene
+MFUPG-  FAILED: Spawn view.id='4', remaining=44
+ICM---      ENTER projectiveSceneN: seed='49' common.size=0 conn.size=2
+ICM---      Selected Triplet: seed='49' viewB='47' viewC='14' common.size=0 connections.size=2
+ICM---      FAILED: No common features found
+MSSFV-    FAILED: Initialize projective scene
+MFUPG-  FAILED: Spawn view.id='49', remaining=43
+ICM---      ENTER projectiveSceneN: seed='47' common.size=9 conn.size=2
+ICM---      Selected Triplet: seed='47' viewB='49' viewC='14' common.size=0 connections.size=2
+ICM---      FAILED: No common features found
+MSSFV-    FAILED: Initialize projective scene
+MFUPG-  FAILED: Spawn view.id='47', remaining=42
+MFUPG-  Seed Summary: candidates=52, success=0, failures: neighbor=0 close=0 spawn=10
+MFUPG-  Failed to upgrade any of the seeds to a metric scene.

@@ -1,0 +1,7 @@
+Data originally came from 
+
+http://cs.brown.edu/courses/cs143/proj3/
+
+which got the data from 
+
+Lazebnik et al. 2006

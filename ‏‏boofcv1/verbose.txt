@@ -1,0 +1,949 @@
+Verbose: SISR-- SimilarImagesSceneRecognition
+Verbose: FSRN20 FeatureSceneRecognitionNister2006
+FSRN20    described.size=1 features=1200 packed.size=1200
+FSRN20    described.size=2 features=1200 packed.size=2400
+FSRN20    described.size=3 features=1200 packed.size=3600
+FSRN20    described.size=4 features=1200 packed.size=4800
+FSRN20    described.size=5 features=1200 packed.size=6000
+FSRN20    described.size=6 features=1200 packed.size=7200
+FSRN20    described.size=7 features=1200 packed.size=8400
+FSRN20    described.size=8 features=1200 packed.size=9600
+FSRN20    described.size=9 features=1200 packed.size=10800
+FSRN20    described.size=10 features=1200 packed.size=12000
+FSRN20    described.size=11 features=1200 packed.size=13200
+FSRN20    packedFeatures.size=13200
+FSRN20    learning the tree
+FSRN20    Tree {bf=20 ml=4 nodes.size=6521}
+FSRN20    learning the weights
+FSRN20    Time (s): describe=0.0 cluster=2.1 weights=0.2
+SISR--  fixate learning time: 2275.8 (ms)
+FSRN20    added[0].size=1200 id=0
+FSRN20    added[1].size=1200 id=1
+FSRN20    added[2].size=1200 id=2
+FSRN20    added[3].size=1200 id=3
+FSRN20    added[4].size=1200 id=4
+FSRN20    added[5].size=1200 id=5
+FSRN20    added[6].size=1200 id=6
+FSRN20    added[7].size=1200 id=7
+FSRN20    added[8].size=1200 id=8
+FSRN20    added[9].size=1200 id=9
+FSRN20    added[10].size=1200 id=10
+SISR--  fixate learning add: 231.2 (ms)
+FSRN20    matches.size=11 best.error=1.8252991E-5
+SISR--  image[0].cbir_matches.size=11
+SISR--  _ dst.size=1200 associated[1].size=672 accepted
+SISR--  _ dst.size=1200 associated[2].size=503 accepted
+SISR--  _ dst.size=1200 associated[3].size=400 accepted
+SISR--  _ dst.size=1200 associated[4].size=350 accepted
+SISR--  _ dst.size=1200 associated[10].size=295 accepted
+SISR--  _ dst.size=1200 associated[5].size=320 accepted
+SISR--  _ dst.size=1200 associated[6].size=308 accepted
+SISR--  _ dst.size=1200 associated[9].size=285 accepted
+SISR--  _ dst.size=1200 associated[7].size=289 accepted
+SISR--  _ dst.size=1200 associated[8].size=278 accepted
+FSRN20    matches.size=11 best.error=-9.536743E-7
+SISR--  image[1].cbir_matches.size=11
+SISR--  _ dst.size=1200 associated[0].size=672 accepted
+SISR--  _ dst.size=1200 associated[2].size=631 accepted
+SISR--  _ dst.size=1200 associated[3].size=454 accepted
+SISR--  _ dst.size=1200 associated[4].size=365 accepted
+SISR--  _ dst.size=1200 associated[10].size=267 accepted
+SISR--  _ dst.size=1200 associated[5].size=322 accepted
+SISR--  _ dst.size=1200 associated[9].size=311 accepted
+SISR--  _ dst.size=1200 associated[6].size=315 accepted
+SISR--  _ dst.size=1200 associated[7].size=319 accepted
+SISR--  _ dst.size=1200 associated[8].size=308 accepted
+FSRN20    matches.size=11 best.error=-2.0280713E-6
+SISR--  image[2].cbir_matches.size=11
+SISR--  _ dst.size=1200 associated[1].size=631 accepted
+SISR--  _ dst.size=1200 associated[3].size=598 accepted
+SISR--  _ dst.size=1200 associated[0].size=503 accepted
+SISR--  _ dst.size=1200 associated[4].size=440 accepted
+SISR--  _ dst.size=1200 associated[5].size=347 accepted
+SISR--  _ dst.size=1200 associated[10].size=275 accepted
+SISR--  _ dst.size=1200 associated[6].size=320 accepted
+SISR--  _ dst.size=1200 associated[7].size=311 accepted
+SISR--  _ dst.size=1200 associated[9].size=295 accepted
+SISR--  _ dst.size=1200 associated[8].size=273 accepted
+FSRN20    matches.size=11 best.error=1.5764264E-5
+SISR--  image[3].cbir_matches.size=11
+SISR--  _ dst.size=1200 associated[2].size=598 accepted
+SISR--  _ dst.size=1200 associated[4].size=569 accepted
+SISR--  _ dst.size=1200 associated[1].size=454 accepted
+SISR--  _ dst.size=1200 associated[0].size=400 accepted
+SISR--  _ dst.size=1200 associated[5].size=395 accepted
+SISR--  _ dst.size=1200 associated[6].size=345 accepted
+SISR--  _ dst.size=1200 associated[7].size=334 accepted
+SISR--  _ dst.size=1200 associated[10].size=281 accepted
+SISR--  _ dst.size=1200 associated[8].size=288 accepted
+SISR--  _ dst.size=1200 associated[9].size=308 accepted
+FSRN20    matches.size=11 best.error=2.211309E-5
+SISR--  image[4].cbir_matches.size=11
+SISR--  _ dst.size=1200 associated[3].size=569 accepted
+SISR--  _ dst.size=1200 associated[5].size=553 accepted
+SISR--  _ dst.size=1200 associated[2].size=440 accepted
+SISR--  _ dst.size=1200 associated[6].size=411 accepted
+SISR--  _ dst.size=1200 associated[1].size=365 accepted
+SISR--  _ dst.size=1200 associated[0].size=350 accepted
+SISR--  _ dst.size=1200 associated[7].size=364 accepted
+SISR--  _ dst.size=1200 associated[8].size=325 accepted
+SISR--  _ dst.size=1200 associated[9].size=320 accepted
+SISR--  _ dst.size=1200 associated[10].size=296 accepted
+FSRN20    matches.size=11 best.error=1.1538388E-5
+SISR--  image[5].cbir_matches.size=11
+SISR--  _ dst.size=1200 associated[6].size=545 accepted
+SISR--  _ dst.size=1200 associated[4].size=553 accepted
+SISR--  _ dst.size=1200 associated[7].size=428 accepted
+SISR--  _ dst.size=1200 associated[3].size=395 accepted
+SISR--  _ dst.size=1200 associated[8].size=349 accepted
+SISR--  _ dst.size=1200 associated[9].size=328 accepted
+SISR--  _ dst.size=1200 associated[2].size=347 accepted
+SISR--  _ dst.size=1200 associated[1].size=322 accepted
+SISR--  _ dst.size=1200 associated[0].size=320 accepted
+SISR--  _ dst.size=1200 associated[10].size=278 accepted
+FSRN20    matches.size=11 best.error=4.360685E-6
+SISR--  image[6].cbir_matches.size=11
+SISR--  _ dst.size=1200 associated[5].size=545 accepted
+SISR--  _ dst.size=1200 associated[7].size=528 accepted
+SISR--  _ dst.size=1200 associated[8].size=389 accepted
+SISR--  _ dst.size=1200 associated[4].size=411 accepted
+SISR--  _ dst.size=1200 associated[9].size=351 accepted
+SISR--  _ dst.size=1200 associated[3].size=345 accepted
+SISR--  _ dst.size=1200 associated[10].size=318 accepted
+SISR--  _ dst.size=1200 associated[0].size=308 accepted
+SISR--  _ dst.size=1200 associated[2].size=320 accepted
+SISR--  _ dst.size=1200 associated[1].size=315 accepted
+FSRN20    matches.size=11 best.error=5.3560943E-6
+SISR--  image[7].cbir_matches.size=11
+SISR--  _ dst.size=1200 associated[8].size=501 accepted
+SISR--  _ dst.size=1200 associated[6].size=528 accepted
+SISR--  _ dst.size=1200 associated[5].size=428 accepted
+SISR--  _ dst.size=1200 associated[9].size=373 accepted
+SISR--  _ dst.size=1200 associated[4].size=364 accepted
+SISR--  _ dst.size=1200 associated[10].size=307 accepted
+SISR--  _ dst.size=1200 associated[3].size=334 accepted
+SISR--  _ dst.size=1200 associated[2].size=311 accepted
+SISR--  _ dst.size=1200 associated[0].size=289 accepted
+SISR--  _ dst.size=1200 associated[1].size=319 accepted
+FSRN20    matches.size=11 best.error=5.8631413E-6
+SISR--  image[8].cbir_matches.size=11
+SISR--  _ dst.size=1200 associated[7].size=501 accepted
+SISR--  _ dst.size=1200 associated[9].size=486 accepted
+SISR--  _ dst.size=1200 associated[6].size=389 accepted
+SISR--  _ dst.size=1200 associated[5].size=349 accepted
+SISR--  _ dst.size=1200 associated[10].size=345 accepted
+SISR--  _ dst.size=1200 associated[4].size=325 accepted
+SISR--  _ dst.size=1200 associated[3].size=288 accepted
+SISR--  _ dst.size=1200 associated[1].size=308 accepted
+SISR--  _ dst.size=1200 associated[0].size=278 accepted
+SISR--  _ dst.size=1200 associated[2].size=273 accepted
+FSRN20    matches.size=11 best.error=7.016817E-6
+SISR--  image[9].cbir_matches.size=11
+SISR--  _ dst.size=1200 associated[8].size=486 accepted
+SISR--  _ dst.size=1200 associated[10].size=436 accepted
+SISR--  _ dst.size=1200 associated[7].size=373 accepted
+SISR--  _ dst.size=1200 associated[6].size=351 accepted
+SISR--  _ dst.size=1200 associated[5].size=328 accepted
+SISR--  _ dst.size=1200 associated[4].size=320 accepted
+SISR--  _ dst.size=1200 associated[0].size=285 accepted
+SISR--  _ dst.size=1200 associated[1].size=311 accepted
+SISR--  _ dst.size=1200 associated[2].size=295 accepted
+SISR--  _ dst.size=1200 associated[3].size=308 accepted
+FSRN20    matches.size=11 best.error=7.351977E-6
+SISR--  image[10].cbir_matches.size=11
+SISR--  _ dst.size=1200 associated[9].size=436 accepted
+SISR--  _ dst.size=1200 associated[8].size=345 accepted
+SISR--  _ dst.size=1200 associated[7].size=307 accepted
+SISR--  _ dst.size=1200 associated[0].size=295 accepted
+SISR--  _ dst.size=1200 associated[1].size=267 accepted
+SISR--  _ dst.size=1200 associated[6].size=318 accepted
+SISR--  _ dst.size=1200 associated[5].size=278 accepted
+SISR--  _ dst.size=1200 associated[4].size=296 accepted
+SISR--  _ dst.size=1200 associated[2].size=275 accepted
+SISR--  _ dst.size=1200 associated[3].size=281 accepted
+Verbose: GPIG-- GeneratePairwiseImageGraph
+Verbose: SFVR-- ScoreFundamentalVsRotation
+Verbose: RTVPR- RefineTwoViewPinholeRotation
+GPIG--  total images = 11
+GPIG--  Target view='0'
+FSRN20    matches.size=10 best.error=1.2161877
+SISR--  image[0].cbir_matches.size=10
+SISR--  _ dst.size=1200 associated[1].size=672 accepted
+SISR--  _ dst.size=1200 associated[2].size=503 accepted
+SISR--  _ dst.size=1200 associated[3].size=400 accepted
+SISR--  _ dst.size=1200 associated[4].size=350 accepted
+SISR--  _ dst.size=1200 associated[10].size=295 accepted
+SISR--  _ dst.size=1200 associated[5].size=320 accepted
+SISR--  _ dst.size=1200 associated[6].size=308 accepted
+SISR--  _ dst.size=1200 associated[9].size=285 accepted
+SISR--  _ dst.size=1200 associated[7].size=289 accepted
+SISR--  _ dst.size=1200 associated[8].size=278 accepted
+GPIG--  similar.size=10 feats.size=1200
+GPIG--  _ createEdge['0'] -> '1', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=1.96e+06 after=1.14e+06 iterations=100 converged=false, view1={fx=23.3 fy=23.3, cx=-3165.5 cy=1366.5), view2=(fx=23.3 fy=23.3, cx=-3165.5 cy=1366.5) theta=-0.78
+SFVR--    score=  28.70 pairs=672 inliers=574 ratio=574.00, fitR=-2 fitF=574 3d=true
+GPIG--  _ createEdge['0'] -> '2', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=2.55e+06 after=5.02e+04 iterations=100 converged=false, view1={fx=653.8 fy=653.8, cx=540.7 cy=-1832.2), view2=(fx=653.8 fy=653.8, cx=540.7 cy=-1832.2) theta=-0.99
+SFVR--    score=  16.35 pairs=503 inliers=327 ratio=327.00, fitR=-2 fitF=327 3d=true
+GPIG--  _ createEdge['0'] -> '3', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=3.53e+06 after=2.44e+05 iterations=100 converged=false, view1={fx=133.3 fy=133.3, cx=2846.6 cy=-3076.3), view2=(fx=133.3 fy=133.3, cx=2846.6 cy=-3076.3) theta=-1.58
+SFVR--    score=   9.05 pairs=400 inliers=181 ratio=181.00, fitR=-2 fitF=181 3d=true
+GPIG--  _ createEdge['0'] -> '4', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=5.01e+06 after=2.83e+06 iterations=100 converged=false, view1={fx=3.0 fy=3.0, cx=387.2 cy=476.8), view2=(fx=3.0 fy=3.0, cx=387.2 cy=476.8) theta=-21.81
+SFVR--    score=   4.50 pairs=350 inliers=90 ratio= 90.00, fitR=0 fitF=90 3d=true
+GPIG--  _ createEdge['0'] -> '10', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=6.19e+06 after=3.90e+06 iterations=100 converged=false, view1={fx=8.3 fy=8.3, cx=187.3 cy=133.0), view2=(fx=8.3 fy=8.3, cx=187.3 cy=133.0) theta=19.79
+SFVR--    score=   4.15 pairs=295 inliers=83 ratio= 83.00, fitR=0 fitF=83 3d=true
+GPIG--  _ createEdge['0'] -> '5', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=4.95e+06 after=2.79e+06 iterations=100 converged=false, view1={fx=5.7 fy=5.7, cx=267.3 cy=472.0), view2=(fx=5.7 fy=5.7, cx=267.3 cy=472.0) theta=26.15
+SFVR--    score=   4.10 pairs=320 inliers=82 ratio= 82.00, fitR=0 fitF=82 3d=true
+GPIG--  _ createEdge['0'] -> '6', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=7.44e+06 after=3.69e+06 iterations=100 converged=false, view1={fx=3.7 fy=3.7, cx=324.6 cy=529.9), view2=(fx=3.7 fy=3.7, cx=324.6 cy=529.9) theta=-6.92
+SFVR--    score=   4.90 pairs=308 inliers=98 ratio= 98.00, fitR=0 fitF=98 3d=true
+GPIG--  _ createEdge['0'] -> '9', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=3.16e+06 after=2.21e+06 iterations=100 converged=false, view1={fx=1.6 fy=1.6, cx=345.0 cy=323.9), view2=(fx=1.6 fy=1.6, cx=345.0 cy=323.9) theta=-52.36
+SFVR--    score=   3.00 pairs=285 inliers=60 ratio= 60.00, fitR=0 fitF=60 3d=true
+GPIG--  _ createEdge['0'] -> '7', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=5.80e+06 after=3.56e+06 iterations=100 converged=false, view1={fx=11.9 fy=11.9, cx=685.0 cy=117.8), view2=(fx=11.9 fy=11.9, cx=685.0 cy=117.8) theta=-6.39
+SFVR--    score=   4.25 pairs=289 inliers=85 ratio= 85.00, fitR=0 fitF=85 3d=true
+GPIG--  _ createEdge['0'] -> '8', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=3.71e+06 after=2.81e+06 iterations=100 converged=false, view1={fx=7.6 fy=7.6, cx=366.2 cy=378.4), view2=(fx=7.6 fy=7.6, cx=366.2 cy=378.4) theta=-4.03
+SFVR--    score=   3.20 pairs=278 inliers=64 ratio= 64.00, fitR=0 fitF=64 3d=true
+GPIG--  Target view='1'
+FSRN20    matches.size=9 best.error=1.3358631
+SISR--  image[1].cbir_matches.size=9
+SISR--  _ dst.size=1200 associated[2].size=631 accepted
+SISR--  _ dst.size=1200 associated[3].size=454 accepted
+SISR--  _ dst.size=1200 associated[4].size=365 accepted
+SISR--  _ dst.size=1200 associated[10].size=267 accepted
+SISR--  _ dst.size=1200 associated[5].size=322 accepted
+SISR--  _ dst.size=1200 associated[9].size=311 accepted
+SISR--  _ dst.size=1200 associated[6].size=315 accepted
+SISR--  _ dst.size=1200 associated[7].size=319 accepted
+SISR--  _ dst.size=1200 associated[8].size=308 accepted
+GPIG--  similar.size=9 feats.size=1200
+GPIG--  _ createEdge['1'] -> '2', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=1.26e+06 after=2.73e+03 iterations=100 converged=false, view1={fx=639.8 fy=639.8, cx=611.5 cy=-1516.4), view2=(fx=639.8 fy=639.8, cx=611.5 cy=-1516.4) theta=-0.73
+SFVR--    score=  26.95 pairs=631 inliers=539 ratio=539.00, fitR=-2 fitF=539 3d=true
+GPIG--  _ createEdge['1'] -> '3', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=2.61e+06 after=1.52e+05 iterations=100 converged=false, view1={fx=985.7 fy=985.7, cx=672.0 cy=-1177.8), view2=(fx=985.7 fy=985.7, cx=672.0 cy=-1177.8) theta=-2.60
+SFVR--    score=  12.95 pairs=454 inliers=259 ratio=259.00, fitR=-2 fitF=259 3d=true
+GPIG--  _ createEdge['1'] -> '4', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=3.93e+06 after=2.07e+06 iterations=100 converged=false, view1={fx=8.1 fy=8.1, cx=176.6 cy=601.6), view2=(fx=8.1 fy=8.1, cx=176.6 cy=601.6) theta=-15.10
+SFVR--    score=   5.45 pairs=365 inliers=109 ratio=109.00, fitR=-2 fitF=109 3d=true
+GPIG--  _ createEdge['1'] -> '10', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=3.12e+06 after=2.12e+06 iterations=100 converged=false, view1={fx=7.7 fy=7.7, cx=96.3 cy=217.6), view2=(fx=7.7 fy=7.7, cx=96.3 cy=217.6) theta=17.30
+SFVR--    score=   3.20 pairs=267 inliers=64 ratio= 64.00, fitR=0 fitF=64 3d=true
+GPIG--  _ createEdge['1'] -> '5', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=6.17e+06 after=3.99e+06 iterations=100 converged=false, view1={fx=2.2 fy=2.2, cx=516.9 cy=413.1), view2=(fx=2.2 fy=2.2, cx=516.9 cy=413.1) theta=-9.35
+SFVR--    score=   4.35 pairs=322 inliers=87 ratio= 87.00, fitR=0 fitF=87 3d=true
+GPIG--  _ createEdge['1'] -> '9', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=5.59e+06 after=3.78e+06 iterations=100 converged=false, view1={fx=7.4 fy=7.4, cx=484.6 cy=61.4), view2=(fx=7.4 fy=7.4, cx=484.6 cy=61.4) theta=-4.44
+SFVR--    score=   4.70 pairs=311 inliers=94 ratio= 94.00, fitR=0 fitF=94 3d=true
+GPIG--  _ createEdge['1'] -> '6', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=5.36e+06 after=3.12e+06 iterations=49 converged=true, view1={fx=1351.9 fy=1351.9, cx=539.7 cy=-1044.7), view2=(fx=1351.9 fy=1351.9, cx=539.7 cy=-1044.7) theta=47.58
+SFVR--    score=   4.45 pairs=315 inliers=89 ratio= 89.00, fitR=-2 fitF=89 3d=true
+GPIG--  _ createEdge['1'] -> '7', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=5.83e+06 after=2.48e+06 iterations=100 converged=false, view1={fx=3.8 fy=3.8, cx=368.1 cy=95.5), view2=(fx=3.8 fy=3.8, cx=368.1 cy=95.5) theta=-89.48
+SFVR--    score=   3.20 pairs=319 inliers=64 ratio= 64.00, fitR=0 fitF=64 3d=true
+GPIG--  _ createEdge['1'] -> '8', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=3.71e+06 after=2.87e+06 iterations=100 converged=false, view1={fx=9.0 fy=9.0, cx=756.7 cy=466.4), view2=(fx=9.0 fy=9.0, cx=756.7 cy=466.4) theta=-6.85
+SFVR--    score=   3.50 pairs=308 inliers=70 ratio= 70.00, fitR=0 fitF=70 3d=true
+GPIG--  Target view='2'
+FSRN20    matches.size=8 best.error=1.4409295
+SISR--  image[2].cbir_matches.size=8
+SISR--  _ dst.size=1200 associated[3].size=598 accepted
+SISR--  _ dst.size=1200 associated[4].size=440 accepted
+SISR--  _ dst.size=1200 associated[5].size=347 accepted
+SISR--  _ dst.size=1200 associated[10].size=275 accepted
+SISR--  _ dst.size=1200 associated[6].size=320 accepted
+SISR--  _ dst.size=1200 associated[7].size=311 accepted
+SISR--  _ dst.size=1200 associated[9].size=295 accepted
+SISR--  _ dst.size=1200 associated[8].size=273 accepted
+GPIG--  similar.size=8 feats.size=1200
+GPIG--  _ createEdge['2'] -> '3', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=1.41e+06 after=4.50e+04 iterations=100 converged=false, view1={fx=180.3 fy=180.3, cx=837.7 cy=-1906.5), view2=(fx=180.3 fy=180.3, cx=837.7 cy=-1906.5) theta=-0.42
+SFVR--    score=  24.65 pairs=598 inliers=493 ratio=493.00, fitR=-2 fitF=493 3d=true
+GPIG--  _ createEdge['2'] -> '4', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=2.26e+06 after=2.98e+04 iterations=100 converged=false, view1={fx=199.2 fy=199.2, cx=743.9 cy=-1585.1), view2=(fx=199.2 fy=199.2, cx=743.9 cy=-1585.1) theta=-0.99
+SFVR--    score=   9.75 pairs=440 inliers=195 ratio=195.00, fitR=-2 fitF=195 3d=true
+GPIG--  _ createEdge['2'] -> '5', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=3.43e+06 after=1.63e+06 iterations=100 converged=false, view1={fx=4.0 fy=4.0, cx=279.0 cy=547.1), view2=(fx=4.0 fy=4.0, cx=279.0 cy=547.1) theta=-8.59
+SFVR--    score=   4.50 pairs=347 inliers=90 ratio= 90.00, fitR=0 fitF=90 3d=true
+GPIG--  _ createEdge['2'] -> '10', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=4.85e+06 after=3.18e+06 iterations=100 converged=false, view1={fx=9.5 fy=9.5, cx=288.8 cy=93.9), view2=(fx=9.5 fy=9.5, cx=288.8 cy=93.9) theta=46.40
+SFVR--    score=   3.50 pairs=275 inliers=70 ratio= 70.00, fitR=0 fitF=70 3d=true
+GPIG--  _ createEdge['2'] -> '6', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=6.45e+06 after=3.22e+06 iterations=100 converged=false, view1={fx=1.0 fy=1.0, cx=398.4 cy=451.8), view2=(fx=1.0 fy=1.0, cx=398.4 cy=451.8) theta=-2.72
+SFVR--    score=   4.70 pairs=320 inliers=94 ratio= 94.00, fitR=0 fitF=94 3d=true
+GPIG--  _ createEdge['2'] -> '7', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=5.58e+06 after=2.56e+06 iterations=100 converged=false, view1={fx=6.7 fy=6.7, cx=458.5 cy=424.5), view2=(fx=6.7 fy=6.7, cx=458.5 cy=424.5) theta=-59.76
+SFVR--    score=   3.75 pairs=311 inliers=75 ratio= 75.00, fitR=0 fitF=75 3d=true
+GPIG--  _ createEdge['2'] -> '9', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=4.59e+06 after=3.37e+06 iterations=100 converged=false, view1={fx=7.2 fy=7.2, cx=404.5 cy=473.1), view2=(fx=7.2 fy=7.2, cx=404.5 cy=473.1) theta=-2.09
+SFVR--    score=   5.30 pairs=295 inliers=106 ratio=106.00, fitR=0 fitF=106 3d=true
+GPIG--  _ createEdge['2'] -> '8', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=3.77e+06 after=2.22e+06 iterations=100 converged=false, view1={fx=6.8 fy=6.8, cx=522.2 cy=233.1), view2=(fx=6.8 fy=6.8, cx=522.2 cy=233.1) theta=-12.49
+SFVR--    score=   3.20 pairs=273 inliers=64 ratio= 64.00, fitR=0 fitF=64 3d=true
+GPIG--  Target view='3'
+FSRN20    matches.size=7 best.error=1.4849902
+SISR--  image[3].cbir_matches.size=7
+SISR--  _ dst.size=1200 associated[4].size=569 accepted
+SISR--  _ dst.size=1200 associated[5].size=395 accepted
+SISR--  _ dst.size=1200 associated[6].size=345 accepted
+SISR--  _ dst.size=1200 associated[7].size=334 accepted
+SISR--  _ dst.size=1200 associated[10].size=281 accepted
+SISR--  _ dst.size=1200 associated[8].size=288 accepted
+SISR--  _ dst.size=1200 associated[9].size=308 accepted
+GPIG--  similar.size=7 feats.size=1200
+GPIG--  _ createEdge['3'] -> '4', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=1.44e+06 after=2.69e+04 iterations=100 converged=false, view1={fx=211.6 fy=211.6, cx=807.2 cy=-1666.1), view2=(fx=211.6 fy=211.6, cx=807.2 cy=-1666.1) theta=-0.52
+SFVR--    score=  22.20 pairs=569 inliers=444 ratio=444.00, fitR=-2 fitF=444 3d=true
+GPIG--  _ createEdge['3'] -> '5', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=4.68e+06 after=2.99e+06 iterations=100 converged=false, view1={fx=5.8 fy=5.8, cx=103.8 cy=792.8), view2=(fx=5.8 fy=5.8, cx=103.8 cy=792.8) theta=-7.61
+SFVR--    score=   8.75 pairs=395 inliers=175 ratio=175.00, fitR=-2 fitF=175 3d=true
+GPIG--  _ createEdge['3'] -> '6', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=6.74e+06 after=4.14e+06 iterations=100 converged=false, view1={fx=5.0 fy=5.0, cx=553.3 cy=92.0), view2=(fx=5.0 fy=5.0, cx=553.3 cy=92.0) theta=-21.30
+SFVR--    score=   5.00 pairs=345 inliers=100 ratio=100.00, fitR=0 fitF=100 3d=true
+GPIG--  _ createEdge['3'] -> '7', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=6.52e+06 after=2.70e+06 iterations=100 converged=false, view1={fx=0.4 fy=0.4, cx=410.1 cy=208.0), view2=(fx=0.4 fy=0.4, cx=410.1 cy=208.0) theta=8.90
+SFVR--    score=   4.20 pairs=334 inliers=84 ratio= 84.00, fitR=0 fitF=84 3d=true
+GPIG--  _ createEdge['3'] -> '10', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=4.88e+06 after=3.21e+06 iterations=100 converged=false, view1={fx=6.8 fy=6.8, cx=340.5 cy=100.5), view2=(fx=6.8 fy=6.8, cx=340.5 cy=100.5) theta=18.46
+SFVR--    score=   3.50 pairs=281 inliers=70 ratio= 70.00, fitR=0 fitF=70 3d=true
+GPIG--  _ createEdge['3'] -> '8', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=4.85e+06 after=2.65e+06 iterations=100 converged=false, view1={fx=7.8 fy=7.8, cx=566.5 cy=443.4), view2=(fx=7.8 fy=7.8, cx=566.5 cy=443.4) theta=-23.33
+SFVR--    score=   3.15 pairs=288 inliers=63 ratio= 63.00, fitR=0 fitF=63 3d=true
+GPIG--  _ createEdge['3'] -> '9', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=3.65e+06 after=2.34e+06 iterations=100 converged=false, view1={fx=2.4 fy=2.4, cx=283.1 cy=96.2), view2=(fx=2.4 fy=2.4, cx=283.1 cy=96.2) theta=-9.48
+SFVR--    score=   3.05 pairs=308 inliers=61 ratio= 61.00, fitR=0 fitF=61 3d=true
+GPIG--  Target view='4'
+FSRN20    matches.size=6 best.error=1.5437135
+SISR--  image[4].cbir_matches.size=6
+SISR--  _ dst.size=1200 associated[5].size=553 accepted
+SISR--  _ dst.size=1200 associated[6].size=411 accepted
+SISR--  _ dst.size=1200 associated[7].size=364 accepted
+SISR--  _ dst.size=1200 associated[8].size=325 accepted
+SISR--  _ dst.size=1200 associated[9].size=320 accepted
+SISR--  _ dst.size=1200 associated[10].size=296 accepted
+GPIG--  similar.size=6 feats.size=1200
+GPIG--  _ createEdge['4'] -> '5', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=1.44e+06 after=6.46e+03 iterations=100 converged=false, view1={fx=242.7 fy=242.7, cx=647.4 cy=-1686.8), view2=(fx=242.7 fy=242.7, cx=647.4 cy=-1686.8) theta=-0.41
+SFVR--    score=  21.00 pairs=553 inliers=420 ratio=420.00, fitR=-2 fitF=420 3d=true
+GPIG--  _ createEdge['4'] -> '6', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=2.40e+06 after=2.25e+05 iterations=100 converged=false, view1={fx=42.1 fy=42.1, cx=2276.5 cy=-1988.9), view2=(fx=42.1 fy=42.1, cx=2276.5 cy=-1988.9) theta=-1.96
+SFVR--    score=   8.35 pairs=411 inliers=167 ratio=167.00, fitR=-2 fitF=167 3d=true
+GPIG--  _ createEdge['4'] -> '7', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=4.82e+06 after=3.03e+06 iterations=100 converged=false, view1={fx=5.3 fy=5.3, cx=555.4 cy=86.9), view2=(fx=5.3 fy=5.3, cx=555.4 cy=86.9) theta=-24.82
+SFVR--    score=   4.80 pairs=364 inliers=96 ratio= 96.00, fitR=0 fitF=96 3d=true
+GPIG--  _ createEdge['4'] -> '8', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=4.66e+06 after=2.73e+06 iterations=100 converged=false, view1={fx=6.4 fy=6.4, cx=437.3 cy=552.8), view2=(fx=6.4 fy=6.4, cx=437.3 cy=552.8) theta=-16.21
+SFVR--    score=   3.80 pairs=325 inliers=76 ratio= 76.00, fitR=0 fitF=76 3d=true
+GPIG--  _ createEdge['4'] -> '9', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=4.46e+06 after=2.62e+06 iterations=100 converged=false, view1={fx=1.6 fy=1.6, cx=366.2 cy=479.7), view2=(fx=1.6 fy=1.6, cx=366.2 cy=479.7) theta=-7.67
+SFVR--    score=   3.70 pairs=320 inliers=74 ratio= 74.00, fitR=0 fitF=74 3d=true
+GPIG--  _ createEdge['4'] -> '10', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=4.96e+06 after=3.10e+06 iterations=100 converged=false, view1={fx=6.8 fy=6.8, cx=268.4 cy=39.9), view2=(fx=6.8 fy=6.8, cx=268.4 cy=39.9) theta=8.58
+SFVR--    score=   3.10 pairs=296 inliers=62 ratio= 62.00, fitR=0 fitF=62 3d=true
+GPIG--  Target view='5'
+FSRN20    matches.size=5 best.error=1.4824561
+SISR--  image[5].cbir_matches.size=5
+SISR--  _ dst.size=1200 associated[6].size=545 accepted
+SISR--  _ dst.size=1200 associated[7].size=428 accepted
+SISR--  _ dst.size=1200 associated[8].size=349 accepted
+SISR--  _ dst.size=1200 associated[9].size=328 accepted
+SISR--  _ dst.size=1200 associated[10].size=278 accepted
+GPIG--  similar.size=5 feats.size=1200
+GPIG--  _ createEdge['5'] -> '6', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=1.52e+06 after=1.05e+05 iterations=100 converged=false, view1={fx=84.3 fy=84.3, cx=968.7 cy=-1781.1), view2=(fx=84.3 fy=84.3, cx=968.7 cy=-1781.1) theta=-0.56
+SFVR--    score=  20.15 pairs=545 inliers=403 ratio=403.00, fitR=-2 fitF=403 3d=true
+GPIG--  _ createEdge['5'] -> '7', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=2.04e+06 after=5.10e+04 iterations=100 converged=false, view1={fx=475.9 fy=475.9, cx=256.0 cy=-1818.9), view2=(fx=475.9 fy=475.9, cx=256.0 cy=-1818.9) theta=-1.07
+SFVR--    score=   7.70 pairs=428 inliers=154 ratio=154.00, fitR=-2 fitF=154 3d=true
+GPIG--  _ createEdge['5'] -> '8', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=5.15e+06 after=3.36e+06 iterations=100 converged=false, view1={fx=7.8 fy=7.8, cx=552.0 cy=468.5), view2=(fx=7.8 fy=7.8, cx=552.0 cy=468.5) theta=-3.70
+SFVR--    score=   5.30 pairs=349 inliers=106 ratio=106.00, fitR=0 fitF=106 3d=true
+GPIG--  _ createEdge['5'] -> '9', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=5.58e+06 after=2.64e+06 iterations=100 converged=false, view1={fx=3.1 fy=3.1, cx=355.8 cy=483.4), view2=(fx=3.1 fy=3.1, cx=355.8 cy=483.4) theta=-20.73
+SFVR--    score=   4.35 pairs=328 inliers=87 ratio= 87.00, fitR=0 fitF=87 3d=true
+GPIG--  _ createEdge['5'] -> '10', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=7.85e+06 after=3.53e+06 iterations=100 converged=false, view1={fx=0.7 fy=0.7, cx=456.4 cy=340.8), view2=(fx=0.7 fy=0.7, cx=456.4 cy=340.8) theta=25.03
+SFVR--    score=   4.75 pairs=278 inliers=95 ratio= 95.00, fitR=0 fitF=95 3d=true
+GPIG--  Target view='6'
+FSRN20    matches.size=4 best.error=1.534907
+SISR--  image[6].cbir_matches.size=4
+SISR--  _ dst.size=1200 associated[7].size=528 accepted
+SISR--  _ dst.size=1200 associated[8].size=389 accepted
+SISR--  _ dst.size=1200 associated[9].size=351 accepted
+SISR--  _ dst.size=1200 associated[10].size=318 accepted
+GPIG--  similar.size=4 feats.size=1200
+GPIG--  _ createEdge['6'] -> '7', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=1.38e+06 after=9.54e+04 iterations=100 converged=false, view1={fx=183.1 fy=183.1, cx=643.5 cy=-1811.9), view2=(fx=183.1 fy=183.1, cx=643.5 cy=-1811.9) theta=-0.30
+SFVR--    score=  18.00 pairs=528 inliers=360 ratio=360.00, fitR=-2 fitF=360 3d=true
+GPIG--  _ createEdge['6'] -> '8', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=2.22e+06 after=1.94e+05 iterations=100 converged=false, view1={fx=126.7 fy=126.7, cx=4303.4 cy=-6482.4), view2=(fx=126.7 fy=126.7, cx=4303.4 cy=-6482.4) theta=-0.61
+SFVR--    score=   7.25 pairs=389 inliers=145 ratio=145.00, fitR=-2 fitF=145 3d=true
+GPIG--  _ createEdge['6'] -> '9', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=4.59e+06 after=1.84e+06 iterations=100 converged=false, view1={fx=1.8 fy=1.8, cx=532.7 cy=466.8), view2=(fx=1.8 fy=1.8, cx=532.7 cy=466.8) theta=-7.43
+SFVR--    score=   4.90 pairs=351 inliers=98 ratio= 98.00, fitR=0 fitF=98 3d=true
+GPIG--  _ createEdge['6'] -> '10', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=6.47e+06 after=2.72e+06 iterations=100 converged=false, view1={fx=-2.0 fy=-2.0, cx=411.3 cy=357.8), view2=(fx=-2.0 fy=-2.0, cx=411.3 cy=357.8) theta=-42.21
+SFVR--    score=   4.00 pairs=318 inliers=80 ratio= 80.00, fitR=0 fitF=80 3d=true
+GPIG--  Target view='7'
+FSRN20    matches.size=3 best.error=1.518795
+SISR--  image[7].cbir_matches.size=3
+SISR--  _ dst.size=1200 associated[8].size=501 accepted
+SISR--  _ dst.size=1200 associated[9].size=373 accepted
+SISR--  _ dst.size=1200 associated[10].size=307 accepted
+GPIG--  similar.size=3 feats.size=1200
+GPIG--  _ createEdge['7'] -> '8', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=1.28e+06 after=3.05e+03 iterations=100 converged=false, view1={fx=111.3 fy=111.3, cx=332.4 cy=-1439.1), view2=(fx=111.3 fy=111.3, cx=332.4 cy=-1439.1) theta=-0.26
+SFVR--    score=  16.50 pairs=501 inliers=330 ratio=330.00, fitR=-2 fitF=330 3d=true
+GPIG--  _ createEdge['7'] -> '9', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=3.63e+06 after=1.58e+06 iterations=78 converged=true, view1={fx=152.4 fy=152.4, cx=413.5 cy=356.2), view2=(fx=152.4 fy=152.4, cx=413.5 cy=356.2) theta=-53.54
+SFVR--    score=   5.30 pairs=373 inliers=106 ratio=106.00, fitR=1 fitF=106 3d=true
+GPIG--  _ createEdge['7'] -> '10', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=6.72e+06 after=2.85e+06 iterations=100 converged=false, view1={fx=1.7 fy=1.7, cx=586.0 cy=487.0), view2=(fx=1.7 fy=1.7, cx=586.0 cy=487.0) theta=-68.56
+SFVR--    score=   4.75 pairs=307 inliers=95 ratio= 95.00, fitR=0 fitF=95 3d=true
+GPIG--  Target view='8'
+FSRN20    matches.size=2 best.error=1.5597118
+SISR--  image[8].cbir_matches.size=2
+SISR--  _ dst.size=1200 associated[9].size=486 accepted
+SISR--  _ dst.size=1200 associated[10].size=345 accepted
+GPIG--  similar.size=2 feats.size=1200
+GPIG--  _ createEdge['8'] -> '9', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=1.47e+06 after=7.14e+04 iterations=100 converged=false, view1={fx=25.5 fy=25.5, cx=317.5 cy=-1531.0), view2=(fx=25.5 fy=25.5, cx=317.5 cy=-1531.0) theta=-0.19
+SFVR--    score=  16.70 pairs=486 inliers=334 ratio=334.00, fitR=-2 fitF=334 3d=true
+GPIG--  _ createEdge['8'] -> '10', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=3.86e+06 after=2.59e+06 iterations=100 converged=false, view1={fx=0.5 fy=0.5, cx=132.0 cy=485.2), view2=(fx=0.5 fy=0.5, cx=132.0 cy=485.2) theta=-19.39
+SFVR--    score=   5.55 pairs=345 inliers=111 ratio=111.00, fitR=0 fitF=111 3d=true
+GPIG--  Target view='9'
+FSRN20    matches.size=1 best.error=1.6190199
+SISR--  image[9].cbir_matches.size=1
+SISR--  _ dst.size=1200 associated[10].size=436 accepted
+GPIG--  similar.size=1 feats.size=1200
+GPIG--  _ createEdge['9'] -> '10', prior: src={fx=692.8 cx=400.0 cy=300.0}  dst={fx=692.8 cx=400.0 cy=300.0} 
+RTVPR-      before=1.21e+06 after=1.93e+03 iterations=17 converged=true, view1={fx=628.3 fy=628.3, cx=616.4 cy=-1037.9), view2=(fx=628.3 fy=628.3, cx=616.4 cy=-1037.9) theta=-1.60
+SFVR--    score=  14.00 pairs=436 inliers=280 ratio=280.00, fitR=-2 fitF=280 3d=true
+GPIG--  Target view='10'
+SISR--  image[10] cbir found no matches
+GPIG--  similar.size=0 feats.size=1200
+Verbose: MFUPG- MetricFromUncalibratedPairwiseGraph
+Verbose: MSSFV- MetricSpawnSceneFromView
+Verbose: ICM--- InitializeCommonMetric
+Verbose: TVEMS- ThreeViewEstimateMetricScene
+Verbose: MSC--- MetricSanityChecks
+Verbose: MEBOV- MetricExpandByOneView
+Verbose: EVKC-- EstimateViewKnownCalibration
+Verbose: MSC--- MetricSanityChecks
+Verbose: MBAU-- MetricBundleAdjustmentUtils
+Verbose: EVSC-- EstimateViewSelfCalibrate
+Verbose: MSC--- MetricSanityChecks
+Verbose: RMWG-- RefineMetricWorkingGraph
+Verbose: MBAU-- MetricBundleAdjustmentUtils
+Verbose: SMO--- SceneMergingOperations
+Verbose: RSSA-- ResolveSceneScaleAmbiguity
+Verbose: RMGS-- RefineMetricGraphSubset
+Verbose: RMWG-- RefineMetricWorkingGraph
+Verbose: MBAU-- MetricBundleAdjustmentUtils
+Verbose: MMS--- MetricMergeScenes
+Verbose: MSC--- MetricSanityChecks
+Verbose: RMWG-- RefineMetricWorkingGraph
+Verbose: MBAU-- MetricBundleAdjustmentUtils
+MFUPG-  Select Seeds: candidates.size=11 scores=(19.55 - 45.05)
+ICM---      ENTER projectiveSceneN: seed='1' common.size=0 conn.size=2
+ICM---      Selected Triplet: seed='1' viewB='0' viewC='2' common.size=253 connections.size=2
+ICM---      prior: A={fx=692.8 cx=400.0 300.0} B={fx=692.8 cx=400.0 300.0} C={fx=692.8 cx=400.0 300.0}
+TVEMS-        Remaining after RANSAC 171 / 253
+TVEMS-        points behind 0 / 171
+TVEMS-        First Pass: SBA score 75.87079335853834
+TVEMS-        points behind 0 / 171
+TVEMS-         First Pass / Transpose(R) = 75.87079335853834 / 75.87231154400133
+TVEMS-          recomputing old structure
+TVEMS-          score after reverting = 75.86928111716097  original 75.87079335853834
+TVEMS-        Pruning Outliers
+TVEMS-           before 10.182772550414864 after 6.057472003651065
+TVEMS-        
+TVEMS-        Camera
+TVEMS-          BundlePinholeSimplified{f= 364.461083, k1= .093370941, k2=ý-.00850034}
+TVEMS-        
+TVEMS-        worldToView
+TVEMS-          T=V(  0 ,  0 ,  0 )  R=Rodrigues_F64 v{ 1.0 , -1.0 , -1.0 } theta = 0.0
+TVEMS-          T=V(  .014436513 , ý-.654462884 ,  .122400928 )  R=Rodrigues_F64 v{ -0.961139229728972 , -0.06965443734774436 , -0.2671322527022289 } theta = 0.02345982448918002
+TVEMS-          T=V(  .012640394 ,  .742825315 , ý-.119899273 )  R=Rodrigues_F64 v{ 0.9744647912852276 , 0.01013899143783196 , 0.22431132694998174 } theta = 0.027800553040757472
+RMWG--    inlier[0] view='1' size=171 , Adding Points: unmatched=171 matched=0 mixed=0 tooFew=0
+RMWG--    inlier[0] view='0' size=171 , Adding Points: unmatched=0 matched=171 mixed=0 tooFew=0
+RMWG--    inlier[0] view='2' size=171 , Adding Points: unmatched=0 matched=171 mixed=0 tooFew=0
+RMWG--    triangulation: sets: skipped=0 total=3
+MBAU--      SBA        BEFORE average error=4.08e-02
+MBAU--      SBA         AFTER average error=1.70e-02
+MBAU--      SBA  PRUNED-AFTER average error=1.73e-02
+RMWG--    AFTER view='1' T=(0.00 0.00 0.00) R=0.0000, f=411.5 k1=1.6e-01 k2=-9.4e-04
+RMWG--    AFTER view='0' T=(0.02 -0.64 0.13) R=0.0334, f=411.5 k1=1.6e-01 k2=-9.4e-04
+RMWG--    AFTER view='2' T=(0.01 0.74 -0.12) R=0.0424, f=411.5 k1=1.6e-01 k2=-9.4e-04
+MSC---      view[0] errors: behind=0 bounds=0 reprojection=0, obs=171
+MSC---      view[1] errors: behind=0 bounds=0 reprojection=0, obs=145
+MSC---      view[2] errors: behind=0 bounds=0 reprojection=0, obs=171
+MFUPG-  Successfully spawned view.id='1', remaining=10
+MFUPG-  Seed Summary: candidates=11, success=1, failures: neighbor=10 close=0 spawn=0
+MFUPG-  Total Scenes: 1
+MFUPG-  Expand Scenes: Finding open views in each scene
+MFUPG-  _ scene[0].view='1' adding: size=8 views={ '3' '4' '10' '5' '9' '6' '7' '8' }
+MFUPG-  _ scene[0].view='0' adding: size=0 views={ }
+MFUPG-  _ scene[0].view='2' adding: size=0 views={ }
+MFUPG-  scene[0].open.size=8
+MFUPG-  Selecting next scene/view to expand.
+MFUPG-  _ scene[0].open.size=8 score=12.95 conn=3
+MFUPG-  Expanding scene[0].view='3' score=12.95
+MEBOV-    best pair: score=12.95 from pairs=3 views.size=3
+MEBOV-    Expanding to view='3' using views ( '1' , '2') common=194 valid.size=3
+MEBOV-    prior: A={fx=692.8 cx=400.0 300.0} B={fx=692.8 cx=400.0 300.0} C={fx=692.8 cx=400.0 300.0}
+MEBOV-    Trifocal RANSAC inliers.size=160
+EVSC--      L  View 1 to 2     T=(0.0 1.0 -0.2) scale=0.752313
+EVSC--      H  View 1 to 2     T=(-0.2 1.0 0.2)
+EVSC--      view1.f=411.53 view2.f=411.53
+EVSC--      Initial T=(-0.6 2.1 0.5) f=469.7 k1=0.000 k2=0.000
+EVSC--      refined 1_to_3 T=(0.01 1.98 -0.39) f=403.6 k1=0.146 k2=-0.007
+EVSC--      prior: A={fx=692.8 cx=400.0 300.0} B={fx=692.8 cx=400.0 300.0} C={fx=692.8 cx=400.0 300.0}
+MSC---        view[0] errors: behind=0 bounds=0 reprojection=0, obs=160
+MSC---        view[1] errors: behind=0 bounds=0 reprojection=0, obs=160
+MSC---        view[2] errors: behind=0 bounds=0 reprojection=0, obs=160
+EVSC--      Rescaled Local T=(0.01 1.49 -0.29)
+EVSC--      Final Global   T=(0.01 1.49 -0.29)
+EVKC--      inliersPNP.size=100 inliersTri.size=160 common.size=194
+EVKC--      local   1_to_2 T=(0.01 0.99 -0.15)
+EVKC--      local   1_to_3 T=(0.02 1.98 -0.27)
+MBAU--        SBA        BEFORE average error=2.02e-02
+MBAU--        SBA         AFTER average error=1.85e-02
+EVKC--      refined 1_to_3 T=(0.01 2.00 -0.28) f=411.5 k1=0.157 k2=-0.001
+EVKC--      prior: A={fx=692.8 cx=400.0 300.0} B={fx=692.8 cx=400.0 300.0} C={fx=692.8 cx=400.0 300.0}
+MSC---        view[0] errors: behind=0 bounds=0 reprojection=0, obs=100
+MSC---        view[1] errors: behind=0 bounds=0 reprojection=0, obs=100
+MSC---        view[2] errors: behind=0 bounds=0 reprojection=0, obs=100
+MEBOV-    calibrated.size=100 unknown.size=160 : triples.size=160
+MEBOV-    calibrated: T=(0.01 1.50 -0.21) f=411.5
+MEBOV-    unknown:    T=(0.01 1.49 -0.29) f=403.6
+MEBOV-    Selected calibrated
+MFUPG-  _ scene[0].view='3' adding: size=0 views={ }
+MFUPG-  _ Expanded scene=0 view='3'  inliers=160/194 Open added.size=0
+RMWG--    inlier[0] view='1' size=171 , Adding Points: unmatched=171 matched=0 mixed=0 tooFew=0
+RMWG--    inlier[0] view='0' size=171 , Adding Points: unmatched=0 matched=171 mixed=0 tooFew=0
+RMWG--    inlier[0] view='2' size=171 , Adding Points: unmatched=0 matched=171 mixed=0 tooFew=0
+RMWG--    inlier[0] view='3' size=100 , Adding Points: unmatched=100 matched=0 mixed=38 tooFew=0
+RMWG--    triangulation: sets: skipped=0 total=4
+MBAU--      SBA        BEFORE average error=1.47e-02
+MBAU--      SBA         AFTER average error=1.29e-02
+MBAU--      SBA  PRUNED-AFTER average error=1.33e-02
+RMWG--    AFTER view='1' T=(0.00 0.00 0.00) R=0.0000, f=420.3 k1=7.6e-02 k2=-9.9e-03
+RMWG--    AFTER view='0' T=(0.02 -0.62 0.13) R=0.0170, f=420.3 k1=7.6e-02 k2=-9.9e-03
+RMWG--    AFTER view='2' T=(0.01 0.69 -0.14) R=0.0180, f=420.3 k1=7.6e-02 k2=-9.9e-03
+RMWG--    AFTER view='3' T=(0.01 1.42 -0.27) R=0.0342, f=420.3 k1=7.6e-02 k2=-9.9e-03
+MFUPG-  Selecting next scene/view to expand.
+MFUPG-  _ scene[0].open.size=7 score=9.75 conn=3
+MFUPG-  Expanding scene[0].view='4' score=9.75
+MEBOV-    best pair: score=9.75 from pairs=6 views.size=4
+MEBOV-    Expanding to view='4' using views ( '2' , '3') common=146 valid.size=4
+MEBOV-    prior: A={fx=692.8 cx=400.0 300.0} B={fx=692.8 cx=400.0 300.0} C={fx=692.8 cx=400.0 300.0}
+MEBOV-    Trifocal RANSAC inliers.size=116
+EVSC--      L  View 1 to 2     T=(0.0 1.0 -0.2) scale=0.741559
+EVSC--      H  View 1 to 2     T=(-0.2 1.0 0.2)
+EVSC--      view1.f=420.26 view2.f=420.26
+EVSC--      Initial T=(-0.2 2.2 0.7) f=494.9 k1=0.000 k2=0.000
+EVSC--      refined 1_to_3 T=(0.01 2.01 -0.45) f=416.0 k1=0.079 k2=-0.016
+EVSC--      prior: A={fx=692.8 cx=400.0 300.0} B={fx=692.8 cx=400.0 300.0} C={fx=692.8 cx=400.0 300.0}
+MSC---        view[0] errors: behind=0 bounds=0 reprojection=0, obs=116
+MSC---        view[1] errors: behind=0 bounds=0 reprojection=0, obs=116
+MSC---        view[2] errors: behind=0 bounds=0 reprojection=0, obs=116
+EVSC--      Rescaled Local T=(0.00 1.49 -0.33)
+EVSC--      Final Global   T=(0.01 2.18 -0.45)
+EVKC--      inliersPNP.size=79 inliersTri.size=116 common.size=146
+EVKC--      local   1_to_2 T=(0.01 0.98 -0.20)
+EVKC--      local   1_to_3 T=(0.02 2.00 -0.40)
+MBAU--        SBA        BEFORE average error=1.78e-02
+MBAU--        SBA         AFTER average error=1.65e-02
+EVKC--      refined 1_to_3 T=(0.01 2.01 -0.40) f=420.3 k1=0.076 k2=-0.010
+EVKC--      prior: A={fx=692.8 cx=400.0 300.0} B={fx=692.8 cx=400.0 300.0} C={fx=692.8 cx=400.0 300.0}
+MSC---        view[0] errors: behind=0 bounds=0 reprojection=0, obs=79
+MSC---        view[1] errors: behind=0 bounds=0 reprojection=0, obs=79
+MSC---        view[2] errors: behind=0 bounds=0 reprojection=0, obs=79
+MEBOV-    calibrated.size=79 unknown.size=116 : triples.size=116
+MEBOV-    calibrated: T=(0.01 2.18 -0.41) f=420.3
+MEBOV-    unknown:    T=(0.01 2.18 -0.45) f=416.0
+MEBOV-    Selected calibrated
+MFUPG-  _ scene[0].view='4' adding: size=0 views={ }
+MFUPG-  _ Expanded scene=0 view='4'  inliers=116/146 Open added.size=0
+RMWG--    inlier[0] view='1' size=171 , Adding Points: unmatched=171 matched=0 mixed=0 tooFew=0
+RMWG--    inlier[0] view='0' size=171 , Adding Points: unmatched=0 matched=171 mixed=0 tooFew=0
+RMWG--    inlier[0] view='2' size=171 , Adding Points: unmatched=0 matched=171 mixed=0 tooFew=0
+RMWG--    inlier[0] view='3' size=100 , Adding Points: unmatched=100 matched=0 mixed=38 tooFew=0
+RMWG--    inlier[0] view='4' size=79 , Adding Points: unmatched=79 matched=0 mixed=28 tooFew=0
+RMWG--    triangulation: sets: skipped=0 total=5
+MBAU--      SBA        BEFORE average error=1.29e-02
+MBAU--      SBA         AFTER average error=1.11e-02
+MBAU--      SBA  PRUNED-AFTER average error=1.14e-02
+RMWG--    AFTER view='1' T=(0.00 0.00 0.00) R=0.0000, f=422.4 k1=6.3e-02 k2=-1.2e-02
+RMWG--    AFTER view='0' T=(0.02 -0.61 0.14) R=0.0136, f=422.4 k1=6.3e-02 k2=-1.2e-02
+RMWG--    AFTER view='2' T=(0.01 0.68 -0.14) R=0.0139, f=422.4 k1=6.3e-02 k2=-1.2e-02
+RMWG--    AFTER view='3' T=(0.01 1.41 -0.29) R=0.0276, f=422.4 k1=6.3e-02 k2=-1.2e-02
+RMWG--    AFTER view='4' T=(0.00 2.17 -0.43) R=0.0442, f=422.4 k1=6.3e-02 k2=-1.2e-02
+MFUPG-  Selecting next scene/view to expand.
+MFUPG-  _ scene[0].open.size=6 score=8.75 conn=3
+MFUPG-  Expanding scene[0].view='5' score=8.75
+MEBOV-    best pair: score=8.75 from pairs=10 views.size=5
+MEBOV-    Expanding to view='5' using views ( '3' , '4') common=102 valid.size=5
+MEBOV-    prior: A={fx=692.8 cx=400.0 300.0} B={fx=692.8 cx=400.0 300.0} C={fx=692.8 cx=400.0 300.0}
+MEBOV-    Trifocal RANSAC inliers.size=78
+EVSC--      L  View 1 to 2     T=(0.0 1.0 -0.2) scale=0.776798
+EVSC--      H  View 1 to 2     T=(0.3 -0.3 -0.9)
+EVSC--      view1.f=422.40 view2.f=422.40
+EVSC--      Initial T=(0.5 -0.8 -1.2) f=436.2 k1=0.000 k2=0.000
+EVSC--      refined 1_to_3 T=(0.01 1.91 -0.12) f=453.5 k1=0.050 k2=-0.002
+EVSC--      prior: A={fx=692.8 cx=400.0 300.0} B={fx=692.8 cx=400.0 300.0} C={fx=692.8 cx=400.0 300.0}
+MSC---        view[0] errors: behind=0 bounds=0 reprojection=0, obs=78
+MSC---        view[1] errors: behind=0 bounds=0 reprojection=0, obs=78
+MSC---        view[2] errors: behind=0 bounds=0 reprojection=0, obs=78
+EVSC--      Rescaled Local T=(0.01 1.49 -0.09)
+EVSC--      Final Global   T=(0.00 2.90 -0.35)
+EVKC--      inliersPNP.size=53 inliersTri.size=78 common.size=102
+EVKC--      local   1_to_2 T=(0.00 0.98 -0.21)
+EVKC--      local   1_to_3 T=(-0.00 1.95 -0.42)
+MBAU--        SBA        BEFORE average error=2.25e-02
+MBAU--        SBA         AFTER average error=2.17e-02
+EVKC--      refined 1_to_3 T=(0.00 1.94 -0.43) f=422.4 k1=0.063 k2=-0.012
+EVKC--      prior: A={fx=692.8 cx=400.0 300.0} B={fx=692.8 cx=400.0 300.0} C={fx=692.8 cx=400.0 300.0}
+MSC---        view[0] errors: behind=0 bounds=0 reprojection=0, obs=53
+MSC---        view[1] errors: behind=0 bounds=0 reprojection=0, obs=53
+MSC---        view[2] errors: behind=0 bounds=0 reprojection=0, obs=53
+MEBOV-    calibrated.size=53 unknown.size=78 : triples.size=78
+MEBOV-    calibrated: T=(-0.00 2.92 -0.59) f=422.4
+MEBOV-    unknown:    T=(0.00 2.90 -0.35) f=453.5
+MEBOV-    Selected calibrated
+MFUPG-  _ scene[0].view='5' adding: size=0 views={ }
+MFUPG-  _ Expanded scene=0 view='5'  inliers=78/102 Open added.size=0
+RMWG--    inlier[0] view='1' size=171 , Adding Points: unmatched=171 matched=0 mixed=0 tooFew=0
+RMWG--    inlier[0] view='0' size=171 , Adding Points: unmatched=0 matched=171 mixed=0 tooFew=0
+RMWG--    inlier[0] view='2' size=171 , Adding Points: unmatched=0 matched=171 mixed=0 tooFew=0
+RMWG--    inlier[0] view='3' size=100 , Adding Points: unmatched=100 matched=0 mixed=38 tooFew=0
+RMWG--    inlier[0] view='4' size=79 , Adding Points: unmatched=79 matched=0 mixed=28 tooFew=0
+RMWG--    inlier[0] view='5' size=53 , Adding Points: unmatched=53 matched=0 mixed=24 tooFew=0
+RMWG--    triangulation: sets: skipped=0 total=6
+MBAU--      SBA        BEFORE average error=1.29e-02
+MBAU--      SBA         AFTER average error=1.05e-02
+MBAU--      SBA  PRUNED-AFTER average error=1.06e-02
+RMWG--    AFTER view='1' T=(0.00 0.00 0.00) R=0.0000, f=421.9 k1=6.4e-02 k2=-1.2e-02
+RMWG--    AFTER view='0' T=(0.02 -0.61 0.14) R=0.0137, f=421.9 k1=6.4e-02 k2=-1.2e-02
+RMWG--    AFTER view='2' T=(0.01 0.68 -0.14) R=0.0140, f=421.9 k1=6.4e-02 k2=-1.2e-02
+RMWG--    AFTER view='3' T=(0.01 1.41 -0.29) R=0.0277, f=421.9 k1=6.4e-02 k2=-1.2e-02
+RMWG--    AFTER view='4' T=(0.01 2.16 -0.44) R=0.0401, f=421.9 k1=6.4e-02 k2=-1.2e-02
+RMWG--    AFTER view='5' T=(0.01 2.91 -0.60) R=0.0506, f=421.9 k1=6.4e-02 k2=-1.2e-02
+MFUPG-  Selecting next scene/view to expand.
+MFUPG-  _ scene[0].open.size=5 score=8.35 conn=3
+MFUPG-  Expanding scene[0].view='6' score=8.35
+MEBOV-    best pair: score=8.35 from pairs=8 views.size=6
+MEBOV-    Expanding to view='6' using views ( '4' , '5') common=112 valid.size=6
+MEBOV-    prior: A={fx=692.8 cx=400.0 300.0} B={fx=692.8 cx=400.0 300.0} C={fx=692.8 cx=400.0 300.0}
+MEBOV-    Trifocal RANSAC inliers.size=92
+EVSC--      L  View 1 to 2     T=(0.0 1.0 -0.2) scale=0.773548
+EVSC--      H  View 1 to 2     T=(0.0 1.0 0.0)
+EVSC--      view1.f=421.90 view2.f=421.90
+EVSC--      Initial T=(-0.5 2.1 -0.2) f=419.2 k1=0.000 k2=0.000
+EVSC--      refined 1_to_3 T=(-0.01 2.00 -0.41) f=423.2 k1=0.080 k2=-0.036
+EVSC--      prior: A={fx=692.8 cx=400.0 300.0} B={fx=692.8 cx=400.0 300.0} C={fx=692.8 cx=400.0 300.0}
+MSC---        view[0] errors: behind=0 bounds=0 reprojection=0, obs=92
+MSC---        view[1] errors: behind=0 bounds=0 reprojection=0, obs=92
+MSC---        view[2] errors: behind=0 bounds=0 reprojection=0, obs=92
+EVSC--      Rescaled Local T=(-0.01 1.55 -0.32)
+EVSC--      Final Global   T=(-0.02 3.72 -0.69)
+EVKC--      inliersPNP.size=73 inliersTri.size=92 common.size=112
+EVKC--      local   1_to_2 T=(0.01 0.97 -0.24)
+EVKC--      local   1_to_3 T=(-0.03 2.00 -0.43)
+MBAU--        SBA        BEFORE average error=1.59e-02
+MBAU--        SBA         AFTER average error=1.45e-02
+EVKC--      refined 1_to_3 T=(-0.01 1.99 -0.44) f=421.9 k1=0.064 k2=-0.012
+EVKC--      prior: A={fx=692.8 cx=400.0 300.0} B={fx=692.8 cx=400.0 300.0} C={fx=692.8 cx=400.0 300.0}
+MSC---        view[0] errors: behind=0 bounds=0 reprojection=0, obs=73
+MSC---        view[1] errors: behind=0 bounds=0 reprojection=0, obs=73
+MSC---        view[2] errors: behind=0 bounds=0 reprojection=0, obs=73
+MEBOV-    calibrated.size=73 unknown.size=92 : triples.size=92
+MEBOV-    calibrated: T=(-0.02 3.71 -0.72) f=421.9
+MEBOV-    unknown:    T=(-0.02 3.72 -0.69) f=423.2
+MEBOV-    Selected calibrated
+MFUPG-  _ scene[0].view='6' adding: size=0 views={ }
+MFUPG-  _ Expanded scene=0 view='6'  inliers=92/112 Open added.size=0
+MFUPG-  Selecting next scene/view to expand.
+MFUPG-  _ scene[0].open.size=4 score=7.70 conn=3
+MFUPG-  Expanding scene[0].view='7' score=7.70
+MEBOV-    best pair: score=7.70 from pairs=9 views.size=7
+MEBOV-    Expanding to view='7' using views ( '5' , '6') common=98 valid.size=7
+MEBOV-    prior: A={fx=692.8 cx=400.0 300.0} B={fx=692.8 cx=400.0 300.0} C={fx=692.8 cx=400.0 300.0}
+MEBOV-    Trifocal RANSAC inliers.size=75
+EVSC--      L  View 1 to 2     T=(-0.0 1.0 -0.2) scale=0.804607
+EVSC--      H  View 1 to 2     T=(-0.2 0.8 -0.5)
+EVSC--      view1.f=421.90 view2.f=421.90
+EVSC--      Initial T=(-0.0 1.5 -0.4) f=457.6 k1=0.000 k2=0.000
+EVSC--      refined 1_to_3 T=(-0.02 1.97 -0.34) f=427.4 k1=0.068 k2=-0.020
+EVSC--      prior: A={fx=692.8 cx=400.0 300.0} B={fx=692.8 cx=400.0 300.0} C={fx=692.8 cx=400.0 300.0}
+MSC---        view[0] errors: behind=0 bounds=0 reprojection=0, obs=75
+MSC---        view[1] errors: behind=0 bounds=0 reprojection=0, obs=75
+MSC---        view[2] errors: behind=0 bounds=0 reprojection=0, obs=75
+EVSC--      Rescaled Local T=(-0.02 1.58 -0.27)
+EVSC--      Final Global   T=(-0.03 4.52 -0.76)
+EVKC--      inliersPNP.size=54 inliersTri.size=75 common.size=98
+EVKC--      local   1_to_2 T=(-0.02 0.98 -0.21)
+EVKC--      local   1_to_3 T=(-0.04 1.99 -0.38)
+MBAU--        SBA        BEFORE average error=1.91e-02
+MBAU--        SBA         AFTER average error=1.76e-02
+EVKC--      refined 1_to_3 T=(-0.04 1.97 -0.39) f=421.9 k1=0.064 k2=-0.012
+EVKC--      prior: A={fx=692.8 cx=400.0 300.0} B={fx=692.8 cx=400.0 300.0} C={fx=692.8 cx=400.0 300.0}
+MSC---        view[0] errors: behind=0 bounds=0 reprojection=0, obs=54
+MSC---        view[1] errors: behind=0 bounds=0 reprojection=0, obs=54
+MSC---        view[2] errors: behind=0 bounds=0 reprojection=0, obs=54
+MEBOV-    calibrated.size=54 unknown.size=75 : triples.size=75
+MEBOV-    calibrated: T=(-0.04 4.52 -0.80) f=421.9
+MEBOV-    unknown:    T=(-0.03 4.52 -0.76) f=427.4
+MEBOV-    Selected calibrated
+MFUPG-  _ scene[0].view='7' adding: size=0 views={ }
+MFUPG-  _ Expanded scene=0 view='7'  inliers=75/98 Open added.size=0
+MFUPG-  Selecting next scene/view to expand.
+MFUPG-  _ scene[0].open.size=3 score=7.25 conn=3
+MFUPG-  Expanding scene[0].view='8' score=7.25
+MEBOV-    best pair: score=7.25 from pairs=19 views.size=8
+MEBOV-    Expanding to view='8' using views ( '6' , '7') common=73 valid.size=8
+MEBOV-    prior: A={fx=692.8 cx=400.0 300.0} B={fx=692.8 cx=400.0 300.0} C={fx=692.8 cx=400.0 300.0}
+MEBOV-    Trifocal RANSAC inliers.size=58
+EVSC--      L  View 1 to 2     T=(-0.0 1.0 -0.2) scale=0.813609
+EVSC--      H  View 1 to 2     T=(-0.3 0.9 -0.2)
+EVSC--      view1.f=421.90 view2.f=421.90
+EVSC--      Initial T=(-0.5 2.0 -0.7) f=391.7 k1=0.000 k2=0.000
+EVSC--      refined 1_to_3 T=(-0.06 1.94 -0.38) f=426.7 k1=0.011 k2=0.041
+EVSC--      prior: A={fx=692.8 cx=400.0 300.0} B={fx=692.8 cx=400.0 300.0} C={fx=692.8 cx=400.0 300.0}
+MSC---        view[0] errors: behind=0 bounds=0 reprojection=0, obs=58
+MSC---        view[1] errors: behind=0 bounds=0 reprojection=0, obs=58
+MSC---        view[2] errors: behind=0 bounds=0 reprojection=0, obs=58
+EVSC--      Rescaled Local T=(-0.05 1.58 -0.31)
+EVSC--      Final Global   T=(-0.08 5.31 -0.88)
+EVKC--      inliersPNP.size=43 inliersTri.size=58 common.size=73
+EVKC--      local   1_to_2 T=(-0.01 0.98 -0.20)
+EVKC--      local   1_to_3 T=(-0.04 1.93 -0.40)
+MBAU--        SBA        BEFORE average error=2.13e-02
+MBAU--        SBA         AFTER average error=2.05e-02
+EVKC--      refined 1_to_3 T=(-0.03 1.93 -0.40) f=421.9 k1=0.064 k2=-0.012
+EVKC--      prior: A={fx=692.8 cx=400.0 300.0} B={fx=692.8 cx=400.0 300.0} C={fx=692.8 cx=400.0 300.0}
+MSC---        view[0] errors: behind=0 bounds=0 reprojection=0, obs=43
+MSC---        view[1] errors: behind=0 bounds=0 reprojection=0, obs=43
+MSC---        view[2] errors: behind=0 bounds=0 reprojection=0, obs=43
+EVKC--      Rejected: matches.size=43 / common.size=73
+MEBOV-    FAILED to estimate view using a known calibrated camera
+MEBOV-    calibrated.size=0 unknown.size=58 : triples.size=58
+MEBOV-    calibrated: T=(0.00 0.00 0.00) f=0.0
+MEBOV-    unknown:    T=(-0.08 5.31 -0.88) f=426.7
+MEBOV-    Selected unknown
+MFUPG-  _ scene[0].view='8' adding: size=0 views={ }
+MFUPG-  _ Expanded scene=0 view='8'  inliers=58/73 Open added.size=0
+MFUPG-  Selecting next scene/view to expand.
+MFUPG-  _ scene[0].open.size=2 score=5.30 conn=3
+MFUPG-  Expanding scene[0].view='9' score=5.30
+MEBOV-    best pair: score=5.30 from pairs=24 views.size=9
+MEBOV-    Expanding to view='9' using views ( '7' , '8') common=35 valid.size=9
+MEBOV-    prior: A={fx=692.8 cx=400.0 300.0} B={fx=692.8 cx=400.0 300.0} C={fx=692.8 cx=400.0 300.0}
+MEBOV-    Trifocal RANSAC inliers.size=28
+EVSC--      L  View 1 to 2     T=(-0.0 1.0 -0.2) scale=0.797724
+EVSC--      H  View 1 to 2     T=(0.3 0.9 -0.3)
+EVSC--      view1.f=421.90 view2.f=421.90
+EVSC--      Initial T=(-0.2 1.6 -0.9) f=393.1 k1=0.000 k2=0.000
+EVSC--      refined 1_to_3 T=(-0.05 1.96 -0.33) f=433.3 k1=0.048 k2=-0.003
+EVSC--      prior: A={fx=692.8 cx=400.0 300.0} B={fx=692.8 cx=400.0 300.0} C={fx=692.8 cx=400.0 300.0}
+MSC---        view[0] errors: behind=0 bounds=0 reprojection=0, obs=28
+MSC---        view[1] errors: behind=0 bounds=0 reprojection=0, obs=28
+MSC---        view[2] errors: behind=0 bounds=0 reprojection=0, obs=28
+EVSC--      Rescaled Local T=(-0.04 1.57 -0.27)
+EVSC--      Final Global   T=(-0.11 6.11 -0.93)
+EVKC--      inliersPNP.size=20 inliersTri.size=28 common.size=35
+EVKC--      local   1_to_2 T=(-0.04 0.98 -0.20)
+EVKC--      local   1_to_3 T=(-0.04 2.01 -0.41)
+MBAU--        SBA        BEFORE average error=3.73e-02
+MBAU--        SBA         AFTER average error=3.52e-02
+EVKC--      refined 1_to_3 T=(-0.05 1.99 -0.41) f=421.9 k1=0.064 k2=-0.012
+EVKC--      prior: A={fx=692.8 cx=400.0 300.0} B={fx=692.8 cx=400.0 300.0} C={fx=692.8 cx=400.0 300.0}
+MSC---        view[0] errors: behind=0 bounds=0 reprojection=0, obs=20
+MSC---        view[1] errors: behind=0 bounds=0 reprojection=0, obs=20
+MSC---        view[2] errors: behind=0 bounds=0 reprojection=0, obs=20
+EVKC--      Rejected: matches.size=20 / common.size=35
+MEBOV-    FAILED to estimate view using a known calibrated camera
+MEBOV-    calibrated.size=0 unknown.size=28 : triples.size=28
+MEBOV-    calibrated: T=(0.00 0.00 0.00) f=0.0
+MEBOV-    unknown:    T=(-0.11 6.11 -0.93) f=433.3
+MEBOV-    Selected unknown
+MFUPG-  _ scene[0].view='9' adding: size=0 views={ }
+MFUPG-  _ Expanded scene=0 view='9'  inliers=28/35 Open added.size=0
+MFUPG-  Selecting next scene/view to expand.
+MFUPG-  _ scene[0].open.size=1 score=5.55 conn=3
+MFUPG-  Expanding scene[0].view='10' score=5.55
+MEBOV-    best pair: score=5.55 from pairs=16 views.size=10
+MEBOV-    Expanding to view='10' using views ( '8' , '9') common=32 valid.size=10
+MEBOV-    prior: A={fx=692.8 cx=400.0 300.0} B={fx=692.8 cx=400.0 300.0} C={fx=692.8 cx=400.0 300.0}
+MEBOV-    Trifocal RANSAC inliers.size=25
+EVSC--      L  View 1 to 2     T=(-0.0 1.0 -0.1) scale=0.791157
+EVSC--      H  View 1 to 2     T=(0.0 1.0 0.2)
+EVSC--      view1.f=421.90 view2.f=421.90
+EVSC--      Initial T=(32.0 -40.6 -12.3) f=566.3 k1=0.000 k2=0.000
+EVSC--      refined 1_to_3 T=(1.17 -4.86 -8.27) f=593.2 k1=-0.046 k2=0.005
+EVSC--      prior: A={fx=692.8 cx=400.0 300.0} B={fx=692.8 cx=400.0 300.0} C={fx=692.8 cx=400.0 300.0}
+MSC---        view[0] errors: behind=0 bounds=0 reprojection=0, obs=25
+MSC---        view[1] errors: behind=0 bounds=0 reprojection=0, obs=25
+MSC---        view[2] errors: behind=25 bounds=0 reprojection=0, obs=25
+EVSC--      Failed check on image and physical constraints. bad=25/25
+MEBOV-    FAILED to estimate view using an unknown camera
+EVKC--      inliersPNP.size=16 inliersTri.size=25 common.size=32
+EVKC--      local   1_to_2 T=(-0.01 0.99 -0.14)
+EVKC--      local   1_to_3 T=(-0.07 1.96 -0.47)
+MBAU--        SBA        BEFORE average error=1.37e-01
+MBAU--        SBA         AFTER average error=1.11e-01
+EVKC--      refined 1_to_3 T=(-0.06 2.01 -0.41) f=421.9 k1=0.064 k2=-0.012
+EVKC--      prior: A={fx=692.8 cx=400.0 300.0} B={fx=692.8 cx=400.0 300.0} C={fx=692.8 cx=400.0 300.0}
+MSC---        view[0] errors: behind=0 bounds=0 reprojection=0, obs=16
+MSC---        view[1] errors: behind=0 bounds=0 reprojection=0, obs=16
+MSC---        view[2] errors: behind=0 bounds=0 reprojection=0, obs=16
+EVKC--      Rejected: matches.size=16 / common.size=32
+MEBOV-    FAILED to estimate view using a known calibrated camera
+MEBOV-    FAILED no valid solution to expand with
+MFUPG-  FAILED: Expand/add scene=0 view='10'. Discarding.
+MFUPG-  Selecting next scene/view to expand.
+MFUPG-  Refining all scenes before merging
+MFUPG-  Merging Scenes. scenes.size=1
+MFUPG-  scenes.size=1
+MFUPG-  _ scene[0].size = 10
+MFUPG-  Done.
+----- Building scene0
+Steps     fx        change      |step|   f-test     g-test    tr-ratio  lambda 
+0     2.708E+02   0.000E+00  0.000E+00  0.000E+00  0.000E+00    0.00   1.00E-04
+1     1.666E+02  -1.043E+02  4.035E-02  3.850E-01  4.847E+01   1.000   3.33E-05
+2     1.666E+02  -2.897E-03  6.927E-02  1.739E-05  1.245E-02   1.042   1.11E-05
+3     1.666E+02  -5.971E-04  2.096E-01  3.585E-06  1.541E-02   1.988   3.70E-06
+Converged f-test
+Steps     fx        change      |step|   f-test     g-test    tr-ratio  lambda 
+0     1.572E+02   0.000E+00  0.000E+00  0.000E+00  0.000E+00    0.00   1.00E-04
+1     1.476E+02  -9.547E+00  2.297E-01  6.075E-02  1.215E-01   1.011   3.33E-05
+2     1.475E+02  -7.259E-02  1.561E-01  4.918E-04  9.834E-01   1.294   1.11E-05
+3     1.475E+02  -3.628E-02  2.330E-01  2.459E-04  7.273E-01   1.479   3.70E-06
+4     1.475E+02  -1.547E-02  2.364E-01  1.049E-04  1.770E+00   1.178   1.23E-06
+5     1.475E+02  -1.098E-03  2.101E-01  7.446E-06  1.264E+00   0.494   1.23E-06
+Converged f-test
+----------------------------------------------------------------------------
+view[ 0]=' 1' f= 365.9 k1= 0.036 k2=-0.006 T={  0.0,  0.0,  0.0} R=0.000
+view[ 1]=' 0' f= 365.9 k1= 0.036 k2=-0.006 T={  0.0, -0.6,  0.1} R=0.010
+view[ 2]=' 2' f= 365.9 k1= 0.036 k2=-0.006 T={  0.0,  0.7, -0.1} R=0.010
+view[ 3]=' 3' f= 365.9 k1= 0.036 k2=-0.006 T={  0.0,  1.4, -0.3} R=0.019
+view[ 4]=' 4' f= 365.9 k1= 0.036 k2=-0.006 T={  0.0,  2.2, -0.4} R=0.028
+view[ 5]=' 5' f= 365.9 k1= 0.036 k2=-0.006 T={ -0.0,  2.9, -0.6} R=0.036
+view[ 6]=' 6' f= 365.9 k1= 0.036 k2=-0.006 T={ -0.0,  3.7, -0.7} R=0.047
+view[ 7]=' 7' f= 365.9 k1= 0.036 k2=-0.006 T={ -0.1,  4.5, -0.8} R=0.058
+view[ 8]=' 8' f= 365.9 k1= 0.036 k2=-0.006 T={ -0.1,  5.3, -0.9} R=0.066
+view[ 9]=' 9' f= 365.9 k1= 0.036 k2=-0.006 T={ -0.1,  6.1, -1.1} R=0.089
+   Views used: 10 / 11
+Verbose: MVSFKS MultiViewStereoFromKnownSceneStructure
+Verbose: MBSI-- MultiBaselineStereoIndependent
+Verbose: MBDE-- MultiBaselineDisparityErrors
+Verbose: DSSF-- DisparitySmootherSpeckleFilter
+MVSFKS  View[0] center score= 8.45 aveQuality=0.62 conn=2/2
+MVSFKS  View[1] center score=11.35 aveQuality=0.61 conn=3/3
+MVSFKS  View[2] center score=11.72 aveQuality=0.58 conn=4/4
+MVSFKS  View[3] center score=11.01 aveQuality=0.46 conn=3/3
+MVSFKS  View[4] center score=11.03 aveQuality=0.35 conn=4/4
+MVSFKS  View[5] center score=10.57 aveQuality=0.40 conn=2/2
+MVSFKS  View[6] center score=10.77 aveQuality=0.28 conn=4/4
+MVSFKS  View[7] center score=10.29 aveQuality=0.22 conn=2/3
+MVSFKS  View[8] center score= 7.70 aveQuality=0.13 conn=2/3
+MVSFKS  View[9] center score= 0.00 aveQuality=-1.00 conn=0/2
+MVSFKS  Center[0] View='2'
+MVSFKS  _ connected: consider=4 views=[ '4' '3' '0' '1' ].size=4
+MBSI--  ENTER process()
+DSSF--    Speckle maxArea=960 filled=251
+DSSF--    Speckle maxArea=960 filled=461
+DSSF--    Speckle maxArea=960 filled=529
+DSSF--    Speckle maxArea=960 filled=643
+MBSI--  Created fused stereo disparity image. inputs.size=4
+MBDE--    Fusing: shape=800x600 images.size=4
+MBSI--  Timing (ms), disp=10528.2 smooth=155.2 lookup=3563.1 all=14808.5, count=4 view='2'
+MVSFKS  fused cloud.size=411578
+MVSFKS  Center[1] View='1'
+MVSFKS  _ connected: consider=3 views=[ '3' '2' '0' ].size=3
+MBSI--  ENTER process()
+DSSF--    Speckle maxArea=960 filled=696
+DSSF--    Speckle maxArea=960 filled=722
+DSSF--    Speckle maxArea=961 filled=698
+MBSI--  Created fused stereo disparity image. inputs.size=3
+MBDE--    Fusing: shape=800x600 images.size=3
+MBSI--  Timing (ms), disp=6245.9 smooth= 36.8 lookup=2555.8 all=9214.7, count=3 view='1'
+MVSFKS  fused cloud.size=477660
+MVSFKS  Center[2] View='4'
+MVSFKS  _ connected: consider=4 views=[ '6' '5' '3' '2' ].size=4
+MBSI--  ENTER process()
+DSSF--    Speckle maxArea=960 filled=516
+DSSF--    Speckle maxArea=960 filled=530
+DSSF--    Speckle maxArea=960 filled=557
+DSSF--    Speckle maxArea=960 filled=848
+MBSI--  Created fused stereo disparity image. inputs.size=4
+MBDE--    Fusing: shape=800x600 images.size=4
+MBSI--  Timing (ms), disp=7756.8 smooth= 40.2 lookup=3130.6 all=11407.1, count=4 view='4'
+MVSFKS  fused cloud.size=635112
+MVSFKS  Center[3] View='3'
+MVSFKS  _ connected: consider=3 views=[ '4' '2' '1' ].size=3
+MBSI--  ENTER process()
+DSSF--    Speckle maxArea=959 filled=543
+DSSF--    Speckle maxArea=959 filled=538
+DSSF--    Speckle maxArea=960 filled=462
+MBSI--  Created fused stereo disparity image. inputs.size=3
+MBDE--    Fusing: shape=800x600 images.size=3
+MBSI--  Timing (ms), disp=5963.9 smooth= 30.0 lookup=2377.7 all=8729.8, count=3 view='3'
+MVSFKS  fused cloud.size=672265
+MVSFKS  Center[4] View='6'
+MVSFKS  _ connected: consider=4 views=[ '8' '7' '5' '4' ].size=4
+MBSI--  ENTER process()
+DSSF--    Speckle maxArea=960 filled=434
+DSSF--    Speckle maxArea=960 filled=541
+DSSF--    Speckle maxArea=960 filled=627
+DSSF--    Speckle maxArea=959 filled=839
+MBSI--  Created fused stereo disparity image. inputs.size=4
+MBDE--    Fusing: shape=800x600 images.size=4
+MBSI--  Timing (ms), disp=8061.9 smooth= 46.2 lookup=3301.2 all=11823.4, count=4 view='6'
+MVSFKS  fused cloud.size=834557
+MVSFKS  Center[5] View='5'
+MVSFKS  _ connected: consider=2 views=[ '6' '4' ].size=2
+MBSI--  ENTER process()
+DSSF--    Speckle maxArea=961 filled=468
+DSSF--    Speckle maxArea=960 filled=509
+MBSI--  Created fused stereo disparity image. inputs.size=2
+MBDE--    Fusing: shape=800x600 images.size=2
+MBSI--  Timing (ms), disp=3933.3 smooth= 21.1 lookup=1756.8 all=5966.1, count=2 view='5'
+MVSFKS  fused cloud.size=883626
+MVSFKS  Center[6] View='7'
+MVSFKS  _ connected: consider=3 views=[ '8' '6' ].size=2
+MBSI--  ENTER process()
+DSSF--    Speckle maxArea=960 filled=410
+DSSF--    Speckle maxArea=959 filled=558
+MBSI--  Created fused stereo disparity image. inputs.size=2
+MBDE--    Fusing: shape=800x600 images.size=2
+MBSI--  Timing (ms), disp=3860.3 smooth= 19.5 lookup=1935.5 all=6053.8, count=2 view='7'
+MVSFKS  fused cloud.size=984902
+MVSFKS  Center[7] View='0'
+MVSFKS  _ connected: consider=2 views=[ '2' '1' ].size=2
+MBSI--  ENTER process()
+DSSF--    Speckle maxArea=961 filled=692
+DSSF--    Speckle maxArea=961 filled=638
+MBSI--  Created fused stereo disparity image. inputs.size=2
+MBDE--    Fusing: shape=800x600 images.size=2
+MBSI--  Timing (ms), disp=4099.5 smooth= 20.2 lookup=1845.3 all=6202.0, count=2 view='0'
+MVSFKS  fused cloud.size=1008029
+MVSFKS  Center[8] View='8'
+MVSFKS  _ connected: consider=3 views=[ '7' '6' ].size=2
+MBSI--  ENTER process()
+DSSF--    Speckle maxArea=960 filled=449
+DSSF--    Speckle maxArea=959 filled=776
+MBSI--  Created fused stereo disparity image. inputs.size=2
+MBDE--    Fusing: shape=800x600 images.size=2
+MBSI--  Timing (ms), disp=3926.9 smooth= 24.3 lookup=1904.3 all=6102.6, count=2 view='8'
+MVSFKS  fused cloud.size=1081576
+MVSFKS  Center[9] View='9'
+MVSFKS  _ connected: consider=2 views=[ ].size=0
+MVSFKS  _ too few connections to use as a center

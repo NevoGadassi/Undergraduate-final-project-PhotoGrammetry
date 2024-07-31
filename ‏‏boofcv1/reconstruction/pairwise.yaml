@@ -1,0 +1,11116 @@
+# PairwiseImageGraph in YAML format. BoofCV 1.1.3-SNAPSHOT
+motions:
+- score_3d: 8.25
+  inliers:
+  - dst: 410
+    src: 15
+  - dst: 550
+    src: 70
+  - dst: 535
+    src: 71
+  - dst: 664
+    src: 602
+  - dst: 47
+    src: 1
+  - dst: 49
+    src: 165
+  - dst: 105
+    src: 171
+  - dst: 99
+    src: 172
+  - dst: 51
+    src: 175
+  - dst: 31
+    src: 180
+  - dst: 32
+    src: 186
+  - dst: 52
+    src: 187
+  - dst: 50
+    src: 205
+  - dst: 617
+    src: 227
+  - dst: 98
+    src: 235
+  - dst: 119
+    src: 286
+  - dst: 29
+    src: 347
+  - dst: 46
+    src: 385
+  - dst: 630
+    src: 400
+  - dst: 212
+    src: 401
+  - dst: 583
+    src: 439
+  - dst: 62
+    src: 456
+  - dst: 42
+    src: 509
+  - dst: 692
+    src: 526
+  - dst: 53
+    src: 528
+  - dst: 705
+    src: 535
+  - dst: 587
+    src: 553
+  - dst: 765
+    src: 568
+  - dst: 74
+    src: 582
+  - dst: 766
+    src: 617
+  - dst: 117
+    src: 680
+  - dst: 601
+    src: 685
+  - dst: 704
+    src: 716
+  - dst: 740
+    src: 741
+  - dst: 720
+    src: 789
+  - dst: 479
+    src: 38
+  - dst: 526
+    src: 84
+  - dst: 476
+    src: 113
+  - dst: 527
+    src: 273
+  - dst: 319
+    src: 545
+  - dst: 660
+    src: 578
+  - dst: 467
+    src: 27
+  - dst: 609
+    src: 525
+  - dst: 488
+    src: 103
+  - dst: 263
+    src: 153
+  - dst: 82
+    src: 238
+  - dst: 71
+    src: 507
+  - dst: 549
+    src: 56
+  - dst: 181
+    src: 163
+  - dst: 537
+    src: 260
+  - dst: 536
+    src: 261
+  - dst: 361
+    src: 330
+  - dst: 257
+    src: 370
+  - dst: 206
+    src: 394
+  - dst: 777
+    src: 402
+  - dst: 229
+    src: 416
+  - dst: 739
+    src: 437
+  - dst: 733
+    src: 453
+  - dst: 769
+    src: 457
+  - dst: 719
+    src: 478
+  - dst: 612
+    src: 493
+  - dst: 165
+    src: 544
+  - dst: 362
+    src: 563
+  - dst: 370
+    src: 607
+  - dst: 472
+    src: 708
+  - dst: 417
+    src: 6
+  - dst: 590
+    src: 241
+  - dst: 618
+    src: 388
+  - dst: 259
+    src: 459
+  - dst: 69
+    src: 570
+  - dst: 645
+    src: 588
+  - dst: 711
+    src: 604
+  - dst: 591
+    src: 605
+  - dst: 714
+    src: 614
+  - dst: 110
+    src: 678
+  - dst: 419
+    src: 8
+  - dst: 442
+    src: 20
+  - dst: 445
+    src: 34
+  - dst: 480
+    src: 39
+  - dst: 121
+    src: 315
+  - dst: 793
+    src: 573
+  - dst: 658
+    src: 608
+  - dst: 744
+    src: 642
+  - dst: 732
+    src: 747
+  - dst: 67
+    src: 387
+  - dst: 563
+    src: 57
+  - dst: 557
+    src: 58
+  - dst: 556
+    src: 61
+  - dst: 453
+    src: 118
+  - dst: 254
+    src: 158
+  - dst: 406
+    src: 199
+  - dst: 444
+    src: 209
+  - dst: 246
+    src: 376
+  - dst: 231
+    src: 378
+  - dst: 425
+    src: 29
+  - dst: 484
+    src: 106
+  - dst: 451
+    src: 111
+  - dst: 452
+    src: 297
+  - dst: 651
+    src: 350
+  - dst: 270
+    src: 371
+  - dst: 621
+    src: 393
+  - dst: 435
+    src: 407
+  - dst: 244
+    src: 436
+  - dst: 178
+    src: 461
+  - dst: 731
+    src: 475
+  - dst: 322
+    src: 538
+  - dst: 174
+    src: 351
+  - dst: 264
+    src: 380
+  - dst: 366
+    src: 136
+  - dst: 383
+    src: 137
+  - dst: 357
+    src: 138
+  - dst: 177
+    src: 166
+  - dst: 458
+    src: 294
+  - dst: 422
+    src: 301
+  - dst: 421
+    src: 302
+  - dst: 395
+    src: 320
+  - dst: 211
+    src: 399
+  - dst: 701
+    src: 577
+  - dst: 650
+    src: 586
+  - dst: 396
+    src: 612
+  - dst: 632
+    src: 639
+  - dst: 773
+    src: 666
+  - dst: 721
+    src: 710
+  - dst: 470
+    src: 112
+  - dst: 450
+    src: 122
+  - dst: 261
+    src: 156
+  - dst: 372
+    src: 321
+  - dst: 313
+    src: 345
+  - dst: 314
+    src: 353
+  - dst: 652
+    src: 541
+  - dst: 133
+    src: 722
+  - dst: 423
+    src: 123
+  - dst: 344
+    src: 143
+  - dst: 331
+    src: 341
+  - dst: 292
+    src: 360
+  - dst: 315
+    src: 527
+  - dst: 684
+    src: 551
+  - dst: 655
+    src: 552
+  - dst: 654
+    src: 558
+  - dst: 661
+    src: 565
+  - dst: 795
+    src: 683
+  - dst: 456
+    src: 116
+  - dst: 455
+    src: 117
+  - dst: 596
+    src: 178
+  - dst: 554
+    src: 256
+  - dst: 682
+    src: 395
+  - dst: 581
+    src: 438
+  - dst: 582
+    src: 495
+  - dst: 625
+    src: 658
+  - dst: 129
+    src: 748
+  - dst: 564
+    src: 251
+  - dst: 426
+    src: 480
+  - dst: 391
+    src: 130
+  - dst: 298
+    src: 152
+  - dst: 204
+    src: 184
+  - dst: 473
+    src: 289
+  - dst: 685
+    src: 403
+  - dst: 635
+    src: 415
+  - dst: 747
+    src: 420
+  - dst: 749
+    src: 430
+  - dst: 727
+    src: 435
+  - dst: 268
+    src: 463
+  - dst: 606
+    src: 500
+  - dst: 710
+    src: 567
+  - dst: 696
+    src: 673
+  dst: '48'
+  src: '1'
+  is_3D: true
+- score_3d: 5.05
+  inliers:
+  - dst: 303
+    src: 46
+  - dst: 531
+    src: 88
+  - dst: 440
+    src: 209
+  - dst: 395
+    src: 252
+  - dst: 410
+    src: 277
+  - dst: 383
+    src: 293
+  - dst: 391
+    src: 294
+  - dst: 285
+    src: 426
+  - dst: 274
+    src: 441
+  - dst: 204
+    src: 467
+  - dst: 256
+    src: 472
+  - dst: 115
+    src: 511
+  - dst: 96
+    src: 528
+  - dst: 157
+    src: 548
+  - dst: 73
+    src: 576
+  - dst: 64
+    src: 607
+  - dst: 310
+    src: 676
+  - dst: 596
+    src: 377
+  - dst: 91
+    src: 578
+  - dst: 287
+    src: 81
+  - dst: 1
+    src: 180
+  - dst: 415
+    src: 233
+  - dst: 380
+    src: 305
+  - dst: 412
+    src: 310
+  - dst: 569
+    src: 319
+  - dst: 365
+    src: 347
+  - dst: 355
+    src: 362
+  - dst: 200
+    src: 469
+  - dst: 237
+    src: 471
+  - dst: 140
+    src: 502
+  - dst: 189
+    src: 567
+  - dst: 48
+    src: 638
+  - dst: 193
+    src: 74
+  - dst: 409
+    src: 157
+  - dst: 487
+    src: 279
+  - dst: 508
+    src: 530
+  - dst: 222
+    src: 107
+  - dst: 575
+    src: 366
+  - dst: 333
+    src: 433
+  - dst: 541
+    src: 474
+  - dst: 156
+    src: 598
+  - dst: 296
+    src: 145
+  - dst: 267
+    src: 148
+  - dst: 384
+    src: 292
+  - dst: 262
+    src: 401
+  - dst: 546
+    src: 123
+  - dst: 291
+    src: 587
+  - dst: 307
+    src: 80
+  - dst: 598
+    src: 99
+  - dst: 368
+    src: 113
+  - dst: 526
+    src: 172
+  - dst: 592
+    src: 204
+  - dst: 428
+    src: 297
+  - dst: 367
+    src: 350
+  - dst: 571
+    src: 384
+  - dst: 275
+    src: 412
+  - dst: 602
+    src: 420
+  - dst: 300
+    src: 461
+  - dst: 601
+    src: 681
+  - dst: 705
+    src: 713
+  - dst: 537
+    src: 755
+  - dst: 179
+    src: 75
+  - dst: 448
+    src: 388
+  - dst: 308
+    src: 428
+  - dst: 273
+    src: 458
+  - dst: 374
+    src: 348
+  - dst: 542
+    src: 425
+  - dst: 284
+    src: 427
+  - dst: 202
+    src: 468
+  - dst: 255
+    src: 473
+  - dst: 152
+    src: 485
+  - dst: 45
+    src: 498
+  - dst: 114
+    src: 527
+  - dst: 483
+    src: 579
+  - dst: 331
+    src: 479
+  - dst: 316
+    src: 493
+  - dst: 272
+    src: 29
+  - dst: 216
+    src: 53
+  - dst: 420
+    src: 265
+  - dst: 564
+    src: 666
+  - dst: 514
+    src: 737
+  - dst: 471
+    src: 763
+  - dst: 519
+    src: 779
+  - dst: 388
+    src: 351
+  - dst: 220
+    src: 470
+  - dst: 297
+    src: 477
+  - dst: 195
+    src: 535
+  - dst: 28
+    src: 592
+  - dst: 642
+    src: 661
+  - dst: 213
+    src: 506
+  - dst: 527
+    src: 515
+  - dst: 375
+    src: 329
+  - dst: 176
+    src: 531
+  - dst: 185
+    src: 532
+  - dst: 184
+    src: 533
+  - dst: 668
+    src: 700
+  - dst: 317
+    src: 478
+  - dst: 299
+    src: 491
+  - dst: 293
+    src: 492
+  - dst: 253
+    src: 518
+  - dst: 54
+    src: 626
+  dst: '3'
+  src: '2'
+  is_3D: true
+- score_3d: 6.95
+  inliers:
+  - dst: 245
+    src: 0
+  - dst: 581
+    src: 175
+  - dst: 117
+    src: 277
+  - dst: 133
+    src: 293
+  - dst: 143
+    src: 294
+  - dst: 157
+    src: 295
+  - dst: 461
+    src: 416
+  - dst: 250
+    src: 426
+  - dst: 302
+    src: 431
+  - dst: 243
+    src: 467
+  - dst: 319
+    src: 472
+  - dst: 233
+    src: 510
+  - dst: 262
+    src: 523
+  - dst: 494
+    src: 675
+  - dst: 515
+    src: 120
+  - dst: 13
+    src: 178
+  - dst: 397
+    src: 250
+  - dst: 403
+    src: 578
+  - dst: 108
+    src: 648
+  - dst: 611
+    src: 111
+  - dst: 562
+    src: 260
+  - dst: 134
+    src: 305
+  - dst: 75
+    src: 315
+  - dst: 155
+    src: 319
+  - dst: 492
+    src: 360
+  - dst: 505
+    src: 382
+  - dst: 266
+    src: 456
+  - dst: 300
+    src: 471
+  - dst: 241
+    src: 501
+  - dst: 517
+    src: 119
+  - dst: 502
+    src: 286
+  - dst: 422
+    src: 564
+  - dst: 145
+    src: 769
+  - dst: 462
+    src: 318
+  - dst: 663
+    src: 5
+  - dst: 645
+    src: 157
+  - dst: 417
+    src: 640
+  - dst: 701
+    src: 109
+  - dst: 34
+    src: 211
+  - dst: 415
+    src: 437
+  - dst: 373
+    src: 561
+  - dst: 370
+    src: 590
+  - dst: 419
+    src: 612
+  - dst: 559
+    src: 78
+  - dst: 661
+    src: 101
+  - dst: 614
+    src: 174
+  - dst: 169
+    src: 306
+  - dst: 503
+    src: 338
+  - dst: 400
+    src: 371
+  - dst: 148
+    src: 435
+  - dst: 299
+    src: 503
+  - dst: 316
+    src: 513
+  - dst: 281
+    src: 557
+  - dst: 279
+    src: 569
+  - dst: 259
+    src: 585
+  - dst: 449
+    src: 598
+  - dst: 463
+    src: 637
+  - dst: 610
+    src: 667
+  - dst: 742
+    src: 140
+  - dst: 65
+    src: 145
+  - dst: 225
+    src: 386
+  - dst: 349
+    src: 489
+  - dst: 479
+    src: 627
+  - dst: 295
+    src: 633
+  - dst: 634
+    src: 98
+  - dst: 106
+    src: 240
+  - dst: 146
+    src: 243
+  - dst: 475
+    src: 273
+  - dst: 215
+    src: 350
+  - dst: 351
+    src: 475
+  - dst: 761
+    src: 659
+  - dst: 595
+    src: 112
+  - dst: 471
+    src: 122
+  - dst: 519
+    src: 179
+  - dst: 137
+    src: 225
+  - dst: 139
+    src: 235
+  - dst: 598
+    src: 253
+  - dst: 539
+    src: 302
+  - dst: 459
+    src: 341
+  - dst: 214
+    src: 349
+  - dst: 181
+    src: 363
+  - dst: 286
+    src: 457
+  - dst: 317
+    src: 504
+  - dst: 315
+    src: 512
+  - dst: 372
+    src: 560
+  - dst: 258
+    src: 584
+  - dst: 495
+    src: 628
+  - dst: 722
+    src: 35
+  - dst: 736
+    src: 52
+  - dst: 596
+    src: 161
+  - dst: 521
+    src: 262
+  - dst: 158
+    src: 296
+  - dst: 565
+    src: 301
+  - dst: 568
+    src: 332
+  - dst: 289
+    src: 404
+  - dst: 235
+    src: 425
+  - dst: 251
+    src: 427
+  - dst: 320
+    src: 473
+  - dst: 234
+    src: 484
+  - dst: 242
+    src: 485
+  - dst: 223
+    src: 498
+  - dst: 297
+    src: 527
+  - dst: 360
+    src: 589
+  - dst: 438
+    src: 596
+  - dst: 640
+    src: 24
+  - dst: 453
+    src: 168
+  - dst: 507
+    src: 403
+  - dst: 358
+    src: 634
+  - dst: 398
+    src: 726
+  - dst: 474
+    src: 229
+  - dst: 561
+    src: 261
+  - dst: 119
+    src: 265
+  - dst: 457
+    src: 324
+  - dst: 182
+    src: 346
+  - dst: 254
+    src: 389
+  - dst: 267
+    src: 430
+  - dst: 615
+    src: 645
+  - dst: 541
+    src: 689
+  - dst: 789
+    src: 779
+  - dst: 627
+    src: 790
+  - dst: 506
+    src: 407
+  - dst: 285
+    src: 470
+  - dst: 391
+    src: 535
+  - dst: 312
+    src: 571
+  - dst: 371
+    src: 591
+  - dst: 418
+    src: 611
+  - dst: 171
+    src: 768
+  - dst: 270
+    src: 796
+  - dst: 540
+    src: 356
+  - dst: 361
+    src: 515
+  - dst: 327
+    src: 586
+  - dst: 367
+    src: 623
+  - dst: 276
+    src: 631
+  - dst: 354
+    src: 325
+  - dst: 342
+    src: 343
+  - dst: 326
+    src: 397
+  - dst: 308
+    src: 483
+  - dst: 379
+    src: 517
+  - dst: 690
+    src: 534
+  dst: '8'
+  src: '2'
+  is_3D: true
+- score_3d: 0.0
+  inliers:
+  - dst: 181
+    src: 295
+  - dst: 300
+    src: 472
+  - dst: 111
+    src: 111
+  - dst: 581
+    src: 144
+  - dst: 522
+    src: 337
+  - dst: 451
+    src: 357
+  - dst: 262
+    src: 613
+  - dst: 277
+    src: 432
+  - dst: 339
+    src: 519
+  - dst: 509
+    src: 530
+  - dst: 470
+    src: 552
+  - dst: 53
+    src: 632
+  - dst: 205
+    src: 155
+  - dst: 208
+    src: 306
+  - dst: 361
+    src: 598
+  - dst: 69
+    src: 615
+  - dst: 253
+    src: 637
+  - dst: 88
+    src: 22
+  - dst: 330
+    src: 86
+  - dst: 154
+    src: 145
+  - dst: 137
+    src: 413
+  - dst: 736
+    src: 415
+  - dst: 768
+    src: 489
+  - dst: 61
+    src: 617
+  - dst: 760
+    src: 243
+  - dst: 644
+    src: 328
+  - dst: 708
+    src: 694
+  - dst: 624
+    src: 200
+  - dst: 191
+    src: 388
+  - dst: 641
+    src: 52
+  - dst: 633
+    src: 77
+  - dst: 235
+    src: 181
+  - dst: 512
+    src: 224
+  - dst: 215
+    src: 296
+  - dst: 90
+    src: 320
+  - dst: 704
+    src: 355
+  - dst: 226
+    src: 596
+  - dst: 412
+    src: 403
+  - dst: 682
+    src: 213
+  - dst: 647
+    src: 242
+  - dst: 129
+    src: 645
+  - dst: 474
+    src: 779
+  - dst: 649
+    src: 304
+  - dst: 439
+    src: 611
+  - dst: 778
+    src: 476
+  - dst: 782
+    src: 677
+  - dst: 285
+    src: 506
+  - dst: 375
+    src: 629
+  - dst: 494
+    src: 531
+  - dst: 425
+    src: 532
+  - dst: 176
+    src: 616
+  - dst: 161
+    src: 720
+  - dst: 413
+    src: 534
+  - dst: 607
+    src: 566
+  - dst: 391
+    src: 626
+  dst: '41'
+  src: '2'
+  is_3D: false
+- score_3d: 10.4
+  inliers:
+  - dst: 799
+    src: 90
+  - dst: 602
+    src: 106
+  - dst: 307
+    src: 186
+  - dst: 499
+    src: 356
+  - dst: 472
+    src: 389
+  - dst: 377
+    src: 479
+  - dst: 230
+    src: 150
+  - dst: 453
+    src: 192
+  - dst: 463
+    src: 313
+  - dst: 664
+    src: 509
+  - dst: 68
+    src: 517
+  - dst: 684
+    src: 605
+  - dst: 767
+    src: 606
+  - dst: 636
+    src: 682
+  - dst: 647
+    src: 683
+  - dst: 648
+    src: 684
+  - dst: 498
+    src: 703
+  - dst: 694
+    src: 762
+  - dst: 247
+    src: 120
+  - dst: 174
+    src: 162
+  - dst: 345
+    src: 205
+  - dst: 394
+    src: 222
+  - dst: 421
+    src: 250
+  - dst: 599
+    src: 374
+  - dst: 691
+    src: 378
+  - dst: 494
+    src: 396
+  - dst: 520
+    src: 419
+  - dst: 519
+    src: 420
+  - dst: 725
+    src: 423
+  - dst: 563
+    src: 435
+  - dst: 451
+    src: 457
+  - dst: 316
+    src: 477
+  - dst: 427
+    src: 488
+  - dst: 669
+    src: 533
+  - dst: 779
+    src: 536
+  - dst: 106
+    src: 563
+  - dst: 549
+    src: 607
+  - dst: 689
+    src: 642
+  - dst: 73
+    src: 658
+  - dst: 673
+    src: 659
+  - dst: 45
+    src: 674
+  - dst: 105
+    src: 678
+  - dst: 167
+    src: 98
+  - dst: 324
+    src: 136
+  - dst: 214
+    src: 200
+  - dst: 282
+    src: 694
+  - dst: 262
+    src: 87
+  - dst: 140
+    src: 130
+  - dst: 257
+    src: 185
+  - dst: 304
+    src: 258
+  - dst: 587
+    src: 315
+  - dst: 332
+    src: 331
+  - dst: 521
+    src: 346
+  - dst: 416
+    src: 379
+  - dst: 204
+    src: 63
+  - dst: 162
+    src: 237
+  - dst: 273
+    src: 257
+  - dst: 384
+    src: 362
+  - dst: 443
+    src: 377
+  - dst: 426
+    src: 422
+  - dst: 248
+    src: 645
+  - dst: 207
+    src: 725
+  - dst: 182
+    src: 760
+  - dst: 217
+    src: 149
+  - dst: 244
+    src: 229
+  - dst: 357
+    src: 320
+  - dst: 39
+    src: 361
+  - dst: 402
+    src: 387
+  - dst: 522
+    src: 624
+  - dst: 111
+    src: 78
+  - dst: 326
+    src: 89
+  - dst: 278
+    src: 151
+  - dst: 279
+    src: 152
+  - dst: 229
+    src: 166
+  - dst: 213
+    src: 217
+  - dst: 47
+    src: 281
+  - dst: 404
+    src: 299
+  - dst: 331
+    src: 318
+  - dst: 78
+    src: 383
+  - dst: 292
+    src: 709
+  - dst: 271
+    src: 268
+  - dst: 344
+    src: 284
+  - dst: 302
+    src: 306
+  - dst: 533
+    src: 446
+  - dst: 562
+    src: 466
+  - dst: 560
+    src: 483
+  - dst: 396
+    src: 487
+  - dst: 642
+    src: 630
+  - dst: 720
+    src: 648
+  - dst: 789
+    src: 796
+  - dst: 141
+    src: 115
+  - dst: 153
+    src: 131
+  - dst: 346
+    src: 187
+  - dst: 348
+    src: 298
+  - dst: 575
+    src: 342
+  - dst: 536
+    src: 411
+  - dst: 160
+    src: 429
+  - dst: 490
+    src: 431
+  - dst: 76
+    src: 539
+  - dst: 232
+    src: 688
+  - dst: 246
+    src: 183
+  - dst: 321
+    src: 220
+  - dst: 156
+    src: 80
+  - dst: 179
+    src: 181
+  - dst: 243
+    src: 244
+  - dst: 567
+    src: 297
+  - dst: 385
+    src: 333
+  - dst: 516
+    src: 450
+  - dst: 696
+    src: 555
+  - dst: 60
+    src: 560
+  - dst: 618
+    src: 566
+  - dst: 741
+    src: 792
+  - dst: 180
+    src: 147
+  - dst: 276
+    src: 168
+  - dst: 364
+    src: 195
+  - dst: 245
+    src: 201
+  - dst: 437
+    src: 208
+  - dst: 290
+    src: 232
+  - dst: 306
+    src: 234
+  - dst: 319
+    src: 271
+  - dst: 478
+    src: 291
+  - dst: 495
+    src: 294
+  - dst: 358
+    src: 308
+  - dst: 523
+    src: 348
+  - dst: 90
+    src: 365
+  - dst: 158
+    src: 428
+  - dst: 570
+    src: 459
+  - dst: 223
+    src: 475
+  - dst: 466
+    src: 578
+  - dst: 367
+    src: 176
+  - dst: 362
+    src: 204
+  - dst: 305
+    src: 245
+  - dst: 435
+    src: 355
+  - dst: 226
+    src: 404
+  - dst: 286
+    src: 405
+  - dst: 589
+    src: 447
+  - dst: 561
+    src: 498
+  - dst: 606
+    src: 546
+  - dst: 637
+    src: 623
+  - dst: 770
+    src: 705
+  - dst: 554
+    src: 799
+  - dst: 218
+    src: 157
+  - dst: 250
+    src: 211
+  - dst: 513
+    src: 256
+  - dst: 328
+    src: 265
+  - dst: 289
+    src: 282
+  - dst: 333
+    src: 319
+  - dst: 320
+    src: 329
+  - dst: 492
+    src: 410
+  - dst: 774
+    src: 424
+  - dst: 391
+    src: 438
+  - dst: 794
+    src: 534
+  - dst: 726
+    src: 556
+  - dst: 462
+    src: 708
+  - dst: 378
+    src: 765
+  - dst: 778
+    src: 787
+  - dst: 793
+    src: 62
+  - dst: 168
+    src: 81
+  - dst: 231
+    src: 119
+  - dst: 382
+    src: 386
+  - dst: 461
+    src: 395
+  - dst: 366
+    src: 495
+  - dst: 410
+    src: 727
+  - dst: 133
+    src: 155
+  - dst: 178
+    src: 165
+  - dst: 530
+    src: 179
+  - dst: 3
+    src: 209
+  - dst: 4
+    src: 214
+  - dst: 212
+    src: 216
+  - dst: 210
+    src: 224
+  - dst: 503
+    src: 332
+  - dst: 471
+    src: 401
+  - dst: 551
+    src: 418
+  - dst: 502
+    src: 432
+  - dst: 452
+    src: 471
+  - dst: 200
+    src: 117
+  - dst: 259
+    src: 121
+  - dst: 261
+    src: 158
+  - dst: 335
+    src: 247
+  - dst: 351
+    src: 253
+  - dst: 350
+    src: 266
+  - dst: 318
+    src: 345
+  - dst: 564
+    src: 412
+  - dst: 151
+    src: 425
+  - dst: 734
+    src: 579
+  - dst: 121
+    src: 611
+  - dst: 707
+    src: 698
+  - dst: 260
+    src: 741
+  - dst: 234
+    src: 65
+  - dst: 256
+    src: 184
+  - dst: 334
+    src: 307
+  - dst: 355
+    src: 344
+  - dst: 486
+    src: 507
+  - dst: 409
+    src: 223
+  - dst: 406
+    src: 248
+  - dst: 431
+    src: 277
+  - dst: 483
+    src: 280
+  - dst: 359
+    src: 285
+  - dst: 301
+    src: 305
+  - dst: 583
+    src: 350
+  - dst: 539
+    src: 376
+  - dst: 274
+    src: 442
+  - dst: 372
+    src: 472
+  - dst: 225
+    src: 474
+  - dst: 762
+    src: 597
+  - dst: 722
+    src: 636
+  - dst: 693
+    src: 641
+  - dst: 601
+    src: 737
+  dst: '5'
+  src: '4'
+  is_3D: true
+- score_3d: 4.4
+  inliers:
+  - dst: 387
+    src: 382
+  - dst: 349
+    src: 198
+  - dst: 405
+    src: 253
+  - dst: 468
+    src: 440
+  - dst: 537
+    src: 565
+  - dst: 172
+    src: 379
+  - dst: 538
+    src: 499
+  - dst: 797
+    src: 133
+  - dst: 302
+    src: 178
+  - dst: 520
+    src: 199
+  - dst: 258
+    src: 208
+  - dst: 203
+    src: 210
+  - dst: 142
+    src: 252
+  - dst: 496
+    src: 425
+  - dst: 218
+    src: 328
+  - dst: 417
+    src: 333
+  - dst: 336
+    src: 353
+  - dst: 317
+    src: 492
+  - dst: 449
+    src: 512
+  - dst: 761
+    src: 513
+  - dst: 495
+    src: 517
+  - dst: 704
+    src: 75
+  - dst: 488
+    src: 106
+  - dst: 343
+    src: 403
+  - dst: 513
+    src: 442
+  - dst: 372
+    src: 494
+  - dst: 395
+    src: 563
+  - dst: 274
+    src: 139
+  - dst: 367
+    src: 142
+  - dst: 519
+    src: 217
+  - dst: 246
+    src: 342
+  - dst: 471
+    src: 357
+  - dst: 307
+    src: 446
+  - dst: 444
+    src: 167
+  - dst: 289
+    src: 381
+  - dst: 231
+    src: 103
+  - dst: 481
+    src: 383
+  - dst: 530
+    src: 490
+  - dst: 504
+    src: 111
+  - dst: 552
+    src: 229
+  - dst: 489
+    src: 258
+  - dst: 214
+    src: 279
+  - dst: 578
+    src: 292
+  - dst: 376
+    src: 331
+  - dst: 308
+    src: 491
+  - dst: 215
+    src: 544
+  - dst: 668
+    src: 708
+  - dst: 419
+    src: 181
+  - dst: 533
+    src: 256
+  - dst: 457
+    src: 334
+  - dst: 437
+    src: 509
+  - dst: 690
+    src: 32
+  - dst: 388
+    src: 332
+  - dst: 725
+    src: 271
+  - dst: 51
+    src: 370
+  - dst: 347
+    src: 562
+  - dst: 586
+    src: 571
+  - dst: 779
+    src: 184
+  - dst: 702
+    src: 203
+  - dst: 277
+    src: 60
+  - dst: 424
+    src: 77
+  - dst: 611
+    src: 107
+  - dst: 663
+    src: 155
+  - dst: 464
+    src: 156
+  - dst: 575
+    src: 385
+  - dst: 382
+    src: 419
+  - dst: 76
+    src: 515
+  - dst: 470
+    src: 516
+  - dst: 535
+    src: 200
+  - dst: 584
+    src: 261
+  - dst: 446
+    src: 335
+  - dst: 601
+    src: 436
+  - dst: 494
+    src: 439
+  - dst: 591
+    src: 707
+  - dst: 168
+    src: 226
+  - dst: 396
+    src: 435
+  - dst: 299
+    src: 459
+  - dst: 356
+    src: 589
+  - dst: 634
+    src: 606
+  - dst: 460
+    src: 245
+  - dst: 436
+    src: 254
+  - dst: 415
+    src: 276
+  - dst: 459
+    src: 290
+  - dst: 455
+    src: 306
+  - dst: 516
+    src: 319
+  - dst: 300
+    src: 343
+  - dst: 550
+    src: 358
+  - dst: 492
+    src: 389
+  dst: '6'
+  src: '5'
+  is_3D: true
+- score_3d: 0.0
+  inliers:
+  - dst: 173
+    src: 202
+  - dst: 186
+    src: 293
+  - dst: 520
+    src: 308
+  - dst: 553
+    src: 582
+  - dst: 671
+    src: 750
+  - dst: 145
+    src: 201
+  - dst: 32
+    src: 546
+  - dst: 99
+    src: 705
+  - dst: 594
+    src: 3
+  - dst: 291
+    src: 199
+  - dst: 418
+    src: 208
+  - dst: 663
+    src: 774
+  - dst: 361
+    src: 29
+  - dst: 365
+    src: 40
+  - dst: 64
+    src: 132
+  - dst: 315
+    src: 316
+  - dst: 779
+    src: 460
+  - dst: 57
+    src: 518
+  - dst: 792
+    src: 599
+  - dst: 320
+    src: 666
+  - dst: 319
+    src: 676
+  - dst: 688
+    src: 39
+  - dst: 175
+    src: 92
+  - dst: 666
+    src: 167
+  - dst: 226
+    src: 160
+  - dst: 340
+    src: 232
+  - dst: 166
+    src: 346
+  - dst: 570
+    src: 490
+  - dst: 680
+    src: 575
+  - dst: 216
+    src: 675
+  - dst: 89
+    src: 78
+  - dst: 262
+    src: 279
+  - dst: 106
+    src: 742
+  - dst: 203
+    src: 33
+  - dst: 16
+    src: 170
+  - dst: 51
+    src: 118
+  - dst: 103
+    src: 181
+  - dst: 50
+    src: 477
+  - dst: 56
+    src: 644
+  - dst: 329
+    src: 225
+  - dst: 87
+    src: 32
+  - dst: 518
+    src: 671
+  - dst: 693
+    src: 720
+  - dst: 794
+    src: 203
+  - dst: 180
+    src: 104
+  - dst: 577
+    src: 107
+  - dst: 142
+    src: 515
+  - dst: 775
+    src: 655
+  - dst: 464
+    src: 259
+  - dst: 627
+    src: 318
+  - dst: 440
+    src: 556
+  - dst: 364
+    src: 206
+  - dst: 661
+    src: 580
+  - dst: 760
+    src: 736
+  dst: '47'
+  src: '5'
+  is_3D: false
+- score_3d: 4.0
+  inliers:
+  - dst: 307
+    src: 161
+  - dst: 317
+    src: 257
+  - dst: 490
+    src: 650
+  - dst: 243
+    src: 1
+  - dst: 740
+    src: 409
+  - dst: 26
+    src: 207
+  - dst: 737
+    src: 622
+  - dst: 616
+    src: 717
+  - dst: 602
+    src: 792
+  - dst: 495
+    src: 383
+  - dst: 268
+    src: 525
+  - dst: 19
+    src: 571
+  - dst: 227
+    src: 4
+  - dst: 272
+    src: 66
+  - dst: 358
+    src: 124
+  - dst: 350
+    src: 149
+  - dst: 184
+    src: 243
+  - dst: 278
+    src: 412
+  - dst: 266
+    src: 506
+  - dst: 445
+    src: 749
+  - dst: 540
+    src: 69
+  - dst: 345
+    src: 226
+  - dst: 346
+    src: 448
+  - dst: 281
+    src: 539
+  - dst: 269
+    src: 540
+  - dst: 141
+    src: 549
+  - dst: 315
+    src: 237
+  - dst: 361
+    src: 267
+  - dst: 466
+    src: 309
+  - dst: 338
+    src: 321
+  - dst: 230
+    src: 517
+  - dst: 633
+    src: 556
+  - dst: 509
+    src: 624
+  - dst: 254
+    src: 22
+  - dst: 399
+    src: 125
+  - dst: 251
+    src: 147
+  - dst: 296
+    src: 191
+  - dst: 403
+    src: 441
+  - dst: 286
+    src: 23
+  - dst: 87
+    src: 76
+  - dst: 246
+    src: 564
+  - dst: 615
+    src: 652
+  - dst: 545
+    src: 363
+  - dst: 120
+    src: 57
+  - dst: 106
+    src: 258
+  - dst: 98
+    src: 293
+  - dst: 341
+    src: 381
+  - dst: 115
+    src: 16
+  - dst: 92
+    src: 359
+  - dst: 262
+    src: 522
+  - dst: 669
+    src: 616
+  - dst: 226
+    src: 21
+  - dst: 328
+    src: 269
+  - dst: 155
+    src: 569
+  - dst: 480
+    src: 292
+  - dst: 159
+    src: 311
+  - dst: 219
+    src: 453
+  - dst: 506
+    src: 686
+  - dst: 525
+    src: 760
+  - dst: 626
+    src: 80
+  - dst: 536
+    src: 222
+  - dst: 640
+    src: 626
+  - dst: 464
+    src: 52
+  - dst: 422
+    src: 195
+  - dst: 516
+    src: 697
+  - dst: 560
+    src: 721
+  - dst: 524
+    src: 723
+  - dst: 543
+    src: 793
+  - dst: 100
+    src: 179
+  - dst: 441
+    src: 467
+  - dst: 139
+    src: 494
+  - dst: 461
+    src: 557
+  - dst: 465
+    src: 629
+  - dst: 760
+    src: 683
+  - dst: 107
+    src: 213
+  - dst: 482
+    src: 228
+  - dst: 147
+    src: 410
+  - dst: 245
+    src: 452
+  - dst: 654
+    src: 646
+  - dst: 756
+    src: 673
+  dst: '7'
+  src: '6'
+  is_3D: true
+- score_3d: 0.0
+  inliers:
+  - dst: 441
+    src: 0
+  - dst: 192
+    src: 375
+  - dst: 135
+    src: 434
+  - dst: 699
+    src: 153
+  - dst: 235
+    src: 537
+  - dst: 437
+    src: 622
+  - dst: 186
+    src: 571
+  - dst: 315
+    src: 115
+  - dst: 361
+    src: 138
+  - dst: 321
+    src: 209
+  - dst: 360
+    src: 243
+  - dst: 362
+    src: 597
+  - dst: 613
+    src: 593
+  - dst: 386
+    src: 550
+  - dst: 246
+    src: 558
+  - dst: 475
+    src: 85
+  - dst: 264
+    src: 431
+  - dst: 435
+    src: 742
+  - dst: 300
+    src: 48
+  - dst: 94
+    src: 382
+  - dst: 185
+    src: 400
+  - dst: 560
+    src: 304
+  - dst: 626
+    src: 363
+  - dst: 147
+    src: 170
+  - dst: 767
+    src: 716
+  - dst: 410
+    src: 84
+  - dst: 388
+    src: 538
+  - dst: 99
+    src: 585
+  - dst: 216
+    src: 150
+  - dst: 299
+    src: 208
+  - dst: 341
+    src: 543
+  - dst: 205
+    src: 159
+  - dst: 656
+    src: 313
+  - dst: 38
+    src: 545
+  - dst: 352
+    src: 559
+  - dst: 797
+    src: 645
+  - dst: 798
+    src: 181
+  - dst: 460
+    src: 278
+  - dst: 782
+    src: 621
+  - dst: 655
+    src: 535
+  - dst: 155
+    src: 547
+  - dst: 171
+    src: 356
+  - dst: 271
+    src: 634
+  dst: '47'
+  src: '6'
+  is_3D: false
+- score_3d: 0.0
+  inliers:
+  - dst: 184
+    src: 45
+  - dst: 403
+    src: 151
+  - dst: 22
+    src: 161
+  - dst: 118
+    src: 257
+  - dst: 90
+    src: 310
+  - dst: 110
+    src: 434
+  - dst: 200
+    src: 1
+  - dst: 405
+    src: 360
+  - dst: 657
+    src: 409
+  - dst: 540
+    src: 414
+  - dst: 323
+    src: 445
+  - dst: 72
+    src: 449
+  - dst: 560
+    src: 495
+  - dst: 74
+    src: 580
+  - dst: 618
+    src: 428
+  - dst: 531
+    src: 439
+  - dst: 753
+    src: 14
+  - dst: 357
+    src: 398
+  - dst: 158
+    src: 412
+  - dst: 705
+    src: 448
+  - dst: 520
+    src: 771
+  - dst: 112
+    src: 332
+  - dst: 366
+    src: 548
+  - dst: 516
+    src: 549
+  - dst: 181
+    src: 204
+  - dst: 163
+    src: 431
+  - dst: 244
+    src: 8
+  - dst: 627
+    src: 385
+  - dst: 301
+    src: 470
+  - dst: 688
+    src: 318
+  - dst: 699
+    src: 333
+  - dst: 102
+    src: 335
+  - dst: 35
+    src: 469
+  - dst: 197
+    src: 541
+  - dst: 519
+    src: 158
+  - dst: 559
+    src: 272
+  - dst: 368
+    src: 478
+  - dst: 451
+    src: 616
+  - dst: 719
+    src: 481
+  - dst: 610
+    src: 543
+  - dst: 554
+    src: 337
+  - dst: 497
+    src: 686
+  - dst: 659
+    src: 222
+  - dst: 162
+    src: 559
+  - dst: 653
+    src: 651
+  - dst: 546
+    src: 658
+  - dst: 779
+    src: 71
+  - dst: 697
+    src: 166
+  - dst: 710
+    src: 426
+  - dst: 764
+    src: 474
+  - dst: 264
+    src: 494
+  - dst: 536
+    src: 640
+  - dst: 565
+    src: 655
+  - dst: 709
+    src: 299
+  - dst: 229
+    src: 452
+  - dst: 472
+    src: 479
+  dst: '49'
+  src: '6'
+  is_3D: false
+- score_3d: 7.05
+  inliers:
+  - dst: 265
+    src: 83
+  - dst: 300
+    src: 99
+  - dst: 523
+    src: 275
+  - dst: 562
+    src: 316
+  - dst: 131
+    src: 535
+  - dst: 278
+    src: 693
+  - dst: 606
+    src: 1
+  - dst: 369
+    src: 91
+  - dst: 307
+    src: 138
+  - dst: 340
+    src: 173
+  - dst: 368
+    src: 179
+  - dst: 672
+    src: 329
+  - dst: 553
+    src: 330
+  - dst: 308
+    src: 416
+  - dst: 393
+    src: 429
+  - dst: 675
+    src: 431
+  - dst: 162
+    src: 459
+  - dst: 690
+    src: 673
+  - dst: 356
+    src: 689
+  - dst: 243
+    src: 63
+  - dst: 329
+    src: 142
+  - dst: 680
+    src: 338
+  - dst: 573
+    src: 359
+  - dst: 364
+    src: 444
+  - dst: 538
+    src: 509
+  - dst: 268
+    src: 657
+  - dst: 585
+    src: 684
+  - dst: 558
+    src: 337
+  - dst: 589
+    src: 362
+  - dst: 204
+    src: 442
+  - dst: 489
+    src: 521
+  - dst: 623
+    src: 580
+  - dst: 556
+    src: 4
+  - dst: 232
+    src: 680
+  - dst: 212
+    src: 44
+  - dst: 253
+    src: 58
+  - dst: 259
+    src: 79
+  - dst: 150
+    src: 80
+  - dst: 299
+    src: 95
+  - dst: 298
+    src: 117
+  - dst: 400
+    src: 201
+  - dst: 501
+    src: 284
+  - dst: 218
+    src: 305
+  - dst: 545
+    src: 322
+  - dst: 531
+    src: 324
+  - dst: 601
+    src: 357
+  - dst: 587
+    src: 399
+  - dst: 614
+    src: 407
+  - dst: 472
+    src: 496
+  - dst: 205
+    src: 51
+  - dst: 286
+    src: 87
+  - dst: 280
+    src: 93
+  - dst: 321
+    src: 102
+  - dst: 473
+    src: 267
+  - dst: 504
+    src: 273
+  - dst: 519
+    src: 295
+  - dst: 543
+    src: 303
+  - dst: 530
+    src: 321
+  - dst: 662
+    src: 344
+  - dst: 566
+    src: 582
+  - dst: 747
+    src: 614
+  - dst: 310
+    src: 771
+  - dst: 413
+    src: 123
+  - dst: 524
+    src: 366
+  - dst: 778
+    src: 415
+  - dst: 735
+    src: 434
+  - dst: 424
+    src: 447
+  - dst: 124
+    src: 587
+  - dst: 654
+    src: 591
+  - dst: 693
+    src: 422
+  - dst: 500
+    src: 516
+  - dst: 496
+    src: 524
+  - dst: 555
+    src: 543
+  - dst: 759
+    src: 613
+  - dst: 730
+    src: 651
+  - dst: 295
+    src: 776
+  - dst: 645
+    src: 268
+  - dst: 376
+    src: 423
+  - dst: 591
+    src: 363
+  - dst: 602
+    src: 364
+  - dst: 497
+    src: 377
+  - dst: 776
+    src: 783
+  - dst: 113
+    src: 192
+  - dst: 458
+    src: 250
+  - dst: 636
+    src: 270
+  - dst: 525
+    src: 276
+  - dst: 189
+    src: 438
+  - dst: 68
+    src: 475
+  - dst: 197
+    src: 583
+  - dst: 773
+    src: 602
+  - dst: 433
+    src: 628
+  - dst: 333
+    src: 725
+  - dst: 196
+    src: 33
+  - dst: 251
+    src: 69
+  - dst: 289
+    src: 73
+  - dst: 263
+    src: 81
+  - dst: 360
+    src: 157
+  - dst: 438
+    src: 212
+  - dst: 521
+    src: 299
+  - dst: 752
+    src: 312
+  - dst: 732
+    src: 317
+  - dst: 632
+    src: 326
+  - dst: 652
+    src: 348
+  - dst: 637
+    src: 353
+  - dst: 603
+    src: 355
+  - dst: 679
+    src: 418
+  - dst: 401
+    src: 454
+  - dst: 443
+    src: 469
+  - dst: 476
+    src: 619
+  - dst: 345
+    src: 721
+  - dst: 86
+    src: 34
+  - dst: 274
+    src: 126
+  - dst: 468
+    src: 279
+  - dst: 453
+    src: 499
+  - dst: 455
+    src: 480
+  - dst: 605
+    src: 506
+  - dst: 270
+    src: 525
+  - dst: 604
+    src: 661
+  - dst: 542
+    src: 797
+  - dst: 582
+    src: 325
+  - dst: 176
+    src: 378
+  - dst: 182
+    src: 523
+  - dst: 615
+    src: 626
+  - dst: 541
+    src: 640
+  - dst: 786
+    src: 660
+  - dst: 561
+    src: 663
+  - dst: 527
+    src: 682
+  - dst: 370
+    src: 180
+  - dst: 701
+    src: 555
+  - dst: 444
+    src: 150
+  - dst: 367
+    src: 178
+  - dst: 71
+    src: 252
+  - dst: 276
+    src: 396
+  - dst: 586
+    src: 433
+  - dst: 486
+    src: 517
+  - dst: 518
+    src: 559
+  - dst: 514
+    src: 644
+  - dst: 546
+    src: 703
+  - dst: 328
+    src: 735
+  - dst: 327
+    src: 736
+  - dst: 575
+    src: 750
+  dst: '8'
+  src: '7'
+  is_3D: true
+- score_3d: 2.9
+  inliers:
+  - dst: 87
+    src: 83
+  - dst: 295
+    src: 398
+  - dst: 430
+    src: 617
+  - dst: 541
+    src: 91
+  - dst: 659
+    src: 416
+  - dst: 675
+    src: 689
+  - dst: 129
+    src: 29
+  - dst: 407
+    src: 142
+  - dst: 435
+    src: 478
+  - dst: 607
+    src: 6
+  - dst: 788
+    src: 453
+  - dst: 597
+    src: 792
+  - dst: 561
+    src: 4
+  - dst: 44
+    src: 133
+  - dst: 234
+    src: 16
+  - dst: 218
+    src: 18
+  - dst: 420
+    src: 357
+  - dst: 632
+    src: 60
+  - dst: 113
+    src: 267
+  - dst: 284
+    src: 321
+  - dst: 458
+    src: 532
+  - dst: 709
+    src: 615
+  - dst: 573
+    src: 732
+  - dst: 144
+    src: 31
+  - dst: 397
+    src: 100
+  - dst: 318
+    src: 415
+  - dst: 107
+    src: 461
+  - dst: 155
+    src: 465
+  - dst: 282
+    src: 261
+  - dst: 237
+    src: 19
+  - dst: 612
+    src: 112
+  - dst: 11
+    src: 293
+  - dst: 780
+    src: 365
+  - dst: 355
+    src: 24
+  - dst: 365
+    src: 285
+  - dst: 792
+    src: 558
+  - dst: 773
+    src: 26
+  - dst: 235
+    src: 131
+  - dst: 26
+    src: 132
+  - dst: 169
+    src: 222
+  - dst: 689
+    src: 721
+  - dst: 119
+    src: 34
+  - dst: 310
+    src: 243
+  - dst: 448
+    src: 384
+  - dst: 359
+    src: 395
+  - dst: 558
+    src: 494
+  - dst: 663
+    src: 499
+  - dst: 100
+    src: 35
+  - dst: 162
+    src: 159
+  - dst: 454
+    src: 506
+  - dst: 116
+    src: 36
+  - dst: 608
+    src: 675
+  - dst: 427
+    src: 548
+  - dst: 67
+    src: 141
+  - dst: 311
+    src: 245
+  - dst: 429
+    src: 252
+  - dst: 796
+    src: 396
+  - dst: 54
+    src: 485
+  dst: '47'
+  src: '7'
+  is_3D: true
+- score_3d: 7.35
+  inliers:
+  - dst: 528
+    src: 330
+  - dst: 450
+    src: 407
+  - dst: 605
+    src: 430
+  - dst: 666
+    src: 619
+  - dst: 783
+    src: 739
+  - dst: 760
+    src: 799
+  - dst: 66
+    src: 160
+  - dst: 243
+    src: 163
+  - dst: 232
+    src: 208
+  - dst: 224
+    src: 233
+  - dst: 127
+    src: 278
+  - dst: 28
+    src: 92
+  - dst: 42
+    src: 112
+  - dst: 85
+    src: 151
+  - dst: 124
+    src: 157
+  - dst: 131
+    src: 168
+  - dst: 139
+    src: 251
+  - dst: 48
+    src: 86
+  - dst: 67
+    src: 174
+  - dst: 170
+    src: 193
+  - dst: 164
+    src: 196
+  - dst: 183
+    src: 241
+  - dst: 509
+    src: 327
+  - dst: 273
+    src: 453
+  - dst: 404
+    src: 584
+  - dst: 362
+    src: 611
+  - dst: 553
+    src: 774
+  - dst: 100
+    src: 111
+  - dst: 500
+    src: 149
+  - dst: 205
+    src: 189
+  - dst: 0
+    src: 216
+  - dst: 157
+    src: 242
+  - dst: 118
+    src: 309
+  - dst: 505
+    src: 370
+  - dst: 291
+    src: 432
+  - dst: 281
+    src: 501
+  - dst: 441
+    src: 541
+  - dst: 375
+    src: 562
+  - dst: 673
+    src: 751
+  - dst: 690
+    src: 784
+  - dst: 607
+    src: 15
+  - dst: 54
+    src: 68
+  - dst: 238
+    src: 165
+  - dst: 158
+    src: 197
+  - dst: 220
+    src: 247
+  - dst: 609
+    src: 286
+  - dst: 165
+    src: 298
+  - dst: 395
+    src: 371
+  - dst: 368
+    src: 525
+  - dst: 618
+    src: 699
+  - dst: 497
+    src: 135
+  - dst: 484
+    src: 352
+  - dst: 420
+    src: 552
+  - dst: 179
+    src: 563
+  - dst: 795
+    src: 791
+  - dst: 7
+    src: 80
+  - dst: 69
+    src: 110
+  - dst: 466
+    src: 141
+  - dst: 143
+    src: 146
+  - dst: 1
+    src: 182
+  - dst: 163
+    src: 223
+  - dst: 79
+    src: 266
+  - dst: 191
+    src: 272
+  - dst: 132
+    src: 277
+  - dst: 154
+    src: 282
+  - dst: 203
+    src: 284
+  - dst: 214
+    src: 340
+  - dst: 431
+    src: 458
+  - dst: 517
+    src: 519
+  - dst: 329
+    src: 553
+  - dst: 74
+    src: 773
+  - dst: 405
+    src: 121
+  - dst: 234
+    src: 194
+  - dst: 171
+    src: 217
+  - dst: 229
+    src: 220
+  - dst: 107
+    src: 311
+  - dst: 599
+    src: 536
+  - dst: 671
+    src: 637
+  - dst: 30
+    src: 101
+  - dst: 354
+    src: 122
+  - dst: 178
+    src: 126
+  - dst: 130
+    src: 140
+  - dst: 284
+    src: 162
+  - dst: 126
+    src: 230
+  - dst: 78
+    src: 264
+  - dst: 73
+    src: 267
+  - dst: 134
+    src: 296
+  - dst: 392
+    src: 398
+  - dst: 316
+    src: 457
+  - dst: 70
+    src: 583
+  - dst: 678
+    src: 698
+  - dst: 207
+    src: 259
+  - dst: 283
+    src: 404
+  - dst: 315
+    src: 498
+  - dst: 736
+    src: 766
+  - dst: 221
+    src: 261
+  - dst: 506
+    src: 389
+  - dst: 622
+    src: 745
+  - dst: 556
+    src: 67
+  - dst: 421
+    src: 202
+  - dst: 364
+    src: 527
+  - dst: 697
+    src: 704
+  - dst: 797
+    src: 794
+  - dst: 692
+    src: 47
+  - dst: 65
+    src: 142
+  - dst: 125
+    src: 148
+  - dst: 223
+    src: 184
+  - dst: 148
+    src: 254
+  - dst: 117
+    src: 287
+  - dst: 359
+    src: 346
+  - dst: 518
+    src: 480
+  - dst: 406
+    src: 529
+  - dst: 270
+    src: 568
+  - dst: 525
+    src: 178
+  - dst: 189
+    src: 225
+  - dst: 169
+    src: 244
+  - dst: 188
+    src: 255
+  - dst: 483
+    src: 270
+  - dst: 123
+    src: 308
+  - dst: 551
+    src: 336
+  - dst: 391
+    src: 406
+  - dst: 480
+    src: 490
+  - dst: 664
+    src: 531
+  - dst: 598
+    src: 703
+  - dst: 640
+    src: 728
+  - dst: 385
+    src: 737
+  - dst: 695
+    src: 770
+  - dst: 68
+    src: 280
+  - dst: 471
+    src: 290
+  - dst: 704
+    src: 760
+  - dst: 520
+    src: 772
+  - dst: 177
+    src: 125
+  - dst: 390
+    src: 187
+  - dst: 228
+    src: 219
+  - dst: 184
+    src: 243
+  - dst: 187
+    src: 285
+  - dst: 378
+    src: 442
+  - dst: 552
+    src: 686
+  - dst: 732
+    src: 780
+  - dst: 222
+    src: 249
+  - dst: 369
+    src: 388
+  - dst: 482
+    src: 614
+  - dst: 464
+    src: 676
+  - dst: 730
+    src: 428
+  - dst: 754
+    src: 522
+  - dst: 138
+    src: 560
+  - dst: 675
+    src: 797
+  dst: '14'
+  src: '9'
+  is_3D: true
+- score_3d: 6.8
+  inliers:
+  - dst: 282
+    src: 58
+  - dst: 349
+    src: 147
+  - dst: 427
+    src: 211
+  - dst: 468
+    src: 241
+  - dst: 515
+    src: 291
+  - dst: 532
+    src: 292
+  - dst: 131
+    src: 293
+  - dst: 534
+    src: 294
+  - dst: 569
+    src: 322
+  - dst: 381
+    src: 745
+  - dst: 481
+    src: 774
+  - dst: 336
+    src: 41
+  - dst: 452
+    src: 204
+  - dst: 343
+    src: 65
+  - dst: 125
+    src: 329
+  - dst: 576
+    src: 331
+  - dst: 583
+    src: 526
+  - dst: 451
+    src: 571
+  - dst: 361
+    src: 703
+  - dst: 277
+    src: 91
+  - dst: 333
+    src: 110
+  - dst: 247
+    src: 121
+  - dst: 192
+    src: 172
+  - dst: 200
+    src: 174
+  - dst: 639
+    src: 381
+  - dst: 614
+    src: 32
+  - dst: 344
+    src: 46
+  - dst: 272
+    src: 81
+  - dst: 229
+    src: 122
+  - dst: 346
+    src: 145
+  - dst: 397
+    src: 180
+  - dst: 181
+    src: 186
+  - dst: 177
+    src: 191
+  - dst: 135
+    src: 289
+  - dst: 127
+    src: 317
+  - dst: 119
+    src: 328
+  - dst: 649
+    src: 376
+  - dst: 642
+    src: 384
+  - dst: 674
+    src: 396
+  - dst: 755
+    src: 474
+  - dst: 332
+    src: 679
+  - dst: 274
+    src: 78
+  - dst: 189
+    src: 192
+  - dst: 175
+    src: 195
+  - dst: 546
+    src: 304
+  - dst: 130
+    src: 306
+  - dst: 669
+    src: 392
+  - dst: 302
+    src: 90
+  - dst: 283
+    src: 202
+  - dst: 453
+    src: 217
+  - dst: 615
+    src: 513
+  - dst: 316
+    src: 85
+  - dst: 249
+    src: 112
+  - dst: 455
+    src: 218
+  - dst: 463
+    src: 236
+  - dst: 618
+    src: 512
+  - dst: 24
+    src: 593
+  - dst: 329
+    src: 62
+  - dst: 133
+    src: 273
+  - dst: 722
+    src: 431
+  - dst: 544
+    src: 510
+  - dst: 353
+    src: 706
+  - dst: 210
+    src: 159
+  - dst: 514
+    src: 290
+  - dst: 134
+    src: 307
+  - dst: 574
+    src: 316
+  - dst: 703
+    src: 414
+  - dst: 706
+    src: 415
+  - dst: 410
+    src: 197
+  - dst: 425
+    src: 209
+  - dst: 446
+    src: 222
+  - dst: 67
+    src: 448
+  - dst: 753
+    src: 472
+  - dst: 448
+    src: 572
+  - dst: 327
+    src: 75
+  - dst: 288
+    src: 94
+  - dst: 426
+    src: 210
+  - dst: 163
+    src: 234
+  - dst: 118
+    src: 354
+  - dst: 616
+    src: 360
+  - dst: 38
+    src: 525
+  - dst: 520
+    src: 557
+  - dst: 498
+    src: 777
+  - dst: 180
+    src: 205
+  - dst: 103
+    src: 382
+  - dst: 640
+    src: 749
+  - dst: 479
+    src: 769
+  - dst: 330
+    src: 27
+  - dst: 260
+    src: 103
+  - dst: 209
+    src: 160
+  - dst: 167
+    src: 219
+  - dst: 153
+    src: 244
+  - dst: 606
+    src: 505
+  - dst: 756
+    src: 729
+  - dst: 364
+    src: 135
+  - dst: 384
+    src: 152
+  - dst: 611
+    src: 356
+  - dst: 687
+    src: 398
+  - dst: 87
+    src: 423
+  - dst: 675
+    src: 743
+  - dst: 347
+    src: 753
+  - dst: 465
+    src: 765
+  - dst: 297
+    src: 74
+  - dst: 275
+    src: 77
+  - dst: 203
+    src: 139
+  - dst: 408
+    src: 196
+  - dst: 581
+    src: 336
+  - dst: 602
+    src: 337
+  - dst: 721
+    src: 489
+  - dst: 49
+    src: 543
+  - dst: 438
+    src: 573
+  - dst: 437
+    src: 584
+  - dst: 490
+    src: 662
+  - dst: 363
+    src: 700
+  - dst: 348
+    src: 130
+  - dst: 196
+    src: 177
+  - dst: 597
+    src: 334
+  - dst: 306
+    src: 680
+  - dst: 395
+    src: 744
+  - dst: 526
+    src: 64
+  - dst: 396
+    src: 179
+  - dst: 486
+    src: 231
+  - dst: 513
+    src: 270
+  - dst: 216
+    src: 141
+  - dst: 401
+    src: 154
+  - dst: 139
+    src: 276
+  - dst: 596
+    src: 333
+  - dst: 104
+    src: 380
+  - dst: 236
+    src: 125
+  - dst: 429
+    src: 213
+  - dst: 494
+    src: 266
+  - dst: 138
+    src: 277
+  - dst: 594
+    src: 330
+  - dst: 754
+    src: 456
+  - dst: 530
+    src: 556
+  - dst: 595
+    src: 752
+  dst: '19'
+  src: '12'
+  is_3D: true
+- score_3d: 6.05
+  inliers:
+  - dst: 335
+    src: 275
+  - dst: 132
+    src: 358
+  - dst: 596
+    src: 692
+  - dst: 254
+    src: 19
+  - dst: 286
+    src: 93
+  - dst: 382
+    src: 501
+  - dst: 511
+    src: 571
+  - dst: 446
+    src: 639
+  - dst: 629
+    src: 480
+  - dst: 750
+    src: 691
+  - dst: 604
+    src: 707
+  - dst: 569
+    src: 708
+  - dst: 472
+    src: 772
+  - dst: 312
+    src: 199
+  - dst: 334
+    src: 258
+  - dst: 469
+    src: 320
+  - dst: 442
+    src: 471
+  - dst: 282
+    src: 538
+  - dst: 782
+    src: 704
+  - dst: 683
+    src: 23
+  - dst: 537
+    src: 95
+  - dst: 333
+    src: 257
+  - dst: 202
+    src: 304
+  - dst: 94
+    src: 314
+  - dst: 3
+    src: 519
+  - dst: 490
+    src: 608
+  - dst: 595
+    src: 686
+  - dst: 518
+    src: 740
+  - dst: 306
+    src: 167
+  - dst: 778
+    src: 217
+  - dst: 356
+    src: 311
+  - dst: 513
+    src: 612
+  - dst: 553
+    src: 660
+  - dst: 637
+    src: 780
+  - dst: 46
+    src: 236
+  - dst: 372
+    src: 417
+  - dst: 189
+    src: 435
+  - dst: 577
+    src: 512
+  - dst: 389
+    src: 518
+  - dst: 411
+    src: 527
+  - dst: 379
+    src: 549
+  - dst: 321
+    src: 591
+  - dst: 560
+    src: 63
+  - dst: 724
+    src: 136
+  - dst: 24
+    src: 229
+  - dst: 330
+    src: 235
+  - dst: 71
+    src: 273
+  - dst: 341
+    src: 288
+  - dst: 149
+    src: 357
+  - dst: 685
+    src: 418
+  - dst: 285
+    src: 524
+  - dst: 311
+    src: 581
+  - dst: 606
+    src: 706
+  - dst: 56
+    src: 40
+  - dst: 522
+    src: 184
+  - dst: 340
+    src: 255
+  - dst: 65
+    src: 287
+  - dst: 154
+    src: 388
+  - dst: 361
+    src: 400
+  - dst: 383
+    src: 494
+  - dst: 438
+    src: 633
+  - dst: 344
+    src: 278
+  - dst: 351
+    src: 299
+  - dst: 204
+    src: 448
+  - dst: 375
+    src: 453
+  - dst: 387
+    src: 500
+  - dst: 354
+    src: 575
+  - dst: 481
+    src: 583
+  - dst: 414
+    src: 360
+  - dst: 367
+    src: 432
+  - dst: 269
+    src: 525
+  - dst: 76
+    src: 546
+  - dst: 314
+    src: 557
+  - dst: 753
+    src: 248
+  - dst: 168
+    src: 382
+  - dst: 576
+    src: 769
+  - dst: 510
+    src: 127
+  - dst: 657
+    src: 285
+  - dst: 319
+    src: 577
+  - dst: 260
+    src: 170
+  - dst: 123
+    src: 347
+  - dst: 366
+    src: 419
+  - dst: 275
+    src: 517
+  - dst: 546
+    src: 532
+  - dst: 266
+    src: 536
+  - dst: 579
+    src: 537
+  - dst: 309
+    src: 566
+  - dst: 756
+    src: 665
+  - dst: 611
+    src: 705
+  - dst: 770
+    src: 742
+  - dst: 700
+    src: 764
+  - dst: 393
+    src: 385
+  - dst: 313
+    src: 543
+  - dst: 506
+    src: 573
+  - dst: 488
+    src: 582
+  - dst: 466
+    src: 624
+  - dst: 771
+    src: 567
+  - dst: 364
+    src: 369
+  - dst: 175
+    src: 407
+  - dst: 646
+    src: 514
+  - dst: 464
+    src: 611
+  - dst: 475
+    src: 620
+  - dst: 447
+    src: 626
+  - dst: 762
+    src: 661
+  - dst: 292
+    src: 129
+  - dst: 352
+    src: 300
+  - dst: 432
+    src: 313
+  - dst: 133
+    src: 359
+  - dst: 171
+    src: 403
+  - dst: 376
+    src: 493
+  - dst: 258
+    src: 502
+  - dst: 281
+    src: 535
+  - dst: 316
+    src: 576
+  - dst: 794
+    src: 698
+  - dst: 588
+    src: 101
+  - dst: 293
+    src: 146
+  - dst: 627
+    src: 266
+  - dst: 73
+    src: 277
+  - dst: 654
+    src: 467
+  - dst: 734
+    src: 490
+  - dst: 323
+    src: 592
+  dst: '18'
+  src: '12'
+  is_3D: true
+- score_3d: 6.9
+  inliers:
+  - dst: 197
+    src: 17
+  - dst: 123
+    src: 249
+  - dst: 584
+    src: 258
+  - dst: 480
+    src: 291
+  - dst: 454
+    src: 1
+  - dst: 417
+    src: 34
+  - dst: 490
+    src: 163
+  - dst: 90
+    src: 191
+  - dst: 649
+    src: 203
+  - dst: 535
+    src: 329
+  - dst: 537
+    src: 331
+  - dst: 134
+    src: 431
+  - dst: 354
+    src: 517
+  - dst: 390
+    src: 758
+  - dst: 690
+    src: 176
+  - dst: 68
+    src: 183
+  - dst: 466
+    src: 273
+  - dst: 529
+    src: 336
+  - dst: 631
+    src: 414
+  - dst: 504
+    src: 519
+  - dst: 244
+    src: 546
+  - dst: 586
+    src: 606
+  - dst: 133
+    src: 122
+  - dst: 188
+    src: 137
+  - dst: 420
+    src: 237
+  - dst: 527
+    src: 316
+  - dst: 506
+    src: 318
+  - dst: 409
+    src: 354
+  - dst: 310
+    src: 569
+  - dst: 569
+    src: 678
+  - dst: 301
+    src: 97
+  - dst: 689
+    src: 185
+  - dst: 636
+    src: 211
+  - dst: 488
+    src: 438
+  - dst: 673
+    src: 457
+  - dst: 433
+    src: 592
+  - dst: 531
+    src: 601
+  - dst: 369
+    src: 47
+  - dst: 524
+    src: 635
+  - dst: 272
+    src: 715
+  - dst: 704
+    src: 757
+  - dst: 399
+    src: 156
+  - dst: 422
+    src: 259
+  - dst: 182
+    src: 272
+  - dst: 538
+    src: 334
+  - dst: 492
+    src: 525
+  - dst: 532
+    src: 639
+  - dst: 679
+    src: 173
+  - dst: 659
+    src: 200
+  - dst: 556
+    src: 224
+  - dst: 481
+    src: 233
+  - dst: 436
+    src: 243
+  - dst: 206
+    src: 350
+  - dst: 226
+    src: 387
+  - dst: 17
+    src: 743
+  - dst: 211
+    src: 37
+  - dst: 212
+    src: 38
+  - dst: 185
+    src: 276
+  - dst: 489
+    src: 280
+  - dst: 545
+    src: 325
+  - dst: 567
+    src: 344
+  - dst: 263
+    src: 434
+  - dst: 682
+    src: 449
+  - dst: 457
+    src: 522
+  - dst: 449
+    src: 158
+  - dst: 421
+    src: 238
+  - dst: 619
+    src: 395
+  - dst: 660
+    src: 425
+  - dst: 289
+    src: 474
+  - dst: 333
+    src: 568
+  - dst: 775
+    src: 611
+  - dst: 643
+    src: 742
+  - dst: 343
+    src: 793
+  - dst: 251
+    src: 398
+  - dst: 235
+    src: 725
+  - dst: 706
+    src: 184
+  - dst: 702
+    src: 187
+  - dst: 683
+    src: 197
+  - dst: 620
+    src: 206
+  - dst: 437
+    src: 242
+  - dst: 546
+    src: 327
+  - dst: 536
+    src: 330
+  - dst: 770
+    src: 667
+  - dst: 748
+    src: 774
+  - dst: 393
+    src: 155
+  - dst: 608
+    src: 168
+  - dst: 210
+    src: 309
+  - dst: 283
+    src: 406
+  - dst: 191
+    src: 544
+  - dst: 209
+    src: 35
+  - dst: 54
+    src: 287
+  - dst: 275
+    src: 423
+  - dst: 261
+    src: 433
+  - dst: 400
+    src: 636
+  - dst: 292
+    src: 666
+  - dst: 361
+    src: 668
+  - dst: 392
+    src: 744
+  - dst: 340
+    src: 760
+  - dst: 413
+    src: 152
+  - dst: 707
+    src: 182
+  - dst: 625
+    src: 207
+  - dst: 526
+    src: 315
+  - dst: 378
+    src: 409
+  - dst: 664
+    src: 416
+  - dst: 294
+    src: 675
+  - dst: 651
+    src: 171
+  - dst: 511
+    src: 229
+  - dst: 496
+    src: 234
+  - dst: 439
+    src: 236
+  - dst: 455
+    src: 241
+  - dst: 539
+    src: 351
+  - dst: 64
+    src: 467
+  - dst: 456
+    src: 671
+  - dst: 243
+    src: 746
+  - dst: 568
+    src: 226
+  - dst: 485
+    src: 515
+  - dst: 330
+    src: 530
+  - dst: 189
+    src: 645
+  - dst: 582
+    src: 759
+  - dst: 565
+    src: 798
+  - dst: 287
+    src: 462
+  - dst: 391
+    src: 464
+  - dst: 355
+    src: 482
+  - dst: 313
+    src: 529
+  - dst: 239
+    src: 591
+  - dst: 323
+    src: 624
+  - dst: 265
+    src: 653
+  - dst: 286
+    src: 701
+  - dst: 238
+    src: 741
+  - dst: 739
+    src: 765
+  - dst: 782
+    src: 312
+  - dst: 304
+    src: 460
+  - dst: 337
+    src: 513
+  - dst: 652
+    src: 622
+  - dst: 317
+    src: 634
+  - dst: 285
+    src: 650
+  - dst: 237
+    src: 687
+  - dst: 461
+    src: 794
+  dst: '15'
+  src: '14'
+  is_3D: true
+- score_3d: 2.8
+  inliers:
+  - dst: 60
+    src: 157
+  - dst: 700
+    src: 196
+  - dst: 671
+    src: 458
+  - dst: 761
+    src: 473
+  - dst: 177
+    src: 505
+  - dst: 150
+    src: 563
+  - dst: 531
+    src: 577
+  - dst: 303
+    src: 690
+  - dst: 434
+    src: 50
+  - dst: 385
+    src: 352
+  - dst: 106
+    src: 431
+  - dst: 526
+    src: 103
+  - dst: 391
+    src: 176
+  - dst: 651
+    src: 212
+  - dst: 92
+    src: 550
+  - dst: 207
+    src: 553
+  - dst: 589
+    src: 51
+  - dst: 319
+    src: 58
+  - dst: 602
+    src: 64
+  - dst: 415
+    src: 90
+  - dst: 169
+    src: 126
+  - dst: 67
+    src: 392
+  - dst: 718
+    src: 85
+  - dst: 486
+    src: 217
+  - dst: 388
+    src: 286
+  - dst: 413
+    src: 333
+  - dst: 35
+    src: 14
+  - dst: 293
+    src: 654
+  - dst: 219
+    src: 110
+  - dst: 353
+    src: 169
+  - dst: 499
+    src: 598
+  - dst: 673
+    src: 756
+  - dst: 213
+    src: 59
+  - dst: 560
+    src: 749
+  - dst: 381
+    src: 33
+  - dst: 143
+    src: 165
+  - dst: 97
+    src: 484
+  - dst: 710
+    src: 507
+  - dst: 42
+    src: 180
+  - dst: 342
+    src: 187
+  - dst: 593
+    src: 552
+  - dst: 39
+    src: 31
+  - dst: 759
+    src: 299
+  - dst: 725
+    src: 406
+  - dst: 215
+    src: 96
+  - dst: 95
+    src: 450
+  - dst: 510
+    src: 666
+  - dst: 443
+    src: 315
+  - dst: 550
+    src: 383
+  - dst: 71
+    src: 351
+  - dst: 492
+    src: 405
+  - dst: 205
+    src: 554
+  - dst: 734
+    src: 599
+  - dst: 7
+    src: 109
+  - dst: 488
+    src: 613
+  - dst: 548
+    src: 447
+  dst: '21'
+  src: '14'
+  is_3D: true
+- score_3d: 3.1
+  inliers:
+  - dst: 459
+    src: 100
+  - dst: 375
+    src: 186
+  - dst: 236
+    src: 205
+  - dst: 635
+    src: 209
+  - dst: 394
+    src: 281
+  - dst: 130
+    src: 89
+  - dst: 24
+    src: 282
+  - dst: 124
+    src: 329
+  - dst: 212
+    src: 331
+  - dst: 175
+    src: 644
+  - dst: 707
+    src: 162
+  - dst: 195
+    src: 176
+  - dst: 154
+    src: 273
+  - dst: 40
+    src: 178
+  - dst: 350
+    src: 297
+  - dst: 451
+    src: 339
+  - dst: 372
+    src: 457
+  - dst: 470
+    src: 514
+  - dst: 420
+    src: 592
+  - dst: 219
+    src: 47
+  - dst: 283
+    src: 222
+  - dst: 330
+    src: 452
+  - dst: 110
+    src: 761
+  - dst: 753
+    src: 156
+  - dst: 491
+    src: 665
+  - dst: 671
+    src: 727
+  - dst: 182
+    src: 756
+  - dst: 398
+    src: 193
+  - dst: 172
+    src: 373
+  - dst: 559
+    src: 749
+  - dst: 121
+    src: 238
+  - dst: 616
+    src: 355
+  - dst: 558
+    src: 474
+  - dst: 55
+    src: 607
+  - dst: 438
+    src: 742
+  - dst: 329
+    src: 398
+  - dst: 790
+    src: 616
+  - dst: 748
+    src: 662
+  - dst: 619
+    src: 378
+  - dst: 586
+    src: 733
+  - dst: 151
+    src: 116
+  - dst: 552
+    src: 632
+  - dst: 597
+    src: 668
+  - dst: 560
+    src: 744
+  - dst: 337
+    src: 760
+  - dst: 767
+    src: 192
+  - dst: 405
+    src: 216
+  - dst: 53
+    src: 315
+  - dst: 418
+    src: 356
+  - dst: 237
+    src: 61
+  - dst: 173
+    src: 394
+  - dst: 76
+    src: 531
+  - dst: 100
+    src: 241
+  - dst: 227
+    src: 556
+  - dst: 723
+    src: 657
+  - dst: 780
+    src: 697
+  - dst: 406
+    src: 239
+  - dst: 54
+    src: 303
+  - dst: 351
+    src: 464
+  - dst: 567
+    src: 613
+  - dst: 471
+    src: 699
+  - dst: 690
+    src: 766
+  dst: '47'
+  src: '14'
+  is_3D: true
+- score_3d: 3.1
+  inliers:
+  - dst: 381
+    src: 52
+  - dst: 517
+    src: 157
+  - dst: 433
+    src: 419
+  - dst: 326
+    src: 441
+  - dst: 285
+    src: 444
+  - dst: 119
+    src: 43
+  - dst: 67
+    src: 80
+  - dst: 760
+    src: 81
+  - dst: 180
+    src: 282
+  - dst: 217
+    src: 300
+  - dst: 148
+    src: 352
+  - dst: 375
+    src: 367
+  - dst: 165
+    src: 521
+  - dst: 341
+    src: 67
+  - dst: 150
+    src: 88
+  - dst: 559
+    src: 105
+  - dst: 166
+    src: 176
+  - dst: 346
+    src: 255
+  - dst: 42
+    src: 509
+  - dst: 635
+    src: 731
+  - dst: 118
+    src: 51
+  - dst: 110
+    src: 73
+  - dst: 456
+    src: 78
+  - dst: 80
+    src: 92
+  - dst: 69
+    src: 93
+  - dst: 642
+    src: 130
+  - dst: 2
+    src: 265
+  - dst: 144
+    src: 337
+  - dst: 788
+    src: 435
+  - dst: 599
+    src: 678
+  - dst: 190
+    src: 311
+  - dst: 104
+    src: 465
+  - dst: 602
+    src: 487
+  - dst: 503
+    src: 169
+  - dst: 734
+    src: 342
+  - dst: 534
+    src: 391
+  - dst: 183
+    src: 665
+  - dst: 479
+    src: 677
+  - dst: 41
+    src: 66
+  - dst: 7
+    src: 173
+  - dst: 792
+    src: 522
+  - dst: 625
+    src: 593
+  - dst: 786
+    src: 793
+  - dst: 645
+    src: 264
+  - dst: 208
+    src: 308
+  - dst: 562
+    src: 614
+  - dst: 777
+    src: 768
+  - dst: 653
+    src: 779
+  - dst: 658
+    src: 117
+  - dst: 581
+    src: 299
+  - dst: 275
+    src: 518
+  - dst: 699
+    src: 605
+  - dst: 461
+    src: 45
+  - dst: 159
+    src: 98
+  - dst: 683
+    src: 107
+  - dst: 56
+    src: 389
+  - dst: 521
+    src: 532
+  - dst: 320
+    src: 133
+  - dst: 604
+    src: 515
+  - dst: 18
+    src: 625
+  - dst: 273
+    src: 657
+  - dst: 85
+    src: 557
+  dst: '49'
+  src: '14'
+  is_3D: true
+- score_3d: 8.05
+  inliers:
+  - dst: 13
+    src: 0
+  - dst: 235
+    src: 49
+  - dst: 631
+    src: 432
+  - dst: 522
+    src: 509
+  - dst: 349
+    src: 572
+  - dst: 267
+    src: 90
+  - dst: 90
+    src: 151
+  - dst: 503
+    src: 528
+  - dst: 478
+    src: 537
+  - dst: 246
+    src: 68
+  - dst: 292
+    src: 104
+  - dst: 309
+    src: 105
+  - dst: 556
+    src: 519
+  - dst: 498
+    src: 529
+  - dst: 378
+    src: 690
+  - dst: 229
+    src: 32
+  - dst: 230
+    src: 35
+  - dst: 265
+    src: 78
+  - dst: 278
+    src: 88
+  - dst: 307
+    src: 115
+  - dst: 541
+    src: 328
+  - dst: 586
+    src: 365
+  - dst: 640
+    src: 438
+  - dst: 609
+    src: 455
+  - dst: 564
+    src: 482
+  - dst: 555
+    src: 496
+  - dst: 322
+    src: 592
+  - dst: 317
+    src: 116
+  - dst: 330
+    src: 129
+  - dst: 550
+    src: 481
+  - dst: 392
+    src: 576
+  - dst: 344
+    src: 161
+  - dst: 403
+    src: 180
+  - dst: 371
+    src: 184
+  - dst: 421
+    src: 215
+  - dst: 423
+    src: 217
+  - dst: 468
+    src: 248
+  - dst: 488
+    src: 261
+  - dst: 579
+    src: 351
+  - dst: 595
+    src: 361
+  - dst: 679
+    src: 371
+  - dst: 602
+    src: 372
+  - dst: 633
+    src: 392
+  - dst: 3
+    src: 400
+  - dst: 632
+    src: 407
+  - dst: 713
+    src: 451
+  - dst: 333
+    src: 599
+  - dst: 680
+    src: 788
+  - dst: 197
+    src: 9
+  - dst: 374
+    src: 192
+  - dst: 502
+    src: 260
+  - dst: 482
+    src: 524
+  - dst: 739
+    src: 773
+  - dst: 260
+    src: 80
+  - dst: 332
+    src: 131
+  - dst: 577
+    src: 467
+  - dst: 448
+    src: 536
+  - dst: 752
+    src: 729
+  - dst: 318
+    src: 132
+  - dst: 582
+    src: 465
+  - dst: 525
+    src: 506
+  - dst: 480
+    src: 525
+  - dst: 121
+    src: 551
+  - dst: 475
+    src: 569
+  - dst: 355
+    src: 159
+  - dst: 418
+    src: 195
+  - dst: 404
+    src: 198
+  - dst: 515
+    src: 281
+  - dst: 533
+    src: 301
+  - dst: 630
+    src: 433
+  - dst: 561
+    src: 479
+  - dst: 222
+    src: 42
+  - dst: 295
+    src: 109
+  - dst: 311
+    src: 135
+  - dst: 313
+    src: 136
+  - dst: 345
+    src: 162
+  - dst: 361
+    src: 177
+  - dst: 405
+    src: 181
+  - dst: 386
+    src: 183
+  - dst: 419
+    src: 196
+  - dst: 410
+    src: 202
+  - dst: 424
+    src: 218
+  - dst: 453
+    src: 231
+  - dst: 469
+    src: 249
+  - dst: 490
+    src: 263
+  - dst: 513
+    src: 279
+  - dst: 516
+    src: 303
+  - dst: 248
+    src: 69
+  - dst: 347
+    src: 165
+  - dst: 385
+    src: 174
+  - dst: 471
+    src: 251
+  - dst: 519
+    src: 284
+  - dst: 494
+    src: 291
+  - dst: 763
+    src: 499
+  - dst: 150
+    src: 685
+  - dst: 741
+    src: 724
+  - dst: 195
+    src: 26
+  - dst: 254
+    src: 66
+  - dst: 255
+    src: 77
+  - dst: 288
+    src: 83
+  - dst: 300
+    src: 95
+  - dst: 94
+    src: 222
+  - dst: 489
+    src: 262
+  - dst: 226
+    src: 296
+  - dst: 722
+    src: 474
+  - dst: 439
+    src: 538
+  - dst: 712
+    src: 573
+  - dst: 770
+    src: 731
+  - dst: 777
+    src: 778
+  - dst: 213
+    src: 33
+  - dst: 552
+    src: 327
+  - dst: 571
+    src: 343
+  - dst: 645
+    src: 421
+  - dst: 269
+    src: 618
+  - dst: 750
+    src: 775
+  - dst: 672
+    src: 39
+  - dst: 356
+    src: 160
+  - dst: 370
+    src: 175
+  - dst: 560
+    src: 480
+  - dst: 382
+    src: 574
+  - dst: 218
+    src: 584
+  - dst: 220
+    src: 40
+  - dst: 496
+    src: 294
+  - dst: 53
+    src: 453
+  - dst: 397
+    src: 552
+  - dst: 297
+    src: 120
+  - dst: 408
+    src: 201
+  - dst: 743
+    src: 237
+  - dst: 472
+    src: 264
+  - dst: 504
+    src: 285
+  - dst: 518
+    src: 304
+  - dst: 725
+    src: 317
+  - dst: 559
+    src: 337
+  - dst: 568
+    src: 342
+  - dst: 710
+    src: 716
+  - dst: 674
+    src: 755
+  - dst: 717
+    src: 765
+  - dst: 798
+    src: 772
+  - dst: 786
+    src: 792
+  - dst: 262
+    src: 81
+  - dst: 321
+    src: 137
+  - dst: 766
+    src: 288
+  - dst: 529
+    src: 314
+  - dst: 573
+    src: 344
+  - dst: 575
+    src: 348
+  - dst: 692
+    src: 121
+  - dst: 440
+    src: 239
+  - dst: 762
+    src: 255
+  - dst: 506
+    src: 287
+  - dst: 528
+    src: 305
+  - dst: 744
+    src: 313
+  - dst: 563
+    src: 338
+  - dst: 703
+    src: 356
+  - dst: 732
+    src: 718
+  - dst: 731
+    src: 739
+  - dst: 730
+    src: 740
+  - dst: 279
+    src: 106
+  - dst: 329
+    src: 127
+  - dst: 542
+    src: 329
+  - dst: 604
+    src: 378
+  - dst: 667
+    src: 752
+  dst: '16'
+  src: '15'
+  is_3D: true
+- score_3d: 7.8
+  inliers:
+  - dst: 50
+    src: 176
+  - dst: 181
+    src: 359
+  - dst: 418
+    src: 362
+  - dst: 148
+    src: 385
+  - dst: 740
+    src: 264
+  - dst: 762
+    src: 709
+  - dst: 67
+    src: 311
+  - dst: 87
+    src: 312
+  - dst: 188
+    src: 440
+  - dst: 265
+    src: 536
+  - dst: 311
+    src: 541
+  - dst: 344
+    src: 543
+  - dst: 31
+    src: 187
+  - dst: 599
+    src: 223
+  - dst: 155
+    src: 306
+  - dst: 115
+    src: 318
+  - dst: 139
+    src: 339
+  - dst: 176
+    src: 420
+  - dst: 210
+    src: 485
+  - dst: 519
+    src: 538
+  - dst: 306
+    src: 568
+  - dst: 302
+    src: 607
+  - dst: 324
+    src: 609
+  - dst: 403
+    src: 615
+  - dst: 404
+    src: 616
+  - dst: 332
+    src: 682
+  - dst: 105
+    src: 289
+  - dst: 147
+    src: 384
+  - dst: 234
+    src: 394
+  - dst: 255
+    src: 490
+  - dst: 328
+    src: 512
+  - dst: 494
+    src: 524
+  - dst: 224
+    src: 533
+  - dst: 422
+    src: 565
+  - dst: 337
+    src: 596
+  - dst: 493
+    src: 628
+  - dst: 473
+    src: 646
+  - dst: 527
+    src: 678
+  - dst: 236
+    src: 395
+  - dst: 200
+    src: 445
+  - dst: 197
+    src: 453
+  - dst: 225
+    src: 476
+  - dst: 624
+    src: 641
+  - dst: 578
+    src: 667
+  - dst: 598
+    src: 215
+  - dst: 90
+    src: 286
+  - dst: 534
+    src: 428
+  - dst: 199
+    src: 442
+  - dst: 518
+    src: 539
+  - dst: 484
+    src: 582
+  - dst: 756
+    src: 732
+  - dst: 59
+    src: 206
+  - dst: 461
+    src: 348
+  - dst: 398
+    src: 391
+  - dst: 259
+    src: 429
+  - dst: 688
+    src: 475
+  - dst: 243
+    src: 491
+  - dst: 254
+    src: 518
+  - dst: 307
+    src: 552
+  - dst: 391
+    src: 562
+  - dst: 279
+    src: 594
+  - dst: 354
+    src: 597
+  - dst: 379
+    src: 698
+  - dst: 480
+    src: 124
+  - dst: 30
+    src: 170
+  - dst: 169
+    src: 307
+  - dst: 183
+    src: 325
+  - dst: 275
+    src: 450
+  - dst: 229
+    src: 478
+  - dst: 173
+    src: 733
+  - dst: 27
+    src: 140
+  - dst: 609
+    src: 242
+  - dst: 98
+    src: 332
+  - dst: 160
+    src: 372
+  - dst: 386
+    src: 613
+  - dst: 397
+    src: 102
+  - dst: 32
+    src: 157
+  - dst: 72
+    src: 224
+  - dst: 137
+    src: 369
+  - dst: 260
+    src: 430
+  - dst: 187
+    src: 452
+  - dst: 448
+    src: 472
+  - dst: 209
+    src: 499
+  - dst: 363
+    src: 526
+  - dst: 517
+    src: 542
+  - dst: 503
+    src: 623
+  - dst: 438
+    src: 634
+  - dst: 614
+    src: 658
+  - dst: 413
+    src: 688
+  - dst: 755
+    src: 711
+  - dst: 407
+    src: 74
+  - dst: 17
+    src: 117
+  - dst: 95
+    src: 218
+  - dst: 104
+    src: 295
+  - dst: 152
+    src: 358
+  - dst: 202
+    src: 446
+  - dst: 277
+    src: 451
+  - dst: 201
+    src: 454
+  - dst: 497
+    src: 458
+  - dst: 454
+    src: 631
+  - dst: 754
+    src: 716
+  - dst: 667
+    src: 204
+  - dst: 89
+    src: 293
+  - dst: 116
+    src: 296
+  - dst: 165
+    src: 323
+  - dst: 567
+    src: 457
+  - dst: 312
+    src: 506
+  - dst: 387
+    src: 600
+  - dst: 488
+    src: 695
+  - dst: 16
+    src: 126
+  - dst: 34
+    src: 143
+  - dst: 61
+    src: 173
+  - dst: 80
+    src: 208
+  - dst: 313
+    src: 217
+  - dst: 122
+    src: 237
+  - dst: 140
+    src: 299
+  - dst: 88
+    src: 314
+  - dst: 247
+    src: 418
+  - dst: 477
+    src: 690
+  - dst: 561
+    src: 56
+  - dst: 123
+    src: 249
+  - dst: 144
+    src: 267
+  - dst: 163
+    src: 340
+  - dst: 310
+    src: 523
+  - dst: 482
+    src: 761
+  - dst: 25
+    src: 155
+  - dst: 112
+    src: 335
+  - dst: 284
+    src: 464
+  - dst: 315
+    src: 481
+  - dst: 266
+    src: 519
+  - dst: 388
+    src: 601
+  - dst: 385
+    src: 640
+  - dst: 744
+    src: 305
+  - dst: 99
+    src: 316
+  - dst: 101
+    src: 317
+  - dst: 194
+    src: 349
+  - dst: 760
+    src: 465
+  - dst: 788
+    src: 581
+  - dst: 562
+    src: 68
+  - dst: 564
+    src: 104
+  - dst: 464
+    src: 232
+  - dst: 56
+    src: 256
+  - dst: 612
+    src: 575
+  - dst: 437
+    src: 632
+  - dst: 638
+    src: 645
+  - dst: 26
+    src: 139
+  - dst: 47
+    src: 189
+  - dst: 533
+    src: 196
+  - dst: 231
+    src: 415
+  - dst: 483
+    src: 551
+  - dst: 596
+    src: 677
+  - dst: 49
+    src: 174
+  - dst: 54
+    src: 280
+  - dst: 193
+    src: 389
+  - dst: 470
+    src: 663
+  - dst: 399
+    src: 665
+  dst: '23'
+  src: '17'
+  is_3D: true
+- score_3d: 7.45
+  inliers:
+  - dst: 353
+    src: 115
+  - dst: 469
+    src: 282
+  - dst: 483
+    src: 283
+  - dst: 484
+    src: 284
+  - dst: 485
+    src: 285
+  - dst: 678
+    src: 362
+  - dst: 616
+    src: 385
+  - dst: 630
+    src: 386
+  - dst: 670
+    src: 410
+  - dst: 741
+    src: 417
+  - dst: 322
+    src: 466
+  - dst: 536
+    src: 264
+  - dst: 59
+    src: 710
+  - dst: 737
+    src: 737
+  - dst: 766
+    src: 745
+  - dst: 376
+    src: 168
+  - dst: 463
+    src: 216
+  - dst: 434
+    src: 254
+  - dst: 501
+    src: 311
+  - dst: 666
+    src: 440
+  - dst: 358
+    src: 725
+  - dst: 220
+    src: 30
+  - dst: 217
+    src: 49
+  - dst: 265
+    src: 84
+  - dst: 372
+    src: 165
+  - dst: 388
+    src: 197
+  - dst: 417
+    src: 239
+  - dst: 433
+    src: 252
+  - dst: 544
+    src: 318
+  - dst: 617
+    src: 387
+  - dst: 649
+    src: 420
+  - dst: 664
+    src: 439
+  - dst: 728
+    src: 485
+  - dst: 381
+    src: 549
+  - dst: 105
+    src: 568
+  - dst: 197
+    src: 48
+  - dst: 274
+    src: 83
+  - dst: 329
+    src: 97
+  - dst: 359
+    src: 195
+  - dst: 451
+    src: 279
+  - dst: 201
+    src: 578
+  - dst: 700
+    src: 730
+  - dst: 29
+    src: 14
+  - dst: 216
+    src: 64
+  - dst: 533
+    src: 273
+  - dst: 568
+    src: 368
+  - dst: 733
+    src: 476
+  - dst: 404
+    src: 198
+  - dst: 421
+    src: 201
+  - dst: 608
+    src: 406
+  - dst: 609
+    src: 407
+  - dst: 137
+    src: 141
+  - dst: 335
+    src: 193
+  - dst: 429
+    src: 206
+  - dst: 489
+    src: 272
+  - dst: 287
+    src: 491
+  - dst: 461
+    src: 518
+  - dst: 103
+    src: 553
+  - dst: 635
+    src: 594
+  - dst: 285
+    src: 751
+  - dst: 327
+    src: 112
+  - dst: 393
+    src: 170
+  - dst: 597
+    src: 370
+  - dst: 430
+    src: 450
+  - dst: 350
+    src: 478
+  - dst: 705
+    src: 489
+  - dst: 624
+    src: 517
+  - dst: 494
+    src: 531
+  - dst: 183
+    src: 47
+  - dst: 248
+    src: 67
+  - dst: 227
+    src: 77
+  - dst: 262
+    src: 103
+  - dst: 306
+    src: 131
+  - dst: 351
+    src: 137
+  - dst: 415
+    src: 140
+  - dst: 374
+    src: 166
+  - dst: 349
+    src: 181
+  - dst: 405
+    src: 199
+  - dst: 548
+    src: 276
+  - dst: 528
+    src: 332
+  - dst: 740
+    src: 416
+  - dst: 355
+    src: 477
+  - dst: 798
+    src: 759
+  - dst: 324
+    src: 125
+  - dst: 414
+    src: 157
+  - dst: 648
+    src: 438
+  - dst: 683
+    src: 452
+  - dst: 215
+    src: 63
+  - dst: 214
+    src: 78
+  - dst: 578
+    src: 300
+  - dst: 394
+    src: 393
+  - dst: 704
+    src: 424
+  - dst: 592
+    src: 446
+  - dst: 238
+    src: 21
+  - dst: 788
+    src: 296
+  - dst: 730
+    src: 486
+  - dst: 229
+    src: 52
+  - dst: 247
+    src: 66
+  - dst: 305
+    src: 130
+  - dst: 477
+    src: 222
+  - dst: 524
+    src: 237
+  - dst: 577
+    src: 299
+  - dst: 503
+    src: 314
+  - dst: 589
+    src: 322
+  - dst: 732
+    src: 418
+  - dst: 141
+    src: 566
+  - dst: 232
+    src: 35
+  - dst: 325
+    src: 110
+  - dst: 370
+    src: 183
+  - dst: 406
+    src: 200
+  - dst: 631
+    src: 388
+  - dst: 717
+    src: 400
+  - dst: 605
+    src: 502
+  - dst: 180
+    src: 504
+  - dst: 579
+    src: 731
+  - dst: 486
+    src: 746
+  - dst: 778
+    src: 749
+  - dst: 269
+    src: 40
+  - dst: 435
+    src: 255
+  - dst: 541
+    src: 335
+  - dst: 676
+    src: 390
+  - dst: 686
+    src: 441
+  - dst: 543
+    src: 455
+  - dst: 177
+    src: 481
+  - dst: 290
+    src: 537
+  - dst: 754
+    src: 760
+  - dst: 474
+    src: 258
+  - dst: 516
+    src: 315
+  - dst: 517
+    src: 316
+  - dst: 709
+    src: 516
+  - dst: 364
+    src: 114
+  - dst: 334
+    src: 148
+  - dst: 278
+    src: 479
+  - dst: 303
+    src: 128
+  - dst: 304
+    src: 129
+  - dst: 397
+    src: 139
+  - dst: 770
+    src: 179
+  - dst: 775
+    src: 180
+  - dst: 444
+    src: 189
+  - dst: 492
+    src: 227
+  - dst: 453
+    src: 257
+  - dst: 657
+    src: 360
+  - dst: 652
+    src: 373
+  - dst: 650
+    src: 421
+  - dst: 275
+    src: 93
+  - dst: 375
+    src: 185
+  - dst: 467
+    src: 280
+  - dst: 522
+    src: 754
+  - dst: 323
+    src: 762
+  dst: '24'
+  src: '17'
+  is_3D: true
+- score_3d: 6.25
+  inliers:
+  - dst: 1
+    src: 159
+  - dst: 385
+    src: 161
+  - dst: 440
+    src: 173
+  - dst: 267
+    src: 209
+  - dst: 415
+    src: 1
+  - dst: 398
+    src: 249
+  - dst: 407
+    src: 305
+  - dst: 438
+    src: 324
+  - dst: 408
+    src: 373
+  - dst: 496
+    src: 436
+  - dst: 318
+    src: 440
+  - dst: 26
+    src: 455
+  - dst: 690
+    src: 478
+  - dst: 184
+    src: 199
+  - dst: 159
+    src: 229
+  - dst: 258
+    src: 242
+  - dst: 402
+    src: 258
+  - dst: 680
+    src: 313
+  - dst: 534
+    src: 332
+  - dst: 569
+    src: 599
+  - dst: 172
+    src: 203
+  - dst: 573
+    src: 408
+  - dst: 510
+    src: 411
+  - dst: 484
+    src: 504
+  - dst: 444
+    src: 555
+  - dst: 134
+    src: 602
+  - dst: 606
+    src: 636
+  - dst: 427
+    src: 218
+  - dst: 375
+    src: 352
+  - dst: 158
+    src: 205
+  - dst: 406
+    src: 248
+  - dst: 378
+    src: 280
+  - dst: 386
+    src: 282
+  - dst: 465
+    src: 287
+  - dst: 377
+    src: 315
+  - dst: 517
+    src: 320
+  - dst: 722
+    src: 349
+  - dst: 520
+    src: 381
+  - dst: 770
+    src: 386
+  - dst: 576
+    src: 427
+  - dst: 599
+    src: 468
+  - dst: 661
+    src: 521
+  - dst: 314
+    src: 121
+  - dst: 156
+    src: 189
+  - dst: 529
+    src: 341
+  - dst: 220
+    src: 442
+  - dst: 371
+    src: 462
+  - dst: 237
+    src: 210
+  - dst: 374
+    src: 223
+  - dst: 326
+    src: 41
+  - dst: 257
+    src: 61
+  - dst: 414
+    src: 72
+  - dst: 124
+    src: 221
+  - dst: 381
+    src: 244
+  - dst: 307
+    src: 254
+  - dst: 281
+    src: 261
+  - dst: 332
+    src: 299
+  - dst: 123
+    src: 392
+  - dst: 748
+    src: 661
+  - dst: 756
+    src: 792
+  - dst: 771
+    src: 798
+  - dst: 399
+    src: 148
+  - dst: 70
+    src: 152
+  - dst: 376
+    src: 201
+  - dst: 412
+    src: 208
+  - dst: 388
+    src: 257
+  - dst: 506
+    src: 304
+  - dst: 531
+    src: 337
+  - dst: 350
+    src: 345
+  - dst: 500
+    src: 500
+  - dst: 571
+    src: 643
+  - dst: 640
+    src: 357
+  - dst: 166
+    src: 786
+  - dst: 358
+    src: 204
+  - dst: 689
+    src: 495
+  - dst: 69
+    src: 506
+  - dst: 400
+    src: 592
+  - dst: 779
+    src: 663
+  - dst: 269
+    src: 27
+  - dst: 270
+    src: 43
+  - dst: 404
+    src: 101
+  - dst: 336
+    src: 183
+  - dst: 171
+    src: 200
+  - dst: 293
+    src: 212
+  - dst: 437
+    src: 263
+  - dst: 536
+    src: 334
+  - dst: 129
+    src: 365
+  - dst: 102
+    src: 388
+  - dst: 347
+    src: 430
+  - dst: 364
+    src: 89
+  - dst: 724
+    src: 302
+  - dst: 191
+    src: 356
+  - dst: 633
+    src: 523
+  - dst: 32
+    src: 103
+  - dst: 137
+    src: 231
+  - dst: 744
+    src: 300
+  - dst: 566
+    src: 359
+  - dst: 83
+    src: 420
+  - dst: 181
+    src: 423
+  - dst: 455
+    src: 672
+  - dst: 411
+    src: 158
+  - dst: 243
+    src: 262
+  - dst: 188
+    src: 276
+  - dst: 304
+    src: 409
+  - dst: 299
+    src: 426
+  - dst: 162
+    src: 562
+  - dst: 541
+    src: 591
+  - dst: 507
+    src: 608
+  - dst: 567
+    src: 616
+  - dst: 390
+    src: 186
+  - dst: 232
+    src: 322
+  - dst: 645
+    src: 340
+  - dst: 319
+    src: 410
+  - dst: 731
+    src: 494
+  - dst: 781
+    src: 617
+  - dst: 341
+    src: 720
+  - dst: 189
+    src: 196
+  - dst: 479
+    src: 348
+  - dst: 495
+    src: 419
+  - dst: 708
+    src: 421
+  - dst: 363
+    src: 697
+  - dst: 572
+    src: 732
+  - dst: 746
+    src: 757
+  - dst: 712
+    src: 758
+  - dst: 443
+    src: 673
+  dst: '25'
+  src: '19'
+  is_3D: true
+- score_3d: 4.6
+  inliers:
+  - dst: 296
+    src: 78
+  - dst: 344
+    src: 130
+  - dst: 233
+    src: 164
+  - dst: 46
+    src: 430
+  - dst: 369
+    src: 121
+  - dst: 311
+    src: 318
+  - dst: 78
+    src: 362
+  - dst: 479
+    src: 405
+  - dst: 8
+    src: 408
+  - dst: 281
+    src: 64
+  - dst: 120
+    src: 123
+  - dst: 340
+    src: 126
+  - dst: 282
+    src: 252
+  - dst: 110
+    src: 381
+  - dst: 366
+    src: 364
+  - dst: 637
+    src: 396
+  - dst: 339
+    src: 125
+  - dst: 163
+    src: 375
+  - dst: 531
+    src: 553
+  - dst: 39
+    src: 243
+  - dst: 77
+    src: 391
+  - dst: 47
+    src: 507
+  - dst: 497
+    src: 515
+  - dst: 23
+    src: 410
+  - dst: 64
+    src: 412
+  - dst: 74
+    src: 426
+  - dst: 439
+    src: 500
+  - dst: 553
+    src: 538
+  - dst: 618
+    src: 571
+  - dst: 223
+    src: 35
+  - dst: 690
+    src: 450
+  - dst: 559
+    src: 556
+  - dst: 468
+    src: 619
+  - dst: 570
+    src: 721
+  - dst: 766
+    src: 727
+  - dst: 739
+    src: 760
+  - dst: 309
+    src: 94
+  - dst: 42
+    src: 159
+  - dst: 84
+    src: 419
+  - dst: 574
+    src: 554
+  - dst: 435
+    src: 627
+  - dst: 458
+    src: 677
+  - dst: 581
+    src: 791
+  - dst: 535
+    src: 36
+  - dst: 459
+    src: 122
+  - dst: 141
+    src: 187
+  - dst: 655
+    src: 344
+  - dst: 181
+    src: 374
+  - dst: 615
+    src: 615
+  - dst: 699
+    src: 379
+  - dst: 365
+    src: 441
+  - dst: 485
+    src: 482
+  - dst: 656
+    src: 498
+  - dst: 445
+    src: 687
+  - dst: 679
+    src: 715
+  - dst: 722
+    src: 728
+  - dst: 686
+    src: 774
+  - dst: 698
+    src: 785
+  - dst: 795
+    src: 790
+  - dst: 548
+    src: 566
+  - dst: 239
+    src: 51
+  - dst: 171
+    src: 311
+  - dst: 563
+    src: 463
+  - dst: 557
+    src: 509
+  - dst: 522
+    src: 532
+  - dst: 464
+    src: 605
+  - dst: 507
+    src: 629
+  - dst: 555
+    src: 650
+  - dst: 399
+    src: 681
+  - dst: 683
+    src: 723
+  - dst: 592
+    src: 777
+  - dst: 688
+    src: 780
+  - dst: 321
+    src: 105
+  - dst: 549
+    src: 537
+  - dst: 604
+    src: 607
+  - dst: 332
+    src: 135
+  - dst: 193
+    src: 562
+  - dst: 670
+    src: 759
+  - dst: 410
+    src: 161
+  - dst: 270
+    src: 297
+  - dst: 621
+    src: 363
+  - dst: 472
+    src: 486
+  - dst: 486
+    src: 626
+  - dst: 524
+    src: 651
+  - dst: 4
+    src: 708
+  - dst: 465
+    src: 97
+  - dst: 310
+    src: 113
+  - dst: 449
+    src: 464
+  - dst: 671
+    src: 502
+  - dst: 626
+    src: 517
+  - dst: 423
+    src: 520
+  - dst: 729
+    src: 722
+  dst: '29'
+  src: '25'
+  is_3D: true
+- score_3d: 5.2
+  inliers:
+  - dst: 521
+    src: 337
+  - dst: 321
+    src: 296
+  - dst: 503
+    src: 409
+  - dst: 253
+    src: 465
+  - dst: 330
+    src: 27
+  - dst: 370
+    src: 188
+  - dst: 111
+    src: 314
+  - dst: 268
+    src: 332
+  - dst: 145
+    src: 344
+  - dst: 554
+    src: 461
+  - dst: 645
+    src: 525
+  - dst: 260
+    src: 29
+  - dst: 292
+    src: 63
+  - dst: 332
+    src: 318
+  - dst: 509
+    src: 378
+  - dst: 646
+    src: 431
+  - dst: 670
+    src: 620
+  - dst: 131
+    src: 701
+  - dst: 369
+    src: 244
+  - dst: 61
+    src: 284
+  - dst: 91
+    src: 306
+  - dst: 245
+    src: 350
+  - dst: 146
+    src: 374
+  - dst: 152
+    src: 400
+  - dst: 537
+    src: 509
+  - dst: 527
+    src: 554
+  - dst: 479
+    src: 558
+  - dst: 398
+    src: 268
+  - dst: 228
+    src: 276
+  - dst: 173
+    src: 396
+  - dst: 269
+    src: 345
+  - dst: 634
+    src: 173
+  - dst: 160
+    src: 373
+  - dst: 126
+    src: 376
+  - dst: 178
+    src: 393
+  - dst: 458
+    src: 640
+  - dst: 669
+    src: 642
+  - dst: 378
+    src: 267
+  - dst: 198
+    src: 300
+  - dst: 144
+    src: 343
+  - dst: 135
+    src: 380
+  - dst: 379
+    src: 384
+  - dst: 143
+    src: 389
+  - dst: 142
+    src: 151
+  - dst: 333
+    src: 532
+  - dst: 616
+    src: 538
+  - dst: 615
+    src: 597
+  - dst: 545
+    src: 614
+  - dst: 459
+    src: 633
+  - dst: 462
+    src: 13
+  - dst: 495
+    src: 402
+  - dst: 573
+    src: 435
+  - dst: 86
+    src: 67
+  - dst: 356
+    src: 179
+  - dst: 43
+    src: 262
+  - dst: 28
+    src: 263
+  - dst: 310
+    src: 330
+  - dst: 176
+    src: 391
+  - dst: 30
+    src: 615
+  - dst: 140
+    src: 97
+  - dst: 366
+    src: 355
+  - dst: 712
+    src: 502
+  - dst: 96
+    src: 191
+  - dst: 88
+    src: 335
+  - dst: 538
+    src: 339
+  - dst: 148
+    src: 367
+  - dst: 234
+    src: 370
+  - dst: 150
+    src: 347
+  - dst: 547
+    src: 490
+  - dst: 682
+    src: 735
+  - dst: 749
+    src: 766
+  - dst: 630
+    src: 770
+  - dst: 365
+    src: 187
+  - dst: 90
+    src: 264
+  - dst: 450
+    src: 275
+  - dst: 485
+    src: 282
+  - dst: 603
+    src: 537
+  - dst: 445
+    src: 624
+  - dst: 515
+    src: 113
+  - dst: 455
+    src: 156
+  - dst: 690
+    src: 200
+  - dst: 413
+    src: 222
+  - dst: 499
+    src: 473
+  - dst: 559
+    src: 495
+  - dst: 468
+    src: 501
+  - dst: 570
+    src: 606
+  - dst: 760
+    src: 677
+  - dst: 677
+    src: 726
+  - dst: 739
+    src: 776
+  - dst: 766
+    src: 786
+  - dst: 208
+    src: 360
+  - dst: 717
+    src: 441
+  - dst: 575
+    src: 450
+  - dst: 694
+    src: 467
+  - dst: 688
+    src: 475
+  - dst: 592
+    src: 498
+  - dst: 555
+    src: 645
+  - dst: 649
+    src: 659
+  - dst: 727
+    src: 663
+  - dst: 290
+    src: 85
+  - dst: 502
+    src: 124
+  - dst: 77
+    src: 297
+  - dst: 478
+    src: 559
+  - dst: 703
+    src: 746
+  dst: '29'
+  src: '26'
+  is_3D: true
+- score_3d: 4.3
+  inliers:
+  - dst: 95
+    src: 306
+  - dst: 151
+    src: 231
+  - dst: 292
+    src: 42
+  - dst: 186
+    src: 216
+  - dst: 161
+    src: 228
+  - dst: 139
+    src: 265
+  - dst: 33
+    src: 414
+  - dst: 357
+    src: 141
+  - dst: 129
+    src: 263
+  - dst: 484
+    src: 535
+  - dst: 731
+    src: 748
+  - dst: 101
+    src: 293
+  - dst: 41
+    src: 392
+  - dst: 658
+    src: 753
+  - dst: 143
+    src: 241
+  - dst: 591
+    src: 308
+  - dst: 373
+    src: 456
+  - dst: 405
+    src: 476
+  - dst: 712
+    src: 661
+  - dst: 11
+    src: 90
+  - dst: 248
+    src: 149
+  - dst: 470
+    src: 395
+  - dst: 480
+    src: 531
+  - dst: 473
+    src: 567
+  - dst: 627
+    src: 609
+  - dst: 693
+    src: 625
+  - dst: 606
+    src: 648
+  - dst: 759
+    src: 744
+  - dst: 189
+    src: 166
+  - dst: 449
+    src: 118
+  - dst: 460
+    src: 239
+  - dst: 544
+    src: 266
+  - dst: 84
+    src: 340
+  - dst: 281
+    src: 43
+  - dst: 314
+    src: 84
+  - dst: 286
+    src: 113
+  - dst: 266
+    src: 126
+  - dst: 249
+    src: 148
+  - dst: 234
+    src: 157
+  - dst: 213
+    src: 174
+  - dst: 446
+    src: 218
+  - dst: 118
+    src: 298
+  - dst: 533
+    src: 343
+  - dst: 42
+    src: 389
+  - dst: 726
+    src: 673
+  - dst: 280
+    src: 35
+  - dst: 285
+    src: 89
+  - dst: 237
+    src: 122
+  - dst: 184
+    src: 219
+  - dst: 522
+    src: 244
+  - dst: 43
+    src: 396
+  - dst: 399
+    src: 457
+  - dst: 423
+    src: 477
+  - dst: 311
+    src: 481
+  - dst: 554
+    src: 530
+  - dst: 690
+    src: 686
+  - dst: 253
+    src: 30
+  - dst: 540
+    src: 288
+  - dst: 362
+    src: 460
+  - dst: 678
+    src: 760
+  - dst: 600
+    src: 317
+  - dst: 63
+    src: 359
+  - dst: 660
+    src: 639
+  - dst: 391
+    src: 726
+  - dst: 523
+    src: 245
+  - dst: 588
+    src: 346
+  - dst: 510
+    src: 355
+  - dst: 496
+    src: 367
+  - dst: 15
+    src: 435
+  - dst: 262
+    src: 85
+  - dst: 250
+    src: 103
+  - dst: 206
+    src: 146
+  - dst: 463
+    src: 205
+  - dst: 155
+    src: 258
+  - dst: 400
+    src: 514
+  - dst: 478
+    src: 570
+  - dst: 681
+    src: 708
+  - dst: 69
+    src: 319
+  - dst: 60
+    src: 330
+  - dst: 374
+    src: 587
+  - dst: 686
+    src: 687
+  - dst: 92
+    src: 322
+  - dst: 349
+    src: 443
+  - dst: 625
+    src: 604
+  - dst: 366
+    src: 455
+  - dst: 344
+    src: 463
+  dst: '30'
+  src: '28'
+  is_3D: true
+- score_3d: 13.4
+  inliers:
+  - dst: 13
+    src: 89
+  - dst: 18
+    src: 107
+  - dst: 21
+    src: 124
+  - dst: 207
+    src: 139
+  - dst: 32
+    src: 161
+  - dst: 218
+    src: 186
+  - dst: 530
+    src: 211
+  - dst: 256
+    src: 221
+  - dst: 51
+    src: 225
+  - dst: 254
+    src: 243
+  - dst: 247
+    src: 292
+  - dst: 85
+    src: 305
+  - dst: 425
+    src: 497
+  - dst: 337
+    src: 567
+  - dst: 751
+    src: 685
+  - dst: 172
+    src: 719
+  - dst: 173
+    src: 723
+  - dst: 779
+    src: 770
+  - dst: 668
+    src: 788
+  - dst: 0
+    src: 1
+  - dst: 3
+    src: 30
+  - dst: 4
+    src: 31
+  - dst: 14
+    src: 90
+  - dst: 17
+    src: 106
+  - dst: 19
+    src: 108
+  - dst: 22
+    src: 125
+  - dst: 24
+    src: 133
+  - dst: 212
+    src: 171
+  - dst: 38
+    src: 179
+  - dst: 217
+    src: 194
+  - dst: 516
+    src: 213
+  - dst: 229
+    src: 215
+  - dst: 59
+    src: 245
+  - dst: 66
+    src: 260
+  - dst: 67
+    src: 264
+  - dst: 511
+    src: 266
+  - dst: 76
+    src: 281
+  - dst: 569
+    src: 310
+  - dst: 87
+    src: 314
+  - dst: 588
+    src: 319
+  - dst: 465
+    src: 331
+  - dst: 515
+    src: 389
+  - dst: 459
+    src: 446
+  - dst: 131
+    src: 499
+  - dst: 287
+    src: 511
+  - dst: 146
+    src: 574
+  - dst: 156
+    src: 618
+  - dst: 169
+    src: 711
+  - dst: 734
+    src: 750
+  - dst: 214
+    src: 159
+  - dst: 48
+    src: 218
+  - dst: 57
+    src: 240
+  - dst: 79
+    src: 290
+  - dst: 83
+    src: 301
+  - dst: 273
+    src: 328
+  - dst: 108
+    src: 385
+  - dst: 408
+    src: 566
+  - dst: 220
+    src: 201
+  - dst: 225
+    src: 222
+  - dst: 105
+    src: 376
+  - dst: 109
+    src: 386
+  - dst: 399
+    src: 396
+  - dst: 627
+    src: 468
+  - dst: 576
+    src: 597
+  - dst: 448
+    src: 634
+  - dst: 547
+    src: 679
+  - dst: 768
+    src: 713
+  - dst: 183
+    src: 72
+  - dst: 320
+    src: 73
+  - dst: 442
+    src: 231
+  - dst: 427
+    src: 377
+  - dst: 113
+    src: 414
+  - dst: 128
+    src: 486
+  - dst: 134
+    src: 515
+  - dst: 419
+    src: 525
+  - dst: 578
+    src: 630
+  - dst: 572
+    src: 659
+  - dst: 767
+    src: 664
+  - dst: 167
+    src: 692
+  - dst: 16
+    src: 96
+  - dst: 345
+    src: 115
+  - dst: 351
+    src: 116
+  - dst: 352
+    src: 117
+  - dst: 265
+    src: 119
+  - dst: 266
+    src: 134
+  - dst: 34
+    src: 168
+  - dst: 233
+    src: 247
+  - dst: 234
+    src: 248
+  - dst: 473
+    src: 472
+  - dst: 651
+    src: 473
+  - dst: 446
+    src: 480
+  - dst: 309
+    src: 563
+  - dst: 353
+    src: 564
+  - dst: 288
+    src: 578
+  - dst: 609
+    src: 642
+  - dst: 685
+    src: 759
+  - dst: 672
+    src: 762
+  - dst: 420
+    src: 142
+  - dst: 222
+    src: 189
+  - dst: 648
+    src: 404
+  - dst: 334
+    src: 573
+  - dst: 2
+    src: 19
+  - dst: 495
+    src: 198
+  - dst: 47
+    src: 217
+  - dst: 65
+    src: 258
+  - dst: 114
+    src: 416
+  - dst: 118
+    src: 451
+  - dst: 658
+    src: 531
+  - dst: 366
+    src: 591
+  - dst: 654
+    src: 742
+  - dst: 5
+    src: 32
+  - dst: 12
+    src: 85
+  - dst: 20
+    src: 109
+  - dst: 356
+    src: 113
+  - dst: 23
+    src: 126
+  - dst: 37
+    src: 178
+  - dst: 84
+    src: 302
+  - dst: 96
+    src: 337
+  - dst: 421
+    src: 351
+  - dst: 99
+    src: 359
+  - dst: 411
+    src: 409
+  - dst: 115
+    src: 417
+  - dst: 376
+    src: 447
+  - dst: 121
+    src: 461
+  - dst: 129
+    src: 487
+  - dst: 139
+    src: 545
+  - dst: 581
+    src: 576
+  - dst: 160
+    src: 629
+  - dst: 165
+    src: 667
+  - dst: 11
+    src: 81
+  - dst: 27
+    src: 147
+  - dst: 41
+    src: 182
+  - dst: 458
+    src: 184
+  - dst: 497
+    src: 200
+  - dst: 45
+    src: 203
+  - dst: 56
+    src: 239
+  - dst: 70
+    src: 269
+  - dst: 71
+    src: 272
+  - dst: 537
+    src: 279
+  - dst: 389
+    src: 431
+  - dst: 387
+    src: 432
+  - dst: 449
+    src: 522
+  - dst: 317
+    src: 594
+  - dst: 568
+    src: 725
+  - dst: 560
+    src: 737
+  - dst: 481
+    src: 195
+  - dst: 230
+    src: 209
+  - dst: 510
+    src: 210
+  - dst: 535
+    src: 261
+  - dst: 236
+    src: 263
+  - dst: 246
+    src: 294
+  - dst: 555
+    src: 353
+  - dst: 145
+    src: 572
+  - dst: 729
+    src: 650
+  - dst: 719
+    src: 673
+  - dst: 761
+    src: 729
+  - dst: 694
+    src: 772
+  - dst: 724
+    src: 774
+  - dst: 191
+    src: 132
+  - dst: 46
+    src: 216
+  - dst: 63
+    src: 254
+  - dst: 418
+    src: 536
+  - dst: 561
+    src: 614
+  - dst: 696
+    src: 683
+  - dst: 714
+    src: 727
+  - dst: 176
+    src: 735
+  - dst: 697
+    src: 752
+  - dst: 780
+    src: 799
+  - dst: 364
+    src: 83
+  - dst: 223
+    src: 192
+  - dst: 227
+    src: 204
+  - dst: 228
+    src: 205
+  - dst: 50
+    src: 224
+  - dst: 82
+    src: 300
+  - dst: 88
+    src: 315
+  - dst: 93
+    src: 334
+  - dst: 534
+    src: 343
+  - dst: 123
+    src: 466
+  - dst: 136
+    src: 520
+  - dst: 341
+    src: 556
+  - dst: 166
+    src: 688
+  - dst: 213
+    src: 163
+  - dst: 472
+    src: 174
+  - dst: 43
+    src: 188
+  - dst: 501
+    src: 206
+  - dst: 525
+    src: 228
+  - dst: 532
+    src: 250
+  - dst: 536
+    src: 262
+  - dst: 531
+    src: 352
+  - dst: 405
+    src: 383
+  - dst: 401
+    src: 429
+  - dst: 498
+    src: 463
+  - dst: 151
+    src: 590
+  - dst: 162
+    src: 632
+  - dst: 170
+    src: 714
+  - dst: 178
+    src: 753
+  - dst: 190
+    src: 130
+  - dst: 200
+    src: 144
+  - dst: 290
+    src: 403
+  - dst: 135
+    src: 519
+  - dst: 141
+    src: 553
+  - dst: 28
+    src: 148
+  - dst: 44
+    src: 191
+  - dst: 52
+    src: 226
+  - dst: 452
+    src: 256
+  - dst: 73
+    src: 276
+  - dst: 507
+    src: 293
+  - dst: 81
+    src: 299
+  - dst: 612
+    src: 322
+  - dst: 522
+    src: 388
+  - dst: 117
+    src: 427
+  - dst: 424
+    src: 544
+  - dst: 305
+    src: 552
+  - dst: 154
+    src: 602
+  - dst: 321
+    src: 74
+  - dst: 269
+    src: 75
+  - dst: 428
+    src: 145
+  - dst: 455
+    src: 344
+  - dst: 445
+    src: 366
+  - dst: 133
+    src: 505
+  - dst: 391
+    src: 535
+  - dst: 138
+    src: 543
+  - dst: 9
+    src: 79
+  - dst: 327
+    src: 99
+  - dst: 30
+    src: 150
+  - dst: 264
+    src: 158
+  - dst: 270
+    src: 296
+  - dst: 97
+    src: 350
+  - dst: 595
+    src: 391
+  - dst: 636
+    src: 481
+  - dst: 623
+    src: 483
+  - dst: 372
+    src: 493
+  - dst: 143
+    src: 570
+  - dst: 147
+    src: 582
+  - dst: 148
+    src: 583
+  - dst: 331
+    src: 585
+  - dst: 431
+    src: 600
+  - dst: 325
+    src: 601
+  - dst: 157
+    src: 619
+  - dst: 603
+    src: 660
+  - dst: 171
+    src: 715
+  - dst: 725
+    src: 739
+  - dst: 644
+    src: 751
+  - dst: 513
+    src: 287
+  - dst: 94
+    src: 335
+  - dst: 98
+    src: 354
+  - dst: 100
+    src: 364
+  - dst: 661
+    src: 367
+  - dst: 103
+    src: 369
+  - dst: 104
+    src: 372
+  - dst: 116
+    src: 424
+  - dst: 130
+    src: 491
+  - dst: 298
+    src: 500
+  - dst: 429
+    src: 532
+  - dst: 150
+    src: 587
+  - dst: 161
+    src: 631
+  - dst: 660
+    src: 665
+  - dst: 772
+    src: 671
+  - dst: 196
+    src: 110
+  - dst: 40
+    src: 181
+  - dst: 238
+    src: 244
+  - dst: 60
+    src: 251
+  - dst: 36
+    src: 345
+  - dst: 140
+    src: 548
+  - dst: 604
+    src: 561
+  - dst: 701
+    src: 684
+  - dst: 722
+    src: 722
+  - dst: 783
+    src: 797
+  dst: '31'
+  src: '30'
+  is_3D: true
+- score_3d: 9.4
+  inliers:
+  - dst: 495
+    src: 289
+  - dst: 531
+    src: 295
+  - dst: 697
+    src: 300
+  - dst: 65
+    src: 410
+  - dst: 57
+    src: 477
+  - dst: 284
+    src: 541
+  - dst: 740
+    src: 578
+  - dst: 37
+    src: 583
+  - dst: 110
+    src: 691
+  - dst: 779
+    src: 741
+  - dst: 706
+    src: 75
+  - dst: 170
+    src: 155
+  - dst: 264
+    src: 482
+  - dst: 215
+    src: 579
+  - dst: 48
+    src: 625
+  - dst: 185
+    src: 770
+  - dst: 46
+    src: 635
+  - dst: 182
+    src: 668
+  - dst: 514
+    src: 95
+  - dst: 418
+    src: 101
+  - dst: 112
+    src: 110
+  - dst: 539
+    src: 111
+  - dst: 551
+    src: 122
+  - dst: 616
+    src: 148
+  - dst: 506
+    src: 193
+  - dst: 190
+    src: 194
+  - dst: 205
+    src: 205
+  - dst: 91
+    src: 225
+  - dst: 676
+    src: 270
+  - dst: 396
+    src: 370
+  - dst: 399
+    src: 382
+  - dst: 386
+    src: 408
+  - dst: 58
+    src: 459
+  - dst: 84
+    src: 461
+  - dst: 279
+    src: 492
+  - dst: 271
+    src: 551
+  - dst: 232
+    src: 555
+  - dst: 180
+    src: 659
+  - dst: 737
+    src: 745
+  - dst: 694
+    src: 752
+  - dst: 705
+    src: 759
+  - dst: 748
+    src: 774
+  - dst: 757
+    src: 775
+  - dst: 772
+    src: 776
+  - dst: 770
+    src: 777
+  - dst: 758
+    src: 792
+  - dst: 139
+    src: 138
+  - dst: 159
+    src: 452
+  - dst: 700
+    src: 652
+  - dst: 154
+    src: 688
+  - dst: 17
+    src: 693
+  - dst: 299
+    src: 488
+  - dst: 509
+    src: 70
+  - dst: 562
+    src: 106
+  - dst: 436
+    src: 127
+  - dst: 591
+    src: 128
+  - dst: 358
+    src: 371
+  - dst: 286
+    src: 491
+  - dst: 269
+    src: 532
+  - dst: 216
+    src: 591
+  - dst: 39
+    src: 670
+  - dst: 722
+    src: 757
+  - dst: 389
+    src: 710
+  - dst: 538
+    src: 71
+  - dst: 511
+    src: 73
+  - dst: 505
+    src: 77
+  - dst: 515
+    src: 78
+  - dst: 525
+    src: 84
+  - dst: 529
+    src: 85
+  - dst: 540
+    src: 92
+  - dst: 528
+    src: 102
+  - dst: 535
+    src: 108
+  - dst: 685
+    src: 145
+  - dst: 171
+    src: 156
+  - dst: 613
+    src: 158
+  - dst: 651
+    src: 162
+  - dst: 621
+    src: 172
+  - dst: 638
+    src: 173
+  - dst: 464
+    src: 174
+  - dst: 642
+    src: 175
+  - dst: 189
+    src: 176
+  - dst: 466
+    src: 180
+  - dst: 673
+    src: 183
+  - dst: 649
+    src: 186
+  - dst: 507
+    src: 192
+  - dst: 652
+    src: 202
+  - dst: 481
+    src: 210
+  - dst: 688
+    src: 237
+  - dst: 600
+    src: 250
+  - dst: 524
+    src: 262
+  - dst: 581
+    src: 269
+  - dst: 560
+    src: 272
+  - dst: 559
+    src: 291
+  - dst: 663
+    src: 292
+  - dst: 533
+    src: 293
+  - dst: 537
+    src: 305
+  - dst: 111
+    src: 306
+  - dst: 471
+    src: 328
+  - dst: 472
+    src: 335
+  - dst: 1
+    src: 356
+  - dst: 366
+    src: 422
+  - dst: 353
+    src: 423
+  - dst: 339
+    src: 426
+  - dst: 342
+    src: 453
+  - dst: 341
+    src: 454
+  - dst: 298
+    src: 462
+  - dst: 343
+    src: 471
+  - dst: 256
+    src: 519
+  - dst: 233
+    src: 566
+  - dst: 746
+    src: 718
+  - dst: 749
+    src: 739
+  - dst: 684
+    src: 755
+  - dst: 724
+    src: 760
+  - dst: 735
+    src: 761
+  - dst: 733
+    src: 762
+  - dst: 761
+    src: 785
+  - dst: 238
+    src: 236
+  - dst: 276
+    src: 464
+  - dst: 277
+    src: 480
+  - dst: 45
+    src: 626
+  - dst: 166
+    src: 660
+  - dst: 16
+    src: 692
+  - dst: 137
+    src: 213
+  - dst: 328
+    src: 397
+  - dst: 322
+    src: 430
+  - dst: 254
+    src: 496
+  - dst: 243
+    src: 588
+  - dst: 144
+    src: 486
+  - dst: 75
+    src: 558
+  - dst: 169
+    src: 641
+  - dst: 188
+    src: 657
+  - dst: 425
+    src: 113
+  - dst: 698
+    src: 206
+  - dst: 620
+    src: 221
+  - dst: 590
+    src: 242
+  - dst: 88
+    src: 394
+  - dst: 309
+    src: 487
+  - dst: 786
+    src: 587
+  - dst: 149
+    src: 619
+  - dst: 683
+    src: 758
+  - dst: 771
+    src: 767
+  - dst: 742
+    src: 771
+  - dst: 699
+    src: 773
+  - dst: 680
+    src: 778
+  - dst: 764
+    src: 779
+  - dst: 692
+    src: 780
+  - dst: 721
+    src: 787
+  - dst: 251
+    src: 48
+  - dst: 570
+    src: 60
+  - dst: 513
+    src: 91
+  - dst: 419
+    src: 103
+  - dst: 553
+    src: 104
+  - dst: 422
+    src: 105
+  - dst: 414
+    src: 120
+  - dst: 434
+    src: 123
+  - dst: 552
+    src: 125
+  - dst: 433
+    src: 143
+  - dst: 441
+    src: 153
+  - dst: 237
+    src: 234
+  - dst: 484
+    src: 497
+  - dst: 290
+    src: 499
+  - dst: 498
+    src: 526
+  - dst: 716
+    src: 715
+  - dst: 656
+    src: 743
+  - dst: 708
+    src: 748
+  - dst: 681
+    src: 789
+  - dst: 335
+    src: 395
+  - dst: 387
+    src: 406
+  - dst: 258
+    src: 543
+  - dst: 13
+    src: 559
+  - dst: 30
+    src: 649
+  - dst: 42
+    src: 669
+  - dst: 31
+    src: 673
+  - dst: 12
+    src: 679
+  - dst: 623
+    src: 798
+  - dst: 136
+    src: 256
+  - dst: 255
+    src: 494
+  - dst: 135
+    src: 560
+  - dst: 175
+    src: 570
+  - dst: 33
+    src: 602
+  - dst: 168
+    src: 687
+  - dst: 229
+    src: 506
+  - dst: 52
+    src: 536
+  - dst: 629
+    src: 627
+  - dst: 38
+    src: 603
+  - dst: 34
+    src: 618
+  - dst: 603
+    src: 672
+  - dst: 755
+    src: 797
+  dst: '40'
+  src: '34'
+  is_3D: true
+- score_3d: 28.25
+  inliers:
+  - dst: 0
+    src: 0
+  - dst: 1
+    src: 1
+  - dst: 2
+    src: 2
+  - dst: 3
+    src: 5
+  - dst: 4
+    src: 8
+  - dst: 5
+    src: 9
+  - dst: 6
+    src: 10
+  - dst: 7
+    src: 11
+  - dst: 8
+    src: 12
+  - dst: 10
+    src: 16
+  - dst: 11
+    src: 20
+  - dst: 12
+    src: 23
+  - dst: 13
+    src: 24
+  - dst: 14
+    src: 26
+  - dst: 15
+    src: 28
+  - dst: 17
+    src: 32
+  - dst: 18
+    src: 33
+  - dst: 19
+    src: 34
+  - dst: 20
+    src: 35
+  - dst: 21
+    src: 36
+  - dst: 22
+    src: 38
+  - dst: 23
+    src: 43
+  - dst: 24
+    src: 44
+  - dst: 25
+    src: 45
+  - dst: 26
+    src: 46
+  - dst: 27
+    src: 52
+  - dst: 28
+    src: 53
+  - dst: 29
+    src: 55
+  - dst: 30
+    src: 57
+  - dst: 31
+    src: 58
+  - dst: 32
+    src: 59
+  - dst: 33
+    src: 60
+  - dst: 34
+    src: 61
+  - dst: 35
+    src: 62
+  - dst: 36
+    src: 63
+  - dst: 37
+    src: 64
+  - dst: 38
+    src: 67
+  - dst: 39
+    src: 68
+  - dst: 40
+    src: 69
+  - dst: 41
+    src: 70
+  - dst: 42
+    src: 71
+  - dst: 43
+    src: 73
+  - dst: 44
+    src: 74
+  - dst: 45
+    src: 76
+  - dst: 46
+    src: 77
+  - dst: 47
+    src: 78
+  - dst: 48
+    src: 80
+  - dst: 49
+    src: 81
+  - dst: 50
+    src: 84
+  - dst: 51
+    src: 85
+  - dst: 52
+    src: 87
+  - dst: 53
+    src: 88
+  - dst: 54
+    src: 91
+  - dst: 55
+    src: 94
+  - dst: 56
+    src: 95
+  - dst: 57
+    src: 96
+  - dst: 58
+    src: 97
+  - dst: 59
+    src: 99
+  - dst: 60
+    src: 100
+  - dst: 61
+    src: 101
+  - dst: 62
+    src: 102
+  - dst: 63
+    src: 103
+  - dst: 64
+    src: 105
+  - dst: 65
+    src: 106
+  - dst: 66
+    src: 108
+  - dst: 67
+    src: 109
+  - dst: 68
+    src: 111
+  - dst: 69
+    src: 112
+  - dst: 70
+    src: 113
+  - dst: 71
+    src: 114
+  - dst: 72
+    src: 115
+  - dst: 73
+    src: 118
+  - dst: 74
+    src: 119
+  - dst: 75
+    src: 120
+  - dst: 76
+    src: 121
+  - dst: 77
+    src: 122
+  - dst: 78
+    src: 123
+  - dst: 79
+    src: 124
+  - dst: 80
+    src: 125
+  - dst: 81
+    src: 126
+  - dst: 82
+    src: 128
+  - dst: 83
+    src: 130
+  - dst: 84
+    src: 131
+  - dst: 85
+    src: 132
+  - dst: 86
+    src: 133
+  - dst: 87
+    src: 135
+  - dst: 88
+    src: 136
+  - dst: 89
+    src: 137
+  - dst: 90
+    src: 138
+  - dst: 91
+    src: 139
+  - dst: 92
+    src: 140
+  - dst: 93
+    src: 142
+  - dst: 94
+    src: 143
+  - dst: 95
+    src: 144
+  - dst: 96
+    src: 145
+  - dst: 97
+    src: 146
+  - dst: 98
+    src: 147
+  - dst: 99
+    src: 148
+  - dst: 100
+    src: 149
+  - dst: 101
+    src: 150
+  - dst: 102
+    src: 151
+  - dst: 103
+    src: 156
+  - dst: 104
+    src: 157
+  - dst: 105
+    src: 159
+  - dst: 106
+    src: 160
+  - dst: 107
+    src: 161
+  - dst: 108
+    src: 162
+  - dst: 109
+    src: 163
+  - dst: 110
+    src: 165
+  - dst: 111
+    src: 170
+  - dst: 112
+    src: 171
+  - dst: 113
+    src: 172
+  - dst: 114
+    src: 173
+  - dst: 115
+    src: 174
+  - dst: 116
+    src: 175
+  - dst: 117
+    src: 176
+  - dst: 118
+    src: 177
+  - dst: 119
+    src: 178
+  - dst: 120
+    src: 179
+  - dst: 121
+    src: 180
+  - dst: 122
+    src: 181
+  - dst: 123
+    src: 182
+  - dst: 124
+    src: 183
+  - dst: 125
+    src: 184
+  - dst: 126
+    src: 185
+  - dst: 127
+    src: 186
+  - dst: 128
+    src: 187
+  - dst: 129
+    src: 188
+  - dst: 130
+    src: 189
+  - dst: 131
+    src: 190
+  - dst: 132
+    src: 191
+  - dst: 133
+    src: 192
+  - dst: 134
+    src: 193
+  - dst: 135
+    src: 194
+  - dst: 136
+    src: 195
+  - dst: 137
+    src: 197
+  - dst: 138
+    src: 198
+  - dst: 139
+    src: 199
+  - dst: 140
+    src: 200
+  - dst: 141
+    src: 201
+  - dst: 142
+    src: 202
+  - dst: 143
+    src: 203
+  - dst: 144
+    src: 204
+  - dst: 145
+    src: 205
+  - dst: 146
+    src: 206
+  - dst: 147
+    src: 208
+  - dst: 148
+    src: 209
+  - dst: 149
+    src: 211
+  - dst: 150
+    src: 213
+  - dst: 151
+    src: 214
+  - dst: 152
+    src: 216
+  - dst: 153
+    src: 217
+  - dst: 154
+    src: 218
+  - dst: 155
+    src: 219
+  - dst: 156
+    src: 220
+  - dst: 157
+    src: 221
+  - dst: 158
+    src: 222
+  - dst: 159
+    src: 223
+  - dst: 160
+    src: 224
+  - dst: 161
+    src: 225
+  - dst: 162
+    src: 226
+  - dst: 163
+    src: 227
+  - dst: 164
+    src: 228
+  - dst: 165
+    src: 229
+  - dst: 166
+    src: 230
+  - dst: 167
+    src: 231
+  - dst: 168
+    src: 233
+  - dst: 169
+    src: 234
+  - dst: 170
+    src: 235
+  - dst: 171
+    src: 236
+  - dst: 172
+    src: 237
+  - dst: 173
+    src: 238
+  - dst: 174
+    src: 239
+  - dst: 175
+    src: 240
+  - dst: 176
+    src: 243
+  - dst: 177
+    src: 244
+  - dst: 178
+    src: 245
+  - dst: 179
+    src: 246
+  - dst: 180
+    src: 247
+  - dst: 181
+    src: 248
+  - dst: 182
+    src: 249
+  - dst: 183
+    src: 250
+  - dst: 184
+    src: 251
+  - dst: 185
+    src: 252
+  - dst: 186
+    src: 253
+  - dst: 187
+    src: 254
+  - dst: 188
+    src: 256
+  - dst: 189
+    src: 257
+  - dst: 190
+    src: 258
+  - dst: 191
+    src: 259
+  - dst: 192
+    src: 260
+  - dst: 193
+    src: 261
+  - dst: 194
+    src: 262
+  - dst: 195
+    src: 263
+  - dst: 196
+    src: 265
+  - dst: 197
+    src: 267
+  - dst: 198
+    src: 268
+  - dst: 199
+    src: 269
+  - dst: 200
+    src: 270
+  - dst: 201
+    src: 271
+  - dst: 202
+    src: 274
+  - dst: 203
+    src: 275
+  - dst: 204
+    src: 276
+  - dst: 205
+    src: 277
+  - dst: 206
+    src: 278
+  - dst: 207
+    src: 279
+  - dst: 208
+    src: 280
+  - dst: 209
+    src: 281
+  - dst: 211
+    src: 284
+  - dst: 212
+    src: 285
+  - dst: 213
+    src: 286
+  - dst: 214
+    src: 287
+  - dst: 215
+    src: 288
+  - dst: 216
+    src: 289
+  - dst: 217
+    src: 293
+  - dst: 218
+    src: 294
+  - dst: 219
+    src: 295
+  - dst: 220
+    src: 296
+  - dst: 221
+    src: 298
+  - dst: 222
+    src: 299
+  - dst: 223
+    src: 300
+  - dst: 224
+    src: 301
+  - dst: 225
+    src: 302
+  - dst: 226
+    src: 303
+  - dst: 227
+    src: 304
+  - dst: 228
+    src: 305
+  - dst: 229
+    src: 306
+  - dst: 230
+    src: 307
+  - dst: 231
+    src: 308
+  - dst: 232
+    src: 309
+  - dst: 233
+    src: 313
+  - dst: 234
+    src: 314
+  - dst: 235
+    src: 315
+  - dst: 236
+    src: 319
+  - dst: 237
+    src: 321
+  - dst: 238
+    src: 322
+  - dst: 239
+    src: 323
+  - dst: 240
+    src: 324
+  - dst: 241
+    src: 325
+  - dst: 242
+    src: 326
+  - dst: 243
+    src: 327
+  - dst: 244
+    src: 328
+  - dst: 245
+    src: 329
+  - dst: 246
+    src: 330
+  - dst: 247
+    src: 331
+  - dst: 248
+    src: 333
+  - dst: 249
+    src: 334
+  - dst: 250
+    src: 335
+  - dst: 251
+    src: 336
+  - dst: 252
+    src: 338
+  - dst: 253
+    src: 339
+  - dst: 254
+    src: 341
+  - dst: 255
+    src: 342
+  - dst: 256
+    src: 343
+  - dst: 257
+    src: 344
+  - dst: 258
+    src: 345
+  - dst: 259
+    src: 346
+  - dst: 260
+    src: 348
+  - dst: 261
+    src: 349
+  - dst: 262
+    src: 351
+  - dst: 263
+    src: 352
+  - dst: 264
+    src: 353
+  - dst: 265
+    src: 354
+  - dst: 266
+    src: 355
+  - dst: 267
+    src: 356
+  - dst: 268
+    src: 357
+  - dst: 269
+    src: 358
+  - dst: 270
+    src: 359
+  - dst: 271
+    src: 360
+  - dst: 272
+    src: 361
+  - dst: 273
+    src: 362
+  - dst: 274
+    src: 365
+  - dst: 275
+    src: 367
+  - dst: 276
+    src: 369
+  - dst: 277
+    src: 370
+  - dst: 278
+    src: 372
+  - dst: 279
+    src: 373
+  - dst: 280
+    src: 374
+  - dst: 281
+    src: 375
+  - dst: 282
+    src: 376
+  - dst: 283
+    src: 377
+  - dst: 284
+    src: 379
+  - dst: 285
+    src: 380
+  - dst: 286
+    src: 382
+  - dst: 287
+    src: 383
+  - dst: 288
+    src: 384
+  - dst: 289
+    src: 386
+  - dst: 290
+    src: 387
+  - dst: 291
+    src: 388
+  - dst: 292
+    src: 389
+  - dst: 293
+    src: 390
+  - dst: 294
+    src: 391
+  - dst: 296
+    src: 396
+  - dst: 297
+    src: 397
+  - dst: 298
+    src: 398
+  - dst: 299
+    src: 399
+  - dst: 300
+    src: 400
+  - dst: 301
+    src: 401
+  - dst: 302
+    src: 404
+  - dst: 303
+    src: 405
+  - dst: 304
+    src: 406
+  - dst: 305
+    src: 408
+  - dst: 306
+    src: 409
+  - dst: 307
+    src: 411
+  - dst: 308
+    src: 412
+  - dst: 309
+    src: 413
+  - dst: 310
+    src: 414
+  - dst: 311
+    src: 415
+  - dst: 312
+    src: 416
+  - dst: 313
+    src: 417
+  - dst: 314
+    src: 418
+  - dst: 315
+    src: 419
+  - dst: 316
+    src: 420
+  - dst: 317
+    src: 421
+  - dst: 318
+    src: 422
+  - dst: 319
+    src: 423
+  - dst: 320
+    src: 424
+  - dst: 321
+    src: 425
+  - dst: 322
+    src: 426
+  - dst: 323
+    src: 427
+  - dst: 324
+    src: 430
+  - dst: 325
+    src: 431
+  - dst: 326
+    src: 432
+  - dst: 327
+    src: 435
+  - dst: 328
+    src: 436
+  - dst: 329
+    src: 437
+  - dst: 330
+    src: 438
+  - dst: 331
+    src: 439
+  - dst: 332
+    src: 440
+  - dst: 333
+    src: 441
+  - dst: 334
+    src: 442
+  - dst: 335
+    src: 443
+  - dst: 336
+    src: 444
+  - dst: 337
+    src: 445
+  - dst: 338
+    src: 448
+  - dst: 339
+    src: 449
+  - dst: 340
+    src: 451
+  - dst: 341
+    src: 452
+  - dst: 342
+    src: 453
+  - dst: 343
+    src: 454
+  - dst: 344
+    src: 456
+  - dst: 345
+    src: 457
+  - dst: 346
+    src: 458
+  - dst: 347
+    src: 461
+  - dst: 348
+    src: 463
+  - dst: 349
+    src: 464
+  - dst: 350
+    src: 465
+  - dst: 351
+    src: 466
+  - dst: 352
+    src: 468
+  - dst: 353
+    src: 469
+  - dst: 354
+    src: 470
+  - dst: 355
+    src: 471
+  - dst: 356
+    src: 472
+  - dst: 357
+    src: 473
+  - dst: 358
+    src: 475
+  - dst: 359
+    src: 476
+  - dst: 360
+    src: 478
+  - dst: 361
+    src: 479
+  - dst: 362
+    src: 480
+  - dst: 363
+    src: 481
+  - dst: 364
+    src: 482
+  - dst: 365
+    src: 483
+  - dst: 366
+    src: 484
+  - dst: 367
+    src: 485
+  - dst: 368
+    src: 486
+  - dst: 369
+    src: 487
+  - dst: 370
+    src: 488
+  - dst: 371
+    src: 489
+  - dst: 372
+    src: 491
+  - dst: 373
+    src: 492
+  - dst: 374
+    src: 493
+  - dst: 375
+    src: 494
+  - dst: 376
+    src: 495
+  - dst: 377
+    src: 496
+  - dst: 378
+    src: 498
+  - dst: 379
+    src: 499
+  - dst: 380
+    src: 500
+  - dst: 381
+    src: 501
+  - dst: 382
+    src: 502
+  - dst: 383
+    src: 503
+  - dst: 384
+    src: 504
+  - dst: 385
+    src: 505
+  - dst: 386
+    src: 506
+  - dst: 387
+    src: 508
+  - dst: 388
+    src: 509
+  - dst: 389
+    src: 510
+  - dst: 390
+    src: 511
+  - dst: 391
+    src: 512
+  - dst: 392
+    src: 513
+  - dst: 393
+    src: 514
+  - dst: 394
+    src: 515
+  - dst: 395
+    src: 517
+  - dst: 396
+    src: 519
+  - dst: 397
+    src: 521
+  - dst: 398
+    src: 522
+  - dst: 399
+    src: 523
+  - dst: 400
+    src: 524
+  - dst: 401
+    src: 525
+  - dst: 402
+    src: 526
+  - dst: 403
+    src: 528
+  - dst: 404
+    src: 529
+  - dst: 405
+    src: 530
+  - dst: 406
+    src: 531
+  - dst: 407
+    src: 532
+  - dst: 408
+    src: 533
+  - dst: 409
+    src: 534
+  - dst: 410
+    src: 535
+  - dst: 411
+    src: 537
+  - dst: 412
+    src: 538
+  - dst: 413
+    src: 540
+  - dst: 414
+    src: 541
+  - dst: 415
+    src: 543
+  - dst: 416
+    src: 544
+  - dst: 417
+    src: 545
+  - dst: 418
+    src: 546
+  - dst: 419
+    src: 547
+  - dst: 420
+    src: 548
+  - dst: 421
+    src: 549
+  - dst: 422
+    src: 550
+  - dst: 423
+    src: 551
+  - dst: 424
+    src: 553
+  - dst: 425
+    src: 557
+  - dst: 426
+    src: 559
+  - dst: 427
+    src: 560
+  - dst: 428
+    src: 561
+  - dst: 429
+    src: 562
+  - dst: 430
+    src: 563
+  - dst: 431
+    src: 566
+  - dst: 432
+    src: 567
+  - dst: 433
+    src: 568
+  - dst: 434
+    src: 569
+  - dst: 435
+    src: 570
+  - dst: 436
+    src: 573
+  - dst: 437
+    src: 574
+  - dst: 438
+    src: 575
+  - dst: 439
+    src: 576
+  - dst: 440
+    src: 577
+  - dst: 441
+    src: 578
+  - dst: 442
+    src: 583
+  - dst: 443
+    src: 584
+  - dst: 444
+    src: 586
+  - dst: 445
+    src: 587
+  - dst: 446
+    src: 588
+  - dst: 447
+    src: 589
+  - dst: 448
+    src: 590
+  - dst: 449
+    src: 593
+  - dst: 450
+    src: 594
+  - dst: 451
+    src: 595
+  - dst: 452
+    src: 596
+  - dst: 453
+    src: 597
+  - dst: 454
+    src: 598
+  - dst: 455
+    src: 599
+  - dst: 456
+    src: 600
+  - dst: 457
+    src: 602
+  - dst: 458
+    src: 603
+  - dst: 459
+    src: 604
+  - dst: 460
+    src: 606
+  - dst: 461
+    src: 607
+  - dst: 462
+    src: 609
+  - dst: 463
+    src: 611
+  - dst: 464
+    src: 612
+  - dst: 465
+    src: 613
+  - dst: 466
+    src: 616
+  - dst: 467
+    src: 618
+  - dst: 469
+    src: 621
+  - dst: 470
+    src: 624
+  - dst: 471
+    src: 626
+  - dst: 472
+    src: 627
+  - dst: 473
+    src: 629
+  - dst: 474
+    src: 630
+  - dst: 475
+    src: 632
+  - dst: 476
+    src: 633
+  - dst: 477
+    src: 636
+  - dst: 478
+    src: 638
+  - dst: 479
+    src: 641
+  - dst: 480
+    src: 644
+  - dst: 481
+    src: 645
+  - dst: 482
+    src: 646
+  - dst: 483
+    src: 647
+  - dst: 484
+    src: 649
+  - dst: 485
+    src: 652
+  - dst: 486
+    src: 654
+  - dst: 487
+    src: 656
+  - dst: 488
+    src: 658
+  - dst: 489
+    src: 659
+  - dst: 490
+    src: 660
+  - dst: 491
+    src: 661
+  - dst: 492
+    src: 662
+  - dst: 493
+    src: 663
+  - dst: 494
+    src: 664
+  - dst: 496
+    src: 667
+  - dst: 497
+    src: 668
+  - dst: 498
+    src: 671
+  - dst: 499
+    src: 672
+  - dst: 500
+    src: 673
+  - dst: 501
+    src: 674
+  - dst: 502
+    src: 675
+  - dst: 503
+    src: 676
+  - dst: 504
+    src: 678
+  - dst: 505
+    src: 680
+  - dst: 506
+    src: 681
+  - dst: 507
+    src: 682
+  - dst: 508
+    src: 683
+  - dst: 509
+    src: 685
+  - dst: 510
+    src: 686
+  - dst: 512
+    src: 689
+  - dst: 513
+    src: 690
+  - dst: 514
+    src: 693
+  - dst: 515
+    src: 695
+  - dst: 516
+    src: 699
+  - dst: 517
+    src: 700
+  - dst: 518
+    src: 702
+  - dst: 519
+    src: 703
+  - dst: 520
+    src: 704
+  - dst: 521
+    src: 705
+  - dst: 522
+    src: 706
+  - dst: 524
+    src: 709
+  - dst: 525
+    src: 710
+  - dst: 526
+    src: 711
+  - dst: 527
+    src: 712
+  - dst: 528
+    src: 713
+  - dst: 529
+    src: 714
+  - dst: 530
+    src: 715
+  - dst: 531
+    src: 716
+  - dst: 532
+    src: 717
+  - dst: 533
+    src: 718
+  - dst: 534
+    src: 722
+  - dst: 535
+    src: 727
+  - dst: 536
+    src: 729
+  - dst: 537
+    src: 730
+  - dst: 538
+    src: 731
+  - dst: 539
+    src: 735
+  - dst: 540
+    src: 737
+  - dst: 541
+    src: 738
+  - dst: 542
+    src: 739
+  - dst: 543
+    src: 742
+  - dst: 544
+    src: 744
+  - dst: 545
+    src: 745
+  - dst: 546
+    src: 746
+  - dst: 547
+    src: 748
+  - dst: 548
+    src: 749
+  - dst: 549
+    src: 751
+  - dst: 550
+    src: 752
+  - dst: 551
+    src: 753
+  - dst: 552
+    src: 761
+  - dst: 553
+    src: 762
+  - dst: 554
+    src: 763
+  - dst: 555
+    src: 765
+  - dst: 556
+    src: 766
+  - dst: 557
+    src: 767
+  - dst: 558
+    src: 768
+  - dst: 559
+    src: 769
+  - dst: 560
+    src: 772
+  - dst: 561
+    src: 774
+  - dst: 562
+    src: 775
+  - dst: 563
+    src: 777
+  - dst: 564
+    src: 780
+  - dst: 565
+    src: 782
+  - dst: 567
+    src: 784
+  - dst: 568
+    src: 785
+  - dst: 569
+    src: 787
+  - dst: 570
+    src: 789
+  - dst: 574
+    src: 796
+  - dst: 575
+    src: 797
+  - dst: 576
+    src: 799
+  dst: '37'
+  src: '36'
+  is_3D: true
+- score_3d: 6.85
+  inliers:
+  - dst: 439
+    src: 0
+  - dst: 153
+    src: 69
+  - dst: 220
+    src: 107
+  - dst: 373
+    src: 283
+  - dst: 480
+    src: 363
+  - dst: 655
+    src: 17
+  - dst: 294
+    src: 195
+  - dst: 386
+    src: 289
+  - dst: 508
+    src: 392
+  - dst: 433
+    src: 445
+  - dst: 4
+    src: 463
+  - dst: 26
+    src: 22
+  - dst: 177
+    src: 76
+  - dst: 375
+    src: 275
+  - dst: 126
+    src: 31
+  - dst: 233
+    src: 133
+  - dst: 308
+    src: 208
+  - dst: 237
+    src: 279
+  - dst: 521
+    src: 406
+  - dst: 528
+    src: 415
+  - dst: 146
+    src: 609
+  - dst: 257
+    src: 703
+  - dst: 93
+    src: 782
+  - dst: 90
+    src: 12
+  - dst: 621
+    src: 15
+  - dst: 132
+    src: 43
+  - dst: 205
+    src: 108
+  - dst: 349
+    src: 246
+  - dst: 387
+    src: 291
+  - dst: 416
+    src: 322
+  - dst: 453
+    src: 699
+  - dst: 623
+    src: 154
+  - dst: 563
+    src: 170
+  - dst: 358
+    src: 270
+  - dst: 425
+    src: 314
+  - dst: 421
+    src: 325
+  - dst: 479
+    src: 362
+  - dst: 502
+    src: 372
+  - dst: 488
+    src: 374
+  - dst: 503
+    src: 387
+  - dst: 16
+    src: 414
+  - dst: 599
+    src: 504
+  - dst: 593
+    src: 508
+  - dst: 657
+    src: 510
+  - dst: 197
+    src: 530
+  - dst: 624
+    src: 535
+  - dst: 643
+    src: 548
+  - dst: 757
+    src: 551
+  - dst: 671
+    src: 562
+  - dst: 369
+    src: 635
+  - dst: 552
+    src: 647
+  - dst: 452
+    src: 704
+  - dst: 332
+    src: 725
+  - dst: 400
+    src: 734
+  - dst: 383
+    src: 756
+  - dst: 565
+    src: 772
+  - dst: 625
+    src: 780
+  - dst: 636
+    src: 785
+  - dst: 247
+    src: 301
+  - dst: 461
+    src: 356
+  - dst: 295
+    src: 379
+  - dst: 682
+    src: 476
+  - dst: 456
+    src: 638
+  - dst: 87
+    src: 11
+  - dst: 100
+    src: 24
+  - dst: 560
+    src: 138
+  - dst: 570
+    src: 193
+  - dst: 334
+    src: 240
+  - dst: 393
+    src: 298
+  - dst: 520
+    src: 427
+  - dst: 417
+    src: 452
+  - dst: 415
+    src: 455
+  - dst: 95
+    src: 587
+  - dst: 407
+    src: 720
+  - dst: 229
+    src: 791
+  - dst: 201
+    src: 103
+  - dst: 221
+    src: 114
+  - dst: 230
+    src: 130
+  - dst: 213
+    src: 229
+  - dst: 408
+    src: 306
+  - dst: 427
+    src: 330
+  - dst: 455
+    src: 352
+  - dst: 765
+    src: 538
+  - dst: 185
+    src: 129
+  - dst: 243
+    src: 143
+  - dst: 410
+    src: 318
+  - dst: 441
+    src: 332
+  - dst: 489
+    src: 375
+  - dst: 506
+    src: 400
+  - dst: 538
+    src: 429
+  - dst: 331
+    src: 447
+  - dst: 694
+    src: 487
+  - dst: 631
+    src: 506
+  - dst: 112
+    src: 23
+  - dst: 0
+    src: 109
+  - dst: 231
+    src: 131
+  - dst: 260
+    src: 157
+  - dst: 281
+    src: 179
+  - dst: 402
+    src: 290
+  - dst: 289
+    src: 353
+  - dst: 390
+    src: 294
+  - dst: 3
+    src: 299
+  - dst: 460
+    src: 345
+  - dst: 343
+    src: 448
+  - dst: 703
+    src: 470
+  - dst: 775
+    src: 568
+  - dst: 228
+    src: 581
+  - dst: 174
+    src: 618
+  - dst: 149
+    src: 52
+  - dst: 176
+    src: 75
+  - dst: 219
+    src: 113
+  - dst: 314
+    src: 216
+  - dst: 481
+    src: 364
+  - dst: 512
+    src: 428
+  - dst: 522
+    src: 478
+  - dst: 687
+    src: 556
+  - dst: 630
+    src: 141
+  - dst: 423
+    src: 312
+  - dst: 406
+    src: 317
+  - dst: 507
+    src: 391
+  - dst: 366
+    src: 440
+  - dst: 320
+    src: 220
+  - dst: 438
+    src: 340
+  - dst: 646
+    src: 550
+  - dst: 437
+    src: 327
+  - dst: 477
+    src: 360
+  - dst: 353
+    src: 437
+  - dst: 749
+    src: 492
+  - dst: 124
+    src: 633
+  - dst: 240
+    src: 255
+  - dst: 429
+    src: 320
+  - dst: 544
+    src: 486
+  - dst: 357
+    src: 269
+  - dst: 424
+    src: 313
+  - dst: 763
+    src: 481
+  - dst: 772
+    src: 533
+  - dst: 753
+    src: 572
+  dst: '44'
+  src: '37'
+  is_3D: true
+- score_3d: 3.322913907284768
+  inliers:
+  - dst: 1
+    src: 17
+  - dst: 270
+    src: 36
+  - dst: 771
+    src: 72
+  - dst: 755
+    src: 88
+  - dst: 312
+    src: 104
+  - dst: 14
+    src: 106
+  - dst: 321
+    src: 121
+  - dst: 27
+    src: 166
+  - dst: 356
+    src: 178
+  - dst: 97
+    src: 284
+  - dst: 485
+    src: 426
+  - dst: 426
+    src: 442
+  - dst: 381
+    src: 443
+  - dst: 399
+    src: 462
+  - dst: 371
+    src: 466
+  - dst: 401
+    src: 468
+  - dst: 181
+    src: 633
+  - dst: 185
+    src: 647
+  - dst: 199
+    src: 691
+  - dst: 383
+    src: 1
+  - dst: 738
+    src: 44
+  - dst: 728
+    src: 45
+  - dst: 265
+    src: 67
+  - dst: 277
+    src: 85
+  - dst: 283
+    src: 100
+  - dst: 780
+    src: 108
+  - dst: 306
+    src: 137
+  - dst: 678
+    src: 184
+  - dst: 335
+    src: 186
+  - dst: 37
+    src: 193
+  - dst: 42
+    src: 208
+  - dst: 43
+    src: 209
+  - dst: 49
+    src: 223
+  - dst: 423
+    src: 234
+  - dst: 56
+    src: 242
+  - dst: 60
+    src: 256
+  - dst: 61
+    src: 257
+  - dst: 65
+    src: 276
+  - dst: 81
+    src: 308
+  - dst: 84
+    src: 313
+  - dst: 94
+    src: 328
+  - dst: 486
+    src: 337
+  - dst: 462
+    src: 342
+  - dst: 99
+    src: 347
+  - dst: 105
+    src: 359
+  - dst: 109
+    src: 363
+  - dst: 458
+    src: 366
+  - dst: 112
+    src: 381
+  - dst: 114
+    src: 383
+  - dst: 119
+    src: 395
+  - dst: 120
+    src: 399
+  - dst: 126
+    src: 422
+  - dst: 366
+    src: 437
+  - dst: 133
+    src: 450
+  - dst: 134
+    src: 451
+  - dst: 136
+    src: 456
+  - dst: 378
+    src: 459
+  - dst: 393
+    src: 461
+  - dst: 392
+    src: 476
+  - dst: 140
+    src: 477
+  - dst: 141
+    src: 478
+  - dst: 552
+    src: 499
+  - dst: 145
+    src: 505
+  - dst: 147
+    src: 508
+  - dst: 565
+    src: 516
+  - dst: 586
+    src: 551
+  - dst: 162
+    src: 579
+  - dst: 515
+    src: 582
+  - dst: 673
+    src: 583
+  - dst: 163
+    src: 584
+  - dst: 167
+    src: 594
+  - dst: 605
+    src: 615
+  - dst: 746
+    src: 653
+  - dst: 772
+    src: 666
+  - dst: 753
+    src: 704
+  - dst: 797
+    src: 778
+  - dst: 305
+    src: 123
+  - dst: 323
+    src: 147
+  - dst: 326
+    src: 170
+  - dst: 355
+    src: 176
+  - dst: 36
+    src: 190
+  - dst: 41
+    src: 207
+  - dst: 47
+    src: 221
+  - dst: 536
+    src: 225
+  - dst: 520
+    src: 251
+  - dst: 427
+    src: 282
+  - dst: 71
+    src: 291
+  - dst: 95
+    src: 329
+  - dst: 102
+    src: 350
+  - dst: 103
+    src: 351
+  - dst: 122
+    src: 401
+  - dst: 124
+    src: 407
+  - dst: 413
+    src: 417
+  - dst: 143
+    src: 493
+  - dst: 528
+    src: 529
+  - dst: 150
+    src: 530
+  - dst: 169
+    src: 596
+  - dst: 174
+    src: 609
+  - dst: 179
+    src: 624
+  - dst: 660
+    src: 642
+  - dst: 182
+    src: 644
+  - dst: 187
+    src: 650
+  - dst: 670
+    src: 652
+  - dst: 189
+    src: 660
+  - dst: 190
+    src: 661
+  - dst: 191
+    src: 662
+  - dst: 192
+    src: 664
+  - dst: 671
+    src: 690
+  - dst: 675
+    src: 692
+  - dst: 712
+    src: 712
+  - dst: 703
+    src: 713
+  - dst: 785
+    src: 726
+  - dst: 587
+    src: 735
+  - dst: 206
+    src: 745
+  - dst: 211
+    src: 753
+  - dst: 661
+    src: 775
+  - dst: 219
+    src: 779
+  - dst: 255
+    src: 13
+  - dst: 5
+    src: 46
+  - dst: 272
+    src: 54
+  - dst: 17
+    src: 122
+  - dst: 711
+    src: 127
+  - dst: 21
+    src: 135
+  - dst: 345
+    src: 152
+  - dst: 332
+    src: 169
+  - dst: 556
+    src: 188
+  - dst: 361
+    src: 197
+  - dst: 457
+    src: 338
+  - dst: 110
+    src: 365
+  - dst: 117
+    src: 386
+  - dst: 452
+    src: 406
+  - dst: 640
+    src: 413
+  - dst: 400
+    src: 452
+  - dst: 405
+    src: 457
+  - dst: 137
+    src: 465
+  - dst: 518
+    src: 598
+  - dst: 256
+    src: 24
+  - dst: 269
+    src: 28
+  - dst: 329
+    src: 132
+  - dst: 79
+    src: 303
+  - dst: 590
+    src: 373
+  - dst: 386
+    src: 470
+  - dst: 653
+    src: 567
+  - dst: 177
+    src: 616
+  - dst: 773
+    src: 658
+  - dst: 262
+    src: 29
+  - dst: 4
+    src: 40
+  - dst: 287
+    src: 73
+  - dst: 309
+    src: 83
+  - dst: 336
+    src: 187
+  - dst: 396
+    src: 201
+  - dst: 451
+    src: 290
+  - dst: 369
+    src: 295
+  - dst: 450
+    src: 307
+  - dst: 82
+    src: 309
+  - dst: 470
+    src: 352
+  - dst: 430
+    src: 439
+  - dst: 135
+    src: 453
+  - dst: 385
+    src: 467
+  - dst: 375
+    src: 482
+  - dst: 146
+    src: 506
+  - dst: 642
+    src: 549
+  - dst: 713
+    src: 573
+  - dst: 759
+    src: 668
+  - dst: 193
+    src: 677
+  - dst: 766
+    src: 703
+  - dst: 0
+    src: 9
+  - dst: 594
+    src: 14
+  - dst: 298
+    src: 116
+  - dst: 19
+    src: 128
+  - dst: 322
+    src: 145
+  - dst: 334
+    src: 157
+  - dst: 325
+    src: 161
+  - dst: 346
+    src: 181
+  - dst: 583
+    src: 196
+  - dst: 676
+    src: 204
+  - dst: 409
+    src: 213
+  - dst: 46
+    src: 220
+  - dst: 420
+    src: 232
+  - dst: 415
+    src: 259
+  - dst: 654
+    src: 317
+  - dst: 100
+    src: 348
+  - dst: 480
+    src: 357
+  - dst: 106
+    src: 360
+  - dst: 121
+    src: 400
+  - dst: 410
+    src: 421
+  - dst: 597
+    src: 519
+  - dst: 148
+    src: 523
+  - dst: 197
+    src: 682
+  - dst: 741
+    src: 687
+  - dst: 710
+    src: 693
+  - dst: 793
+    src: 715
+  - dst: 204
+    src: 737
+  - dst: 207
+    src: 747
+  - dst: 254
+    src: 32
+  - dst: 3
+    src: 39
+  - dst: 588
+    src: 41
+  - dst: 12
+    src: 76
+  - dst: 719
+    src: 120
+  - dst: 347
+    src: 238
+  - dst: 453
+    src: 388
+  - dst: 429
+    src: 440
+  - dst: 159
+    src: 572
+  - dst: 180
+    src: 625
+  - dst: 593
+    src: 628
+  - dst: 566
+    src: 629
+  - dst: 739
+    src: 63
+  - dst: 8
+    src: 64
+  - dst: 275
+    src: 80
+  - dst: 278
+    src: 86
+  - dst: 315
+    src: 113
+  - dst: 333
+    src: 131
+  - dst: 39
+    src: 203
+  - dst: 337
+    src: 211
+  - dst: 63
+    src: 274
+  - dst: 72
+    src: 294
+  - dst: 92
+    src: 322
+  - dst: 367
+    src: 354
+  - dst: 104
+    src: 356
+  - dst: 394
+    src: 449
+  - dst: 374
+    src: 480
+  - dst: 553
+    src: 517
+  - dst: 523
+    src: 588
+  - dst: 31
+    src: 174
+  - dst: 34
+    src: 183
+  - dst: 665
+    src: 205
+  - dst: 40
+    src: 206
+  - dst: 55
+    src: 241
+  - dst: 88
+    src: 318
+  - dst: 459
+    src: 345
+  - dst: 619
+    src: 353
+  - dst: 648
+    src: 369
+  - dst: 417
+    src: 416
+  - dst: 525
+    src: 419
+  - dst: 139
+    src: 474
+  - dst: 380
+    src: 489
+  - dst: 561
+    src: 497
+  - dst: 157
+    src: 568
+  - dst: 721
+    src: 626
+  - dst: 615
+    src: 636
+  - dst: 184
+    src: 646
+  - dst: 200
+    src: 710
+  - dst: 608
+    src: 739
+  - dst: 792
+    src: 773
+  - dst: 263
+    src: 30
+  - dst: 264
+    src: 31
+  - dst: 557
+    src: 42
+  - dst: 286
+    src: 62
+  - dst: 296
+    src: 71
+  - dst: 303
+    src: 91
+  - dst: 765
+    src: 115
+  - dst: 354
+    src: 173
+  - dst: 690
+    src: 185
+  - dst: 554
+    src: 202
+  - dst: 701
+    src: 214
+  - dst: 90
+    src: 320
+  - dst: 138
+    src: 471
+  - dst: 176
+    src: 612
+  - dst: 720
+    src: 623
+  - dst: 715
+    src: 722
+  - dst: 213
+    src: 760
+  - dst: 757
+    src: 764
+  - dst: 281
+    src: 74
+  - dst: 11
+    src: 75
+  - dst: 301
+    src: 84
+  - dst: 770
+    src: 90
+  - dst: 15
+    src: 107
+  - dst: 314
+    src: 112
+  - dst: 32
+    src: 175
+  - dst: 58
+    src: 254
+  - dst: 688
+    src: 258
+  - dst: 443
+    src: 271
+  - dst: 101
+    src: 349
+  - dst: 433
+    src: 420
+  - dst: 365
+    src: 427
+  - dst: 726
+    src: 599
+  - dst: 767
+    src: 637
+  - dst: 585
+    src: 705
+  - dst: 239
+    src: 26
+  - dst: 338
+    src: 153
+  - dst: 76
+    src: 299
+  - dst: 363
+    src: 355
+  - dst: 412
+    src: 394
+  - dst: 591
+    src: 526
+  - dst: 682
+    src: 669
+  - dst: 784
+    src: 770
+  - dst: 2
+    src: 33
+  - dst: 292
+    src: 60
+  - dst: 285
+    src: 61
+  - dst: 288
+    src: 79
+  - dst: 340
+    src: 129
+  - dst: 26
+    src: 158
+  - dst: 30
+    src: 171
+  - dst: 350
+    src: 180
+  - dst: 584
+    src: 195
+  - dst: 48
+    src: 222
+  - dst: 50
+    src: 224
+  - dst: 421
+    src: 250
+  - dst: 424
+    src: 252
+  - dst: 62
+    src: 273
+  - dst: 64
+    src: 275
+  - dst: 73
+    src: 296
+  - dst: 78
+    src: 301
+  - dst: 89
+    src: 319
+  - dst: 360
+    src: 368
+  - dst: 115
+    src: 384
+  - dst: 131
+    src: 435
+  - dst: 372
+    src: 479
+  - dst: 222
+    src: 486
+  - dst: 142
+    src: 487
+  - dst: 645
+    src: 591
+  - dst: 524
+    src: 592
+  - dst: 173
+    src: 608
+  - dst: 677
+    src: 614
+  - dst: 667
+    src: 617
+  - dst: 692
+    src: 659
+  - dst: 743
+    src: 706
+  - dst: 620
+    src: 716
+  - dst: 203
+    src: 731
+  - dst: 273
+    src: 35
+  - dst: 302
+    src: 89
+  - dst: 20
+    src: 130
+  - dst: 29
+    src: 168
+  - dst: 51
+    src: 235
+  - dst: 52
+    src: 237
+  - dst: 414
+    src: 244
+  - dst: 77
+    src: 300
+  - dst: 83
+    src: 310
+  - dst: 96
+    src: 330
+  - dst: 604
+    src: 372
+  - dst: 447
+    src: 380
+  - dst: 130
+    src: 432
+  - dst: 389
+    src: 485
+  - dst: 144
+    src: 494
+  - dst: 580
+    src: 531
+  - dst: 609
+    src: 546
+  - dst: 656
+    src: 569
+  - dst: 161
+    src: 577
+  - dst: 610
+    src: 578
+  - dst: 680
+    src: 634
+  - dst: 681
+    src: 635
+  - dst: 717
+    src: 675
+  - dst: 194
+    src: 678
+  - dst: 195
+    src: 679
+  - dst: 196
+    src: 681
+  - dst: 696
+    src: 696
+  - dst: 731
+    src: 708
+  - dst: 714
+    src: 144
+  - dst: 33
+    src: 182
+  - dst: 45
+    src: 219
+  - dst: 425
+    src: 253
+  - dst: 75
+    src: 298
+  - dst: 86
+    src: 315
+  - dst: 87
+    src: 316
+  - dst: 481
+    src: 358
+  - dst: 111
+    src: 367
+  - dst: 499
+    src: 376
+  - dst: 154
+    src: 553
+  - dst: 178
+    src: 622
+  - dst: 624
+    src: 632
+  - dst: 655
+    src: 670
+  - dst: 201
+    src: 717
+  - dst: 202
+    src: 723
+  - dst: 208
+    src: 749
+  - dst: 628
+    src: 756
+  - dst: 694
+    src: 768
+  - dst: 631
+    src: 772
+  - dst: 791
+    src: 783
+  - dst: 514
+    src: 787
+  - dst: 9
+    src: 66
+  - dst: 267
+    src: 69
+  - dst: 316
+    src: 149
+  - dst: 24
+    src: 150
+  - dst: 349
+    src: 151
+  - dst: 342
+    src: 210
+  - dst: 53
+    src: 239
+  - dst: 370
+    src: 302
+  - dst: 91
+    src: 321
+  - dst: 463
+    src: 340
+  - dst: 472
+    src: 344
+  - dst: 132
+    src: 436
+  - dst: 613
+    src: 504
+  - dst: 467
+    src: 562
+  - dst: 158
+    src: 570
+  - dst: 564
+    src: 619
+  - dst: 669
+    src: 641
+  - dst: 468
+    src: 663
+  - dst: 6
+    src: 47
+  - dst: 733
+    src: 102
+  - dst: 353
+    src: 163
+  - dst: 59
+    src: 255
+  - dst: 551
+    src: 481
+  - dst: 598
+    src: 520
+  - dst: 152
+    src: 548
+  - dst: 668
+    src: 627
+  - dst: 706
+    src: 630
+  - dst: 707
+    src: 648
+  - dst: 633
+    src: 714
+  - dst: 794
+    src: 725
+  - dst: 601
+    src: 740
+  - dst: 205
+    src: 744
+  - dst: 581
+    src: 748
+  - dst: 796
+    src: 751
+  - dst: 268
+    src: 77
+  - dst: 768
+    src: 92
+  - dst: 641
+    src: 155
+  - dst: 28
+    src: 167
+  - dst: 357
+    src: 199
+  - dst: 66
+    src: 277
+  - dst: 67
+    src: 278
+  - dst: 70
+    src: 281
+  - dst: 449
+    src: 289
+  - dst: 508
+    src: 304
+  - dst: 80
+    src: 305
+  - dst: 454
+    src: 312
+  - dst: 438
+    src: 378
+  - dst: 448
+    src: 379
+  - dst: 435
+    src: 393
+  - dst: 534
+    src: 433
+  - dst: 539
+    src: 518
+  - dst: 149
+    src: 524
+  - dst: 482
+    src: 539
+  - dst: 151
+    src: 547
+  - dst: 517
+    src: 565
+  - dst: 168
+    src: 595
+  - dst: 170
+    src: 600
+  - dst: 547
+    src: 601
+  - dst: 549
+    src: 602
+  - dst: 186
+    src: 649
+  - dst: 188
+    src: 656
+  - dst: 198
+    src: 688
+  - dst: 786
+    src: 759
+  - dst: 616
+    src: 761
+  - dst: 214
+    src: 762
+  - dst: 545
+    src: 766
+  - dst: 216
+    src: 767
+  - dst: 716
+    src: 133
+  - dst: 54
+    src: 240
+  - dst: 416
+    src: 392
+  - dst: 128
+    src: 424
+  - dst: 537
+    src: 464
+  - dst: 387
+    src: 484
+  - dst: 562
+    src: 498
+  - dst: 156
+    src: 564
+  - dst: 164
+    src: 585
+  - dst: 165
+    src: 586
+  - dst: 751
+    src: 655
+  - dst: 217
+    src: 771
+  dst: '39'
+  src: '38'
+  is_3D: true
+- score_3d: 15.35
+  inliers:
+  - dst: 232
+    src: 39
+  - dst: 53
+    src: 101
+  - dst: 341
+    src: 195
+  - dst: 623
+    src: 216
+  - dst: 558
+    src: 269
+  - dst: 504
+    src: 286
+  - dst: 404
+    src: 358
+  - dst: 365
+    src: 361
+  - dst: 439
+    src: 416
+  - dst: 131
+    src: 436
+  - dst: 64
+    src: 509
+  - dst: 101
+    src: 562
+  - dst: 248
+    src: 577
+  - dst: 438
+    src: 579
+  - dst: 132
+    src: 591
+  - dst: 379
+    src: 1
+  - dst: 209
+    src: 40
+  - dst: 588
+    src: 49
+  - dst: 469
+    src: 63
+  - dst: 351
+    src: 69
+  - dst: 500
+    src: 85
+  - dst: 90
+    src: 111
+  - dst: 153
+    src: 171
+  - dst: 185
+    src: 189
+  - dst: 598
+    src: 233
+  - dst: 544
+    src: 256
+  - dst: 595
+    src: 261
+  - dst: 556
+    src: 282
+  - dst: 475
+    src: 285
+  - dst: 505
+    src: 298
+  - dst: 108
+    src: 323
+  - dst: 434
+    src: 326
+  - dst: 455
+    src: 339
+  - dst: 482
+    src: 341
+  - dst: 481
+    src: 342
+  - dst: 498
+    src: 343
+  - dst: 497
+    src: 344
+  - dst: 443
+    src: 352
+  - dst: 454
+    src: 353
+  - dst: 453
+    src: 354
+  - dst: 427
+    src: 364
+  - dst: 442
+    src: 366
+  - dst: 398
+    src: 401
+  - dst: 373
+    src: 407
+  - dst: 386
+    src: 439
+  - dst: 183
+    src: 464
+  - dst: 170
+    src: 466
+  - dst: 452
+    src: 469
+  - dst: 343
+    src: 472
+  - dst: 213
+    src: 481
+  - dst: 288
+    src: 499
+  - dst: 71
+    src: 505
+  - dst: 196
+    src: 507
+  - dst: 691
+    src: 518
+  - dst: 262
+    src: 523
+  - dst: 261
+    src: 524
+  - dst: 96
+    src: 525
+  - dst: 98
+    src: 528
+  - dst: 80
+    src: 529
+  - dst: 293
+    src: 533
+  - dst: 641
+    src: 538
+  - dst: 660
+    src: 540
+  - dst: 274
+    src: 559
+  - dst: 273
+    src: 560
+  - dst: 284
+    src: 568
+  - dst: 267
+    src: 581
+  - dst: 237
+    src: 600
+  - dst: 239
+    src: 619
+  - dst: 181
+    src: 621
+  - dst: 182
+    src: 638
+  - dst: 184
+    src: 642
+  - dst: 177
+    src: 649
+  - dst: 178
+    src: 650
+  - dst: 745
+    src: 651
+  - dst: 208
+    src: 652
+  - dst: 683
+    src: 663
+  - dst: 743
+    src: 673
+  - dst: 686
+    src: 674
+  - dst: 714
+    src: 685
+  - dst: 719
+    src: 688
+  - dst: 728
+    src: 735
+  - dst: 718
+    src: 739
+  - dst: 787
+    src: 744
+  - dst: 771
+    src: 746
+  - dst: 744
+    src: 761
+  - dst: 793
+    src: 785
+  - dst: 189
+    src: 26
+  - dst: 402
+    src: 67
+  - dst: 66
+    src: 602
+  - dst: 161
+    src: 17
+  - dst: 468
+    src: 64
+  - dst: 23
+    src: 115
+  - dst: 147
+    src: 139
+  - dst: 205
+    src: 154
+  - dst: 620
+    src: 242
+  - dst: 335
+    src: 640
+  - dst: 799
+    src: 784
+  - dst: 85
+    src: 72
+  - dst: 159
+    src: 167
+  - dst: 41
+    src: 5
+  - dst: 492
+    src: 82
+  - dst: 50
+    src: 130
+  - dst: 632
+    src: 243
+  - dst: 522
+    src: 254
+  - dst: 460
+    src: 322
+  - dst: 431
+    src: 328
+  - dst: 194
+    src: 12
+  - dst: 200
+    src: 19
+  - dst: 243
+    src: 30
+  - dst: 224
+    src: 31
+  - dst: 629
+    src: 36
+  - dst: 233
+    src: 42
+  - dst: 334
+    src: 44
+  - dst: 417
+    src: 87
+  - dst: 618
+    src: 147
+  - dst: 300
+    src: 218
+  - dst: 415
+    src: 335
+  - dst: 6
+    src: 381
+  - dst: 423
+    src: 387
+  - dst: 135
+    src: 27
+  - dst: 265
+    src: 47
+  - dst: 308
+    src: 48
+  - dst: 444
+    src: 90
+  - dst: 242
+    src: 131
+  - dst: 166
+    src: 170
+  - dst: 624
+    src: 215
+  - dst: 508
+    src: 264
+  - dst: 615
+    src: 463
+  - dst: 83
+    src: 530
+  - dst: 362
+    src: 628
+  - dst: 363
+    src: 631
+  - dst: 199
+    src: 15
+  - dst: 414
+    src: 88
+  - dst: 321
+    src: 141
+  - dst: 316
+    src: 149
+  - dst: 462
+    src: 304
+  - dst: 370
+    src: 398
+  - dst: 372
+    src: 420
+  - dst: 371
+    src: 421
+  - dst: 119
+    src: 425
+  - dst: 283
+    src: 449
+  - dst: 348
+    src: 575
+  - dst: 421
+    src: 580
+  - dst: 715
+    src: 590
+  - dst: 220
+    src: 620
+  - dst: 625
+    src: 646
+  - dst: 725
+    src: 683
+  - dst: 742
+    src: 692
+  - dst: 211
+    src: 698
+  - dst: 695
+    src: 707
+  - dst: 741
+    src: 742
+  - dst: 796
+    src: 751
+  - dst: 756
+    src: 764
+  - dst: 759
+    src: 771
+  - dst: 180
+    src: 16
+  - dst: 162
+    src: 22
+  - dst: 244
+    src: 35
+  - dst: 306
+    src: 45
+  - dst: 257
+    src: 74
+  - dst: 20
+    src: 150
+  - dst: 245
+    src: 166
+  - dst: 235
+    src: 238
+  - dst: 579
+    src: 249
+  - dst: 578
+    src: 259
+  - dst: 493
+    src: 276
+  - dst: 506
+    src: 277
+  - dst: 256
+    src: 24
+  - dst: 327
+    src: 33
+  - dst: 136
+    src: 135
+  - dst: 94
+    src: 136
+  - dst: 223
+    src: 143
+  - dst: 206
+    src: 168
+  - dst: 616
+    src: 175
+  - dst: 755
+    src: 726
+  - dst: 471
+    src: 58
+  - dst: 499
+    src: 59
+  - dst: 635
+    src: 78
+  - dst: 473
+    src: 84
+  - dst: 51
+    src: 91
+  - dst: 103
+    src: 112
+  - dst: 302
+    src: 152
+  - dst: 251
+    src: 180
+  - dst: 604
+    src: 193
+  - dst: 197
+    src: 205
+  - dst: 600
+    src: 232
+  - dst: 559
+    src: 257
+  - dst: 577
+    src: 271
+  - dst: 520
+    src: 279
+  - dst: 424
+    src: 386
+  - dst: 391
+    src: 396
+  - dst: 400
+    src: 399
+  - dst: 110
+    src: 417
+  - dst: 145
+    src: 445
+  - dst: 366
+    src: 451
+  - dst: 198
+    src: 506
+  - dst: 91
+    src: 514
+  - dst: 104
+    src: 539
+  - dst: 111
+    src: 551
+  - dst: 318
+    src: 588
+  - dst: 706
+    src: 616
+  - dst: 673
+    src: 666
+  - dst: 727
+    src: 694
+  - dst: 732
+    src: 705
+  - dst: 705
+    src: 737
+  - dst: 746
+    src: 748
+  - dst: 780
+    src: 757
+  - dst: 778
+    src: 758
+  - dst: 748
+    src: 765
+  - dst: 783
+    src: 770
+  - dst: 757
+    src: 772
+  - dst: 790
+    src: 792
+  - dst: 332
+    src: 34
+  - dst: 553
+    src: 38
+  - dst: 222
+    src: 107
+  - dst: 612
+    src: 214
+  - dst: 228
+    src: 603
+  - dst: 591
+    src: 712
+  - dst: 770
+    src: 755
+  - dst: 628
+    src: 37
+  - dst: 502
+    src: 57
+  - dst: 458
+    src: 62
+  - dst: 425
+    src: 65
+  - dst: 403
+    src: 68
+  - dst: 525
+    src: 73
+  - dst: 218
+    src: 96
+  - dst: 419
+    src: 217
+  - dst: 436
+    src: 226
+  - dst: 622
+    src: 240
+  - dst: 596
+    src: 252
+  - dst: 565
+    src: 284
+  - dst: 344
+    src: 450
+  - dst: 1
+    src: 468
+  - dst: 345
+    src: 470
+  - dst: 349
+    src: 478
+  - dst: 287
+    src: 495
+  - dst: 299
+    src: 502
+  - dst: 323
+    src: 503
+  - dst: 260
+    src: 526
+  - dst: 259
+    src: 527
+  - dst: 295
+    src: 531
+  - dst: 658
+    src: 555
+  - dst: 690
+    src: 697
+  - dst: 679
+    src: 714
+  - dst: 659
+    src: 752
+  - dst: 751
+    src: 756
+  - dst: 772
+    src: 779
+  - dst: 613
+    src: 50
+  - dst: 296
+    src: 77
+  - dst: 234
+    src: 182
+  - dst: 121
+    src: 223
+  - dst: 315
+    src: 504
+  - dst: 569
+    src: 52
+  - dst: 202
+    src: 120
+  - dst: 204
+    src: 145
+  - dst: 547
+    src: 229
+  - dst: 48
+    src: 230
+  - dst: 441
+    src: 367
+  - dst: 285
+    src: 629
+  - dst: 561
+    src: 53
+  - dst: 67
+    src: 151
+  - dst: 258
+    src: 165
+  - dst: 529
+    src: 289
+  - dst: 516
+    src: 299
+  - dst: 407
+    src: 557
+  - dst: 685
+    src: 672
+  - dst: 392
+    src: 686
+  - dst: 606
+    src: 75
+  - dst: 19
+    src: 207
+  - dst: 466
+    src: 340
+  - dst: 406
+    src: 350
+  - dst: 411
+    src: 385
+  - dst: 160
+    src: 134
+  - dst: 231
+    src: 237
+  - dst: 597
+    src: 251
+  - dst: 542
+    src: 280
+  - dst: 527
+    src: 290
+  - dst: 489
+    src: 306
+  - dst: 446
+    src: 337
+  - dst: 109
+    src: 414
+  - dst: 113
+    src: 419
+  - dst: 100
+    src: 422
+  - dst: 127
+    src: 433
+  - dst: 128
+    src: 434
+  - dst: 144
+    src: 441
+  - dst: 554
+    src: 498
+  - dst: 87
+    src: 513
+  - dst: 681
+    src: 532
+  - dst: 312
+    src: 542
+  - dst: 112
+    src: 552
+  - dst: 114
+    src: 553
+  - dst: 65
+    src: 554
+  - dst: 692
+    src: 567
+  - dst: 63
+    src: 570
+  - dst: 227
+    src: 584
+  - dst: 643
+    src: 656
+  - dst: 775
+    src: 681
+  - dst: 721
+    src: 708
+  - dst: 750
+    src: 715
+  - dst: 740
+    src: 716
+  - dst: 766
+    src: 762
+  - dst: 333
+    src: 163
+  - dst: 570
+    src: 202
+  - dst: 602
+    src: 224
+  - dst: 405
+    src: 332
+  - dst: 703
+    src: 595
+  - dst: 781
+    src: 769
+  - dst: 794
+    src: 776
+  dst: '42'
+  src: '40'
+  is_3D: true
+- score_3d: 6.85
+  inliers:
+  - dst: 176
+    src: 0
+  - dst: 219
+    src: 18
+  - dst: 286
+    src: 84
+  - dst: 472
+    src: 110
+  - dst: 303
+    src: 161
+  - dst: 281
+    src: 224
+  - dst: 565
+    src: 380
+  - dst: 144
+    src: 425
+  - dst: 152
+    src: 428
+  - dst: 397
+    src: 494
+  - dst: 235
+    src: 55
+  - dst: 202
+    src: 399
+  - dst: 758
+    src: 775
+  - dst: 641
+    src: 791
+  - dst: 650
+    src: 66
+  - dst: 675
+    src: 442
+  - dst: 111
+    src: 563
+  - dst: 53
+    src: 607
+  - dst: 402
+    src: 629
+  - dst: 205
+    src: 19
+  - dst: 727
+    src: 195
+  - dst: 267
+    src: 86
+  - dst: 666
+    src: 505
+  - dst: 770
+    src: 738
+  - dst: 787
+    src: 784
+  - dst: 186
+    src: 25
+  - dst: 173
+    src: 30
+  - dst: 293
+    src: 266
+  - dst: 658
+    src: 328
+  - dst: 520
+    src: 341
+  - dst: 563
+    src: 351
+  - dst: 165
+    src: 398
+  - dst: 239
+    src: 71
+  - dst: 309
+    src: 194
+  - dst: 332
+    src: 215
+  - dst: 350
+    src: 218
+  - dst: 192
+    src: 359
+  - dst: 197
+    src: 378
+  - dst: 455
+    src: 512
+  - dst: 50
+    src: 526
+  - dst: 63
+    src: 528
+  - dst: 74
+    src: 541
+  - dst: 221
+    src: 38
+  - dst: 175
+    src: 43
+  - dst: 264
+    src: 51
+  - dst: 212
+    src: 92
+  - dst: 316
+    src: 181
+  - dst: 306
+    src: 209
+  - dst: 276
+    src: 275
+  - dst: 204
+    src: 363
+  - dst: 214
+    src: 367
+  - dst: 148
+    src: 390
+  - dst: 83
+    src: 485
+  - dst: 52
+    src: 525
+  - dst: 47
+    src: 527
+  - dst: 93
+    src: 562
+  - dst: 246
+    src: 54
+  - dst: 642
+    src: 113
+  - dst: 158
+    src: 410
+  - dst: 105
+    src: 470
+  - dst: 31
+    src: 493
+  - dst: 42
+    src: 615
+  - dst: 334
+    src: 103
+  - dst: 324
+    src: 105
+  - dst: 521
+    src: 115
+  - dst: 301
+    src: 146
+  - dst: 354
+    src: 232
+  - dst: 434
+    src: 123
+  - dst: 380
+    src: 197
+  - dst: 346
+    src: 216
+  - dst: 242
+    src: 244
+  - dst: 573
+    src: 317
+  - dst: 577
+    src: 336
+  - dst: 77
+    src: 511
+  - dst: 394
+    src: 524
+  - dst: 393
+    src: 537
+  - dst: 86
+    src: 588
+  - dst: 651
+    src: 28
+  - dst: 285
+    src: 83
+  - dst: 266
+    src: 85
+  - dst: 449
+    src: 87
+  - dst: 537
+    src: 126
+  - dst: 755
+    src: 277
+  - dst: 544
+    src: 366
+  - dst: 780
+    src: 744
+  - dst: 545
+    src: 72
+  - dst: 430
+    src: 107
+  - dst: 272
+    src: 111
+  - dst: 509
+    src: 114
+  - dst: 442
+    src: 192
+  - dst: 480
+    src: 207
+  - dst: 587
+    src: 301
+  - dst: 263
+    src: 305
+  - dst: 625
+    src: 333
+  - dst: 41
+    src: 538
+  - dst: 96
+    src: 546
+  - dst: 234
+    src: 37
+  - dst: 451
+    src: 69
+  - dst: 338
+    src: 98
+  - dst: 447
+    src: 124
+  - dst: 408
+    src: 168
+  - dst: 279
+    src: 263
+  - dst: 670
+    src: 346
+  - dst: 525
+    src: 459
+  - dst: 104
+    src: 514
+  - dst: 16
+    src: 557
+  - dst: 310
+    src: 120
+  - dst: 296
+    src: 254
+  - dst: 274
+    src: 276
+  - dst: 359
+    src: 412
+  - dst: 119
+    src: 471
+  - dst: 665
+    src: 503
+  - dst: 764
+    src: 139
+  - dst: 150
+    src: 519
+  - dst: 385
+    src: 522
+  - dst: 693
+    src: 786
+  - dst: 582
+    src: 59
+  - dst: 311
+    src: 121
+  - dst: 356
+    src: 199
+  - dst: 423
+    src: 227
+  - dst: 453
+    src: 278
+  - dst: 517
+    src: 285
+  - dst: 217
+    src: 338
+  - dst: 567
+    src: 382
+  - dst: 676
+    src: 411
+  - dst: 200
+    src: 417
+  - dst: 681
+    src: 443
+  - dst: 701
+    src: 732
+  - dst: 578
+    src: 60
+  - dst: 617
+    src: 65
+  - dst: 489
+    src: 306
+  - dst: 715
+    src: 365
+  - dst: 644
+    src: 374
+  - dst: 750
+    src: 768
+  - dst: 728
+    src: 793
+  - dst: 193
+    src: 458
+  - dst: 790
+    src: 763
+  dst: '47'
+  src: '41'
+  is_3D: true
+- score_3d: 6.95
+  inliers:
+  - dst: 385
+    src: 170
+  - dst: 614
+    src: 552
+  - dst: 362
+    src: 646
+  - dst: 158
+    src: 1
+  - dst: 263
+    src: 301
+  - dst: 224
+    src: 313
+  - dst: 216
+    src: 314
+  - dst: 213
+    src: 325
+  - dst: 454
+    src: 361
+  - dst: 157
+    src: 365
+  - dst: 424
+    src: 566
+  - dst: 278
+    src: 70
+  - dst: 306
+    src: 97
+  - dst: 334
+    src: 98
+  - dst: 368
+    src: 154
+  - dst: 750
+    src: 263
+  - dst: 150
+    src: 349
+  - dst: 473
+    src: 430
+  - dst: 271
+    src: 433
+  - dst: 286
+    src: 499
+  - dst: 556
+    src: 509
+  - dst: 288
+    src: 465
+  - dst: 73
+    src: 489
+  - dst: 592
+    src: 690
+  - dst: 558
+    src: 715
+  - dst: 791
+    src: 756
+  - dst: 316
+    src: 109
+  - dst: 507
+    src: 483
+  - dst: 699
+    src: 503
+  - dst: 404
+    src: 597
+  - dst: 287
+    src: 94
+  - dst: 326
+    src: 115
+  - dst: 367
+    src: 153
+  - dst: 129
+    src: 331
+  - dst: 795
+    src: 389
+  - dst: 484
+    src: 434
+  - dst: 292
+    src: 452
+  - dst: 496
+    src: 482
+  - dst: 285
+    src: 493
+  - dst: 517
+    src: 776
+  - dst: 719
+    src: 227
+  - dst: 305
+    src: 275
+  - dst: 511
+    src: 449
+  - dst: 491
+    src: 466
+  - dst: 498
+    src: 492
+  - dst: 732
+    src: 531
+  - dst: 431
+    src: 537
+  - dst: 662
+    src: 544
+  - dst: 655
+    src: 720
+  - dst: 561
+    src: 732
+  - dst: 775
+    src: 755
+  - dst: 757
+    src: 769
+  - dst: 781
+    src: 780
+  - dst: 541
+    src: 781
+  - dst: 312
+    src: 103
+  - dst: 261
+    src: 302
+  - dst: 146
+    src: 350
+  - dst: 209
+    src: 24
+  - dst: 240
+    src: 43
+  - dst: 347
+    src: 129
+  - dst: 389
+    src: 174
+  - dst: 390
+    src: 175
+  - dst: 333
+    src: 221
+  - dst: 50
+    src: 249
+  - dst: 67
+    src: 268
+  - dst: 86
+    src: 276
+  - dst: 106
+    src: 292
+  - dst: 249
+    src: 294
+  - dst: 579
+    src: 412
+  - dst: 490
+    src: 457
+  - dst: 265
+    src: 79
+  - dst: 383
+    src: 167
+  - dst: 66
+    src: 253
+  - dst: 197
+    src: 392
+  - dst: 681
+    src: 650
+  - dst: 208
+    src: 307
+  - dst: 474
+    src: 425
+  - dst: 359
+    src: 589
+  - dst: 695
+    src: 747
+  - dst: 254
+    src: 81
+  - dst: 361
+    src: 203
+  - dst: 93
+    src: 279
+  - dst: 104
+    src: 357
+  - dst: 542
+    src: 420
+  - dst: 478
+    src: 451
+  - dst: 335
+    src: 246
+  - dst: 4
+    src: 413
+  - dst: 468
+    src: 417
+  - dst: 509
+    src: 569
+  - dst: 745
+    src: 642
+  - dst: 282
+    src: 78
+  - dst: 283
+    src: 463
+  - dst: 503
+    src: 662
+  - dst: 396
+    src: 674
+  - dst: 415
+    src: 773
+  - dst: 360
+    src: 205
+  - dst: 272
+    src: 258
+  - dst: 522
+    src: 450
+  - dst: 497
+    src: 454
+  - dst: 313
+    src: 522
+  - dst: 465
+    src: 548
+  - dst: 554
+    src: 564
+  - dst: 9
+    src: 200
+  - dst: 83
+    src: 271
+  - dst: 229
+    src: 311
+  - dst: 673
+    src: 423
+  - dst: 472
+    src: 429
+  - dst: 687
+    src: 517
+  - dst: 605
+    src: 772
+  - dst: 323
+    src: 121
+  - dst: 371
+    src: 177
+  - dst: 101
+    src: 274
+  - dst: 200
+    src: 310
+  - dst: 752
+    src: 485
+  - dst: 82
+    src: 490
+  - dst: 36
+    src: 558
+  - dst: 339
+    src: 133
+  - dst: 378
+    src: 186
+  - dst: 331
+    src: 237
+  - dst: 330
+    src: 248
+  - dst: 95
+    src: 280
+  - dst: 115
+    src: 293
+  - dst: 620
+    src: 563
+  - dst: 356
+    src: 155
+  - dst: 350
+    src: 219
+  - dst: 276
+    src: 269
+  - dst: 116
+    src: 283
+  - dst: 512
+    src: 440
+  - dst: 264
+    src: 456
+  - dst: 506
+    src: 472
+  - dst: 332
+    src: 519
+  - dst: 593
+    src: 551
+  - dst: 536
+    src: 565
+  - dst: 761
+    src: 627
+  - dst: 386
+    src: 628
+  - dst: 379
+    src: 640
+  - dst: 384
+    src: 655
+  - dst: 489
+    src: 488
+  - dst: 520
+    src: 512
+  dst: '49'
+  src: '47'
+  is_3D: true
+- score_3d: 7.05
+  inliers:
+  - dst: 352
+    src: 588
+  - dst: 742
+    src: 368
+  - dst: 228
+    src: 436
+  - dst: 343
+    src: 462
+  - dst: 345
+    src: 513
+  - dst: 441
+    src: 323
+  - dst: 181
+    src: 344
+  - dst: 402
+    src: 404
+  - dst: 220
+    src: 428
+  - dst: 272
+    src: 498
+  - dst: 779
+    src: 623
+  - dst: 724
+    src: 661
+  - dst: 733
+    src: 684
+  - dst: 728
+    src: 757
+  - dst: 476
+    src: 243
+  - dst: 505
+    src: 209
+  - dst: 458
+    src: 272
+  - dst: 323
+    src: 467
+  - dst: 743
+    src: 609
+  - dst: 557
+    src: 140
+  - dst: 618
+    src: 174
+  - dst: 455
+    src: 251
+  - dst: 775
+    src: 648
+  - dst: 105
+    src: 258
+  - dst: 126
+    src: 268
+  - dst: 139
+    src: 298
+  - dst: 401
+    src: 376
+  - dst: 205
+    src: 377
+  - dst: 376
+    src: 418
+  - dst: 561
+    src: 130
+  - dst: 404
+    src: 343
+  - dst: 388
+    src: 365
+  - dst: 374
+    src: 398
+  - dst: 371
+    src: 427
+  - dst: 370
+    src: 432
+  - dst: 264
+    src: 488
+  - dst: 314
+    src: 541
+  - dst: 595
+    src: 58
+  - dst: 503
+    src: 183
+  - dst: 492
+    src: 225
+  - dst: 214
+    src: 437
+  - dst: 241
+    src: 455
+  - dst: 242
+    src: 456
+  - dst: 182
+    src: 346
+  - dst: 364
+    src: 417
+  - dst: 798
+    src: 611
+  - dst: 776
+    src: 753
+  - dst: 61
+    src: 187
+  - dst: 331
+    src: 459
+  - dst: 751
+    src: 617
+  - dst: 738
+    src: 704
+  - dst: 739
+    src: 774
+  - dst: 577
+    src: 70
+  - dst: 543
+    src: 146
+  - dst: 35
+    src: 157
+  - dst: 534
+    src: 164
+  - dst: 507
+    src: 198
+  - dst: 462
+    src: 289
+  - dst: 432
+    src: 330
+  - dst: 243
+    src: 457
+  - dst: 283
+    src: 526
+  - dst: 40
+    src: 172
+  - dst: 456
+    src: 250
+  - dst: 556
+    src: 114
+  - dst: 558
+    src: 139
+  - dst: 91
+    src: 230
+  - dst: 115
+    src: 254
+  - dst: 454
+    src: 279
+  - dst: 407
+    src: 333
+  - dst: 215
+    src: 420
+  - dst: 372
+    src: 444
+  - dst: 239
+    src: 453
+  - dst: 330
+    src: 508
+  - dst: 329
+    src: 556
+  - dst: 707
+    src: 563
+  - dst: 145
+    src: 135
+  - dst: 726
+    src: 173
+  - dst: 713
+    src: 286
+  - dst: 130
+    src: 287
+  - dst: 140
+    src: 299
+  - dst: 153
+    src: 313
+  - dst: 792
+    src: 314
+  - dst: 219
+    src: 411
+  - dst: 273
+    src: 500
+  - dst: 701
+    src: 640
+  - dst: 63
+    src: 206
+  - dst: 90
+    src: 229
+  - dst: 459
+    src: 271
+  - dst: 425
+    src: 295
+  - dst: 149
+    src: 309
+  - dst: 174
+    src: 335
+  - dst: 426
+    src: 340
+  - dst: 190
+    src: 361
+  - dst: 173
+    src: 362
+  - dst: 390
+    src: 363
+  - dst: 203
+    src: 374
+  - dst: 353
+    src: 447
+  - dst: 240
+    src: 454
+  - dst: 276
+    src: 482
+  - dst: 258
+    src: 483
+  - dst: 260
+    src: 485
+  - dst: 294
+    src: 537
+  - dst: 295
+    src: 538
+  - dst: 320
+    src: 549
+  - dst: 428
+    src: 310
+  - dst: 405
+    src: 342
+  - dst: 375
+    src: 397
+  - dst: 360
+    src: 445
+  - dst: 336
+    src: 528
+  - dst: 315
+    src: 558
+  - dst: 477
+    src: 240
+  - dst: 101
+    src: 244
+  - dst: 429
+    src: 308
+  - dst: 718
+    src: 337
+  - dst: 161
+    src: 339
+  - dst: 238
+    src: 451
+  - dst: 259
+    src: 484
+  - dst: 296
+    src: 525
+  - dst: 735
+    src: 614
+  - dst: 745
+    src: 621
+  - dst: 757
+    src: 626
+  - dst: 127
+    src: 647
+  - dst: 784
+    src: 761
+  - dst: 75
+    src: 200
+  - dst: 86
+    src: 211
+  - dst: 772
+    src: 241
+  - dst: 193
+    src: 385
+  - dst: 194
+    src: 386
+  - dst: 216
+    src: 421
+  - dst: 244
+    src: 458
+  - dst: 342
+    src: 474
+  - dst: 504
+    src: 210
+  - dst: 93
+    src: 232
+  - dst: 734
+    src: 307
+  - dst: 418
+    src: 355
+  - dst: 387
+    src: 367
+  - dst: 363
+    src: 394
+  - dst: 373
+    src: 403
+  - dst: 379
+    src: 410
+  - dst: 346
+    src: 443
+  - dst: 118
+    src: 641
+  dst: '51'
+  src: '48'
+  is_3D: true
+- score_3d: 6.0
+  inliers:
+  - dst: 494
+    src: 284
+  - dst: 729
+    src: 319
+  - dst: 592
+    src: 355
+  - dst: 644
+    src: 377
+  - dst: 695
+    src: 614
+  - dst: 780
+    src: 686
+  - dst: 75
+    src: 157
+  - dst: 85
+    src: 158
+  - dst: 285
+    src: 215
+  - dst: 288
+    src: 216
+  - dst: 563
+    src: 263
+  - dst: 719
+    src: 280
+  - dst: 90
+    src: 454
+  - dst: 777
+    src: 696
+  - dst: 297
+    src: 120
+  - dst: 114
+    src: 167
+  - dst: 556
+    src: 261
+  - dst: 530
+    src: 312
+  - dst: 651
+    src: 636
+  - dst: 624
+    src: 273
+  - dst: 721
+    src: 289
+  - dst: 734
+    src: 298
+  - dst: 703
+    src: 337
+  - dst: 663
+    src: 431
+  - dst: 704
+    src: 493
+  - dst: 372
+    src: 586
+  - dst: 669
+    src: 655
+  - dst: 679
+    src: 719
+  - dst: 323
+    src: 140
+  - dst: 313
+    src: 142
+  - dst: 267
+    src: 212
+  - dst: 387
+    src: 220
+  - dst: 388
+    src: 221
+  - dst: 728
+    src: 335
+  - dst: 279
+    src: 728
+  - dst: 595
+    src: 745
+  - dst: 39
+    src: 150
+  - dst: 364
+    src: 192
+  - dst: 527
+    src: 278
+  - dst: 567
+    src: 334
+  - dst: 600
+    src: 368
+  - dst: 783
+    src: 559
+  - dst: 47
+    src: 133
+  - dst: 326
+    src: 163
+  - dst: 358
+    src: 186
+  - dst: 375
+    src: 202
+  - dst: 487
+    src: 247
+  - dst: 732
+    src: 325
+  - dst: 566
+    src: 347
+  - dst: 620
+    src: 390
+  - dst: 241
+    src: 579
+  - dst: 289
+    src: 226
+  - dst: 302
+    src: 229
+  - dst: 298
+    src: 472
+  - dst: 699
+    src: 605
+  - dst: 427
+    src: 228
+  - dst: 696
+    src: 348
+  - dst: 228
+    src: 410
+  - dst: 550
+    src: 479
+  - dst: 585
+    src: 606
+  - dst: 776
+    src: 763
+  - dst: 262
+    src: 103
+  - dst: 538
+    src: 321
+  - dst: 684
+    src: 360
+  - dst: 300
+    src: 449
+  - dst: 568
+    src: 465
+  - dst: 528
+    src: 497
+  - dst: 518
+    src: 522
+  - dst: 598
+    src: 683
+  - dst: 295
+    src: 733
+  - dst: 576
+    src: 248
+  - dst: 341
+    src: 615
+  - dst: 451
+    src: 259
+  - dst: 638
+    src: 381
+  - dst: 633
+    src: 382
+  - dst: 670
+    src: 427
+  - dst: 373
+    src: 463
+  - dst: 535
+    src: 526
+  - dst: 236
+    src: 74
+  - dst: 281
+    src: 200
+  - dst: 390
+    src: 223
+  - dst: 580
+    src: 345
+  - dst: 589
+    src: 351
+  - dst: 469
+    src: 540
+  - dst: 716
+    src: 560
+  - dst: 259
+    src: 88
+  - dst: 715
+    src: 330
+  - dst: 714
+    src: 331
+  - dst: 352
+    src: 618
+  - dst: 546
+    src: 256
+  - dst: 488
+    src: 264
+  - dst: 520
+    src: 300
+  - dst: 617
+    src: 365
+  - dst: 613
+    src: 384
+  - dst: 634
+    src: 387
+  - dst: 499
+    src: 510
+  - dst: 497
+    src: 512
+  - dst: 506
+    src: 523
+  - dst: 787
+    src: 565
+  - dst: 668
+    src: 646
+  - dst: 294
+    src: 703
+  - dst: 778
+    src: 748
+  - dst: 321
+    src: 138
+  - dst: 340
+    src: 159
+  - dst: 445
+    src: 251
+  - dst: 529
+    src: 311
+  - dst: 543
+    src: 329
+  - dst: 639
+    src: 380
+  - dst: 629
+    src: 383
+  - dst: 283
+    src: 439
+  - dst: 224
+    src: 483
+  - dst: 235
+    src: 790
+  - dst: 747
+    src: 288
+  - dst: 548
+    src: 316
+  - dst: 674
+    src: 358
+  - dst: 654
+    src: 364
+  - dst: 637
+    src: 404
+  - dst: 243
+    src: 208
+  - dst: 697
+    src: 359
+  - dst: 525
+    src: 290
+  dst: '50'
+  src: '49'
+  is_3D: true
+- score_3d: 5.75
+  inliers:
+  - dst: 266
+    src: 146
+  - dst: 539
+    src: 363
+  - dst: 211
+    src: 537
+  - dst: 306
+    src: 180
+  - dst: 790
+    src: 223
+  - dst: 418
+    src: 280
+  - dst: 504
+    src: 327
+  - dst: 95
+    src: 578
+  - dst: 732
+    src: 775
+  - dst: 501
+    src: 781
+  - dst: 386
+    src: 508
+  - dst: 77
+    src: 591
+  - dst: 290
+    src: 162
+  - dst: 441
+    src: 303
+  - dst: 461
+    src: 308
+  - dst: 180
+    src: 548
+  - dst: 733
+    src: 792
+  - dst: 644
+    src: 361
+  - dst: 648
+    src: 442
+  - dst: 204
+    src: 530
+  - dst: 137
+    src: 557
+  - dst: 4
+    src: 13
+  - dst: 355
+    src: 19
+  - dst: 160
+    src: 45
+  - dst: 217
+    src: 96
+  - dst: 70
+    src: 203
+  - dst: 527
+    src: 353
+  - dst: 683
+    src: 448
+  - dst: 409
+    src: 501
+  - dst: 354
+    src: 516
+  - dst: 472
+    src: 520
+  - dst: 79
+    src: 590
+  - dst: 43
+    src: 613
+  - dst: 188
+    src: 759
+  - dst: 731
+    src: 787
+  - dst: 1
+    src: 9
+  - dst: 2
+    src: 10
+  - dst: 175
+    src: 70
+  - dst: 215
+    src: 95
+  - dst: 329
+    src: 189
+  - dst: 332
+    src: 210
+  - dst: 372
+    src: 235
+  - dst: 454
+    src: 283
+  - dst: 529
+    src: 340
+  - dst: 556
+    src: 377
+  - dst: 652
+    src: 445
+  - dst: 431
+    src: 746
+  - dst: 707
+    src: 770
+  - dst: 244
+    src: 130
+  - dst: 694
+    src: 217
+  - dst: 342
+    src: 218
+  - dst: 565
+    src: 372
+  - dst: 212
+    src: 536
+  - dst: 179
+    src: 549
+  - dst: 166
+    src: 78
+  - dst: 250
+    src: 88
+  - dst: 122
+    src: 137
+  - dst: 155
+    src: 764
+  - dst: 505
+    src: 328
+  - dst: 150
+    src: 53
+  - dst: 161
+    src: 72
+  - dst: 296
+    src: 173
+  - dst: 477
+    src: 307
+  - dst: 511
+    src: 320
+  - dst: 702
+    src: 486
+  - dst: 172
+    src: 47
+  - dst: 475
+    src: 317
+  - dst: 503
+    src: 326
+  - dst: 82
+    src: 345
+  - dst: 568
+    src: 375
+  - dst: 611
+    src: 393
+  - dst: 599
+    src: 405
+  - dst: 647
+    src: 423
+  - dst: 187
+    src: 62
+  - dst: 163
+    src: 51
+  - dst: 173
+    src: 68
+  - dst: 190
+    src: 84
+  - dst: 203
+    src: 99
+  - dst: 258
+    src: 142
+  - dst: 294
+    src: 171
+  - dst: 320
+    src: 182
+  - dst: 420
+    src: 266
+  - dst: 666
+    src: 449
+  - dst: 574
+    src: 469
+  - dst: 72
+    src: 589
+  - dst: 295
+    src: 797
+  - dst: 186
+    src: 61
+  - dst: 292
+    src: 147
+  - dst: 583
+    src: 788
+  - dst: 699
+    src: 793
+  - dst: 758
+    src: 798
+  - dst: 530
+    src: 341
+  - dst: 243
+    src: 112
+  - dst: 507
+    src: 330
+  - dst: 576
+    src: 387
+  - dst: 577
+    src: 388
+  - dst: 630
+    src: 436
+  - dst: 634
+    src: 439
+  - dst: 252
+    src: 526
+  - dst: 73
+    src: 595
+  - dst: 264
+    src: 144
+  - dst: 334
+    src: 194
+  - dst: 327
+    src: 206
+  - dst: 371
+    src: 233
+  - dst: 397
+    src: 250
+  - dst: 413
+    src: 262
+  - dst: 451
+    src: 300
+  - dst: 248
+    src: 528
+  - dst: 177
+    src: 538
+  - dst: 116
+    src: 564
+  - dst: 103
+    src: 568
+  - dst: 76
+    src: 575
+  - dst: 61
+    src: 344
+  - dst: 176
+    src: 550
+  - dst: 453
+    src: 776
+  dst: '51'
+  src: '50'
+  is_3D: true
+data_type: PairwiseImageGraph
+version: 0
+views:
+- id: '0'
+  total_observations: 800
+  connections: []
+- id: '1'
+  total_observations: 800
+  connections:
+  - 0
+- id: '2'
+  total_observations: 800
+  connections:
+  - 1
+  - 2
+  - 3
+- id: '3'
+  total_observations: 800
+  connections:
+  - 1
+- id: '4'
+  total_observations: 800
+  connections:
+  - 4
+- id: '5'
+  total_observations: 800
+  connections:
+  - 4
+  - 5
+  - 6
+- id: '6'
+  total_observations: 800
+  connections:
+  - 5
+  - 7
+  - 8
+  - 9
+- id: '7'
+  total_observations: 800
+  connections:
+  - 7
+  - 10
+  - 11
+- id: '8'
+  total_observations: 800
+  connections:
+  - 2
+  - 10
+- id: '9'
+  total_observations: 800
+  connections:
+  - 12
+- id: '10'
+  total_observations: 800
+  connections: []
+- id: '11'
+  total_observations: 800
+  connections: []
+- id: '12'
+  total_observations: 800
+  connections:
+  - 13
+  - 14
+- id: '13'
+  total_observations: 800
+  connections: []
+- id: '14'
+  total_observations: 800
+  connections:
+  - 12
+  - 15
+  - 16
+  - 17
+  - 18
+- id: '15'
+  total_observations: 800
+  connections:
+  - 15
+  - 19
+- id: '16'
+  total_observations: 800
+  connections:
+  - 19
+- id: '17'
+  total_observations: 800
+  connections:
+  - 20
+  - 21
+- id: '18'
+  total_observations: 800
+  connections:
+  - 14
+- id: '19'
+  total_observations: 800
+  connections:
+  - 13
+  - 22
+- id: '20'
+  total_observations: 758
+  connections: []
+- id: '21'
+  total_observations: 800
+  connections:
+  - 16
+- id: '22'
+  total_observations: 800
+  connections: []
+- id: '23'
+  total_observations: 800
+  connections:
+  - 20
+- id: '24'
+  total_observations: 800
+  connections:
+  - 21
+- id: '25'
+  total_observations: 800
+  connections:
+  - 22
+  - 23
+- id: '26'
+  total_observations: 800
+  connections:
+  - 24
+- id: '27'
+  total_observations: 800
+  connections: []
+- id: '28'
+  total_observations: 800
+  connections:
+  - 25
+- id: '29'
+  total_observations: 800
+  connections:
+  - 23
+  - 24
+- id: '30'
+  total_observations: 800
+  connections:
+  - 25
+  - 26
+- id: '31'
+  total_observations: 800
+  connections:
+  - 26
+- id: '32'
+  total_observations: 800
+  connections: []
+- id: '33'
+  total_observations: 800
+  connections: []
+- id: '34'
+  total_observations: 800
+  connections:
+  - 27
+- id: '35'
+  total_observations: 800
+  connections: []
+- id: '36'
+  total_observations: 800
+  connections:
+  - 28
+- id: '37'
+  total_observations: 800
+  connections:
+  - 28
+  - 29
+- id: '38'
+  total_observations: 800
+  connections:
+  - 30
+- id: '39'
+  total_observations: 800
+  connections:
+  - 30
+- id: '40'
+  total_observations: 800
+  connections:
+  - 27
+  - 31
+- id: '41'
+  total_observations: 800
+  connections:
+  - 3
+  - 32
+- id: '42'
+  total_observations: 800
+  connections:
+  - 31
+- id: '43'
+  total_observations: 800
+  connections: []
+- id: '44'
+  total_observations: 800
+  connections:
+  - 29
+- id: '45'
+  total_observations: 783
+  connections: []
+- id: '46'
+  total_observations: 800
+  connections: []
+- id: '47'
+  total_observations: 800
+  connections:
+  - 6
+  - 8
+  - 11
+  - 17
+  - 32
+  - 33
+- id: '48'
+  total_observations: 800
+  connections:
+  - 0
+  - 34
+- id: '49'
+  total_observations: 800
+  connections:
+  - 9
+  - 18
+  - 33
+  - 35
+- id: '50'
+  total_observations: 800
+  connections:
+  - 35
+  - 36
+- id: '51'
+  total_observations: 800
+  connections:
+  - 34
+  - 36
