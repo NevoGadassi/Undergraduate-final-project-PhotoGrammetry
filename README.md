@@ -18,7 +18,6 @@ The project focuses on using photogrammetry techniques to create 3D models from 
 - `CloudCompare_v2.13.1_bin_x64/`: Contains the CloudCompare software binaries.
 - `boofcv/`: Contains the BoofCV library and related files.
 - `clouds_finalpart/`: Contains the final part of the project related to point clouds.
-- `boofcv1/`: Contains additional BoofCV resources.
 - `Project_book.pdf`: Documentation and detailed report of the project.
 - `photogrammetry.py`: Python script for the photogrammetry process.
 
