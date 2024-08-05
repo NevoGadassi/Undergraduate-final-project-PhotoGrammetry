@@ -34,11 +34,12 @@ The project focuses on using photogrammetry techniques to create 3D models from 
    git clone https://github.com/NevoGadassi/Undergraduate-final-project-PhotoGrammetry.git
 2. Install the required Python packages:
    ```sh
-pip install -r requirements.txt
+   pip install -r requirements.txt
 ## Usage
 1.Run the photogrammetry script:
-   ```sh
-python photogrammetry.py
+      ```sh
+      
+      python photogrammetry.py
 2.Follow the instructions in the script to process your images and generate 3D models.
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
